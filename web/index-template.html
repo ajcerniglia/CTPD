@@ -1,0 +1,265 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Draft statewide lookup between Ohio Census ZIP Code Tabulation Areas and Career-Technical Planning Districts.">
+  <title>Ohio ZIP to CTPD Explorer</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --background: light-dark(#ffffff, #111315);
+      --foreground: light-dark(#1d2228, #f0f2f4);
+      --card: light-dark(#f4f4f2, #202428);
+      --muted: light-dark(#e7e7e4, #2a3035);
+      --muted-foreground: light-dark(#68717a, #adb5bd);
+      --border: light-dark(#c9ced3, #4b535b);
+      --accent: light-dark(#dce9f6, #263d55);
+      --button: light-dark(#202328, #f0f2f4);
+      --button-foreground: light-dark(#ffffff, #14171a);
+      --series-1: #4f91e8;
+      --series-2: #df8b42;
+      --series-3: #69ad65;
+      --series-4: #a27bd4;
+      --series-5: #d26074;
+      --series-6: #c3a93f;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--foreground);
+      background: var(--background);
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--background); color: var(--foreground); }
+    button, input, a { font: inherit; }
+    button, a.button {
+      min-height: 38px;
+      padding: 7px 12px;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: var(--background);
+      color: var(--foreground);
+      text-decoration: none;
+    }
+    button.primary { background: var(--button); color: var(--button-foreground); border-color: var(--button); }
+    button:hover, a.button:hover { background: var(--accent); color: var(--foreground); }
+    button:focus-visible, input:focus-visible, a:focus-visible { outline: 3px solid var(--series-1); outline-offset: 2px; }
+    .page { max-width: 1320px; margin: 0 auto; padding: 20px; }
+    .header { display:flex; justify-content:space-between; align-items:end; gap:16px; flex-wrap:wrap; margin-bottom:14px; }
+    h1 { font-size: clamp(1.35rem, 2vw, 1.85rem); font-weight: 600; line-height: 1.2; margin: 0; }
+    h2 { font-size: 1.2rem; font-weight: 600; margin: 0 0 4px; }
+    .sub, .note { color:var(--muted-foreground); }
+    .sub { margin-top: 5px; }
+    .small { font-size: .84rem; line-height: 1.45; }
+    .search { display:flex; align-items:end; gap:8px; flex-wrap:wrap; }
+    .field { display:flex; flex-direction:column; gap:4px; min-width:150px; font-size:.85rem; }
+    input {
+      width: 100%; min-height: 38px; padding: 7px 10px;
+      border: 1px solid var(--border); border-radius: 8px;
+      background: var(--background); color: var(--foreground);
+    }
+    .layout { display:grid; grid-template-columns:minmax(0, 1.8fr) minmax(280px, .8fr); gap:16px; align-items:start; }
+    .map-wrap { position:relative; min-width:0; }
+    svg { width:100%; height:auto; display:block; background:var(--muted); border-radius: 10px; }
+    .ctpd { fill:var(--background); stroke:var(--muted-foreground); stroke-width:.45; vector-effect:non-scaling-stroke; }
+    .zcta { fill:transparent; stroke:var(--border); stroke-width:.32; vector-effect:non-scaling-stroke; }
+    .zcta:hover { fill:var(--accent); }
+    .selected-outline { fill:none; stroke:var(--foreground); stroke-width:2.2; vector-effect:non-scaling-stroke; pointer-events:none; }
+    .map-tools { position:absolute; left:8px; top:8px; display:flex; gap:4px; }
+    .map-tools button { min-width:38px; padding-inline:10px; background:var(--background); }
+    .detail { min-width:0; padding:16px; background:var(--card); border-radius:14px; }
+    .detail-note { margin-bottom:14px; }
+    .result { margin-bottom:14px; }
+    .result-head { display:flex; justify-content:space-between; gap:8px; align-items:baseline; }
+    .result-name { display:flex; gap:8px; min-width:0; }
+    .swatch { width:10px; height:10px; flex:0 0 auto; margin-top:5px; background:var(--series); }
+    .bar { height:7px; background:var(--muted); margin-top:6px; overflow:hidden; }
+    .bar > span { display:block; height:100%; width:var(--share); background:var(--series); }
+    .pct { white-space:nowrap; font-variant-numeric: tabular-nums; }
+    .legend { display:flex; flex-wrap:wrap; gap:12px; margin-top:8px; color:var(--muted-foreground); }
+    .legend-item { display:flex; align-items:center; gap:6px; }
+    .legend-line { width:22px; height:0; border-top:1px solid var(--muted-foreground); }
+    .legend-line.zip { border-color:var(--border); }
+    hr { border:0; border-top:1px solid var(--border); margin:16px 0; }
+    footer { margin-top:20px; color:var(--muted-foreground); }
+    @media (max-width:760px) {
+      .page { padding: 14px; }
+      .layout { grid-template-columns:1fr; }
+      .search { width:100%; }
+      .field { flex:1 1 140px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <div class="header">
+      <div>
+        <h1>Ohio ZIP to CTPD explorer</h1>
+        <div class="sub small">Draft proof of concept using Census ZIP Code Tabulation Areas</div>
+      </div>
+      <form class="search" id="zip-form">
+        <label class="field" for="zip-input">ZIP code
+          <input id="zip-input" inputmode="numeric" maxlength="5" pattern="[0-9]{5}" value="43004" aria-describedby="zip-status">
+        </label>
+        <button class="primary" type="submit">Show area</button>
+        <a class="button" href="data/zcta_ctpd_crosswalk_many_to_many.csv" download>Download crosswalk</a>
+      </form>
+    </div>
+    <div class="layout">
+      <div class="map-wrap">
+        <svg id="ohio-map" viewBox="0 0 720 650" role="img" aria-label="Map of Ohio CTPDs and ZIP Code Tabulation Areas"></svg>
+        <div class="map-tools" aria-label="Map controls">
+          <button type="button" id="zoom-in" aria-label="Zoom in">+</button>
+          <button type="button" id="zoom-out" aria-label="Zoom out">−</button>
+          <button type="button" id="reset-map">Ohio</button>
+        </div>
+        <div class="legend small" aria-label="Map legend">
+          <span class="legend-item"><span class="legend-line"></span>CTPD boundary</span>
+          <span class="legend-item"><span class="legend-line zip"></span>ZCTA boundary</span>
+        </div>
+      </div>
+      <aside class="detail" aria-live="polite">
+        <h2 id="detail-title">ZIP 43004</h2>
+        <div id="zip-status" class="detail-note small note"></div>
+        <div id="results"></div>
+        <hr>
+        <div class="small note">Percentages measure each CTPD’s share of the ZCTA land area inside Ohio. A ZIP may belong to multiple CTPDs.</div>
+      </aside>
+    </div>
+    <footer class="small">
+      Sources: Ohio Educational Directory System, 2026-10-06; U.S. Census Bureau 2025 school districts and 2020 ZCTAs. ZCTAs approximate postal ZIP delivery areas.
+    </footer>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <script>
+  (() => {
+    const ctpd = __CTPD_DATA__;
+    const zctas = __ZCTA_DATA__;
+    const rows = __CROSSWALK_DATA__;
+    const series = ["var(--series-1)","var(--series-2)","var(--series-3)","var(--series-4)","var(--series-5)","var(--series-6)"];
+    const byZip = new Map();
+    rows.forEach(row => {
+      if (!byZip.has(row[0])) byZip.set(row[0], []);
+      byZip.get(row[0]).push({ i: row[1], pct: row[2] });
+    });
+    const ctpdByIndex = new Map(ctpd.features.map(feature => [feature.properties.i, feature]));
+    const zctaByZip = new Map(zctas.features.map(feature => [feature.properties.z, feature]));
+    const svg = d3.select("#ohio-map");
+    const width = 720;
+    const height = 650;
+    const projection = d3.geoMercator().fitExtent([[18, 18], [width - 18, height - 18]], ctpd);
+    const path = d3.geoPath(projection);
+    const definitions = svg.append("defs");
+    const viewport = svg.append("g");
+    const base = viewport.append("g");
+    const zipLayer = viewport.append("g");
+    const selectedLayer = viewport.append("g").attr("pointer-events", "none");
+
+    base.selectAll("path.ctpd")
+      .data(ctpd.features)
+      .join("path")
+      .attr("class", "ctpd")
+      .attr("d", path);
+
+    zipLayer.selectAll("path.zcta")
+      .data(zctas.features)
+      .join("path")
+      .attr("class", "zcta")
+      .attr("d", path)
+      .on("click", (_, feature) => selectZip(feature.properties.z, true));
+
+    const zoom = d3.zoom()
+      .scaleExtent([1, 14])
+      .on("zoom", event => viewport.attr("transform", event.transform));
+    svg.call(zoom);
+
+    function color(index) {
+      return series[index % series.length];
+    }
+
+    function resetView(animate = true) {
+      const target = d3.zoomIdentity;
+      (animate ? svg.transition().duration(500) : svg).call(zoom.transform, target);
+    }
+
+    function focusFeature(feature) {
+      const bounds = path.bounds(feature);
+      const dx = bounds[1][0] - bounds[0][0];
+      const dy = bounds[1][1] - bounds[0][1];
+      const x = (bounds[0][0] + bounds[1][0]) / 2;
+      const y = (bounds[0][1] + bounds[1][1]) / 2;
+      const scale = Math.max(1, Math.min(10, 0.72 / Math.max(dx / width, dy / height)));
+      svg.transition().duration(600).call(
+        zoom.transform,
+        d3.zoomIdentity.translate(width / 2, height / 2).scale(scale).translate(-x, -y)
+      );
+    }
+
+    function selectZip(rawZip, focus = false) {
+      const zip = String(rawZip).trim();
+      const feature = zctaByZip.get(zip);
+      const matches = byZip.get(zip);
+      const status = document.querySelector("#zip-status");
+
+      if (!feature || !matches) {
+        status.textContent = `No Ohio ZCTA found for “${zip}”.`;
+        status.setAttribute("role", "alert");
+        return;
+      }
+
+      status.removeAttribute("role");
+      document.querySelector("#zip-input").value = zip;
+      document.querySelector("#detail-title").textContent = `ZIP ${zip}`;
+      status.textContent = matches.length === 1 ? "Contained in one CTPD" : `Crosses ${matches.length} CTPDs`;
+
+      definitions.selectAll("clipPath").remove();
+      definitions.append("clipPath")
+        .attr("id", "selected-zcta-clip")
+        .append("path")
+        .attr("d", path(feature));
+
+      selectedLayer.selectAll("*").remove();
+      const clipped = selectedLayer.append("g").attr("clip-path", "url(#selected-zcta-clip)");
+      clipped.selectAll("path")
+        .data(matches.map(match => ctpdByIndex.get(match.i)))
+        .join("path")
+        .attr("d", path)
+        .attr("fill", (_, index) => color(index))
+        .attr("fill-opacity", 0.74)
+        .attr("stroke", "var(--background)")
+        .attr("stroke-width", 1)
+        .attr("vector-effect", "non-scaling-stroke");
+
+      selectedLayer.append("path")
+        .datum(feature)
+        .attr("class", "selected-outline")
+        .attr("d", path);
+
+      document.querySelector("#results").innerHTML = matches.map((match, index) => {
+        const district = ctpdByIndex.get(match.i);
+        const percent = match.pct.toFixed(1);
+        const resultColor = color(index);
+        return `<div class="result" style="--series:${resultColor};--share:${Math.max(1, match.pct)}%"><div class="result-head"><div class="result-name"><span class="swatch"></span><span>${district.properties.n}</span></div><strong class="pct">${percent}%</strong></div><div class="bar" aria-hidden="true"><span></span></div></div>`;
+      }).join("");
+
+      const url = new URL(window.location.href);
+      url.searchParams.set("zip", zip);
+      history.replaceState(null, "", url);
+      localStorage.setItem("ohio-ctpd-zip", zip);
+      if (focus) focusFeature(feature);
+    }
+
+    document.querySelector("#zip-form").addEventListener("submit", event => {
+      event.preventDefault();
+      selectZip(document.querySelector("#zip-input").value, true);
+    });
+    document.querySelector("#zoom-in").addEventListener("click", () => svg.transition().call(zoom.scaleBy, 1.6));
+    document.querySelector("#zoom-out").addEventListener("click", () => svg.transition().call(zoom.scaleBy, 0.625));
+    document.querySelector("#reset-map").addEventListener("click", () => resetView(true));
+
+    const requestedZip = new URLSearchParams(window.location.search).get("zip");
+    const savedZip = localStorage.getItem("ohio-ctpd-zip");
+    const initialZip = byZip.has(requestedZip) ? requestedZip : (byZip.has(savedZip) ? savedZip : "43004");
+    selectZip(initialZip, true);
+  })();
+  </script>
+</body>
+</html>

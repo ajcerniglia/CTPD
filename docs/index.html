@@ -97,7 +97,7 @@
       </div>
       <form class="search" id="zip-form">
         <label class="field" for="zip-input">ZIP code
-          <input id="zip-input" inputmode="numeric" maxlength="5" pattern="[0-9]{5}" value="43004" aria-describedby="zip-status">
+          <input id="zip-input" inputmode="numeric" maxlength="5" pattern="[0-9]{5}" placeholder="e.g., 43004" aria-describedby="zip-status">
         </label>
         <button class="primary" type="submit">Show area</button>
         <a class="button" href="data/zcta_ctpd_crosswalk_many_to_many.csv" download>Download crosswalk</a>
@@ -117,8 +117,8 @@
         </div>
       </div>
       <aside class="detail" aria-live="polite">
-        <h2 id="detail-title">ZIP 43004</h2>
-        <div id="zip-status" class="detail-note small note"></div>
+        <h2 id="detail-title">Enter a ZIP code</h2>
+        <div id="zip-status" class="detail-note small note">Search above or select a ZCTA on the map.</div>
         <div id="results"></div>
         <hr>
         <div class="small note">Percentages measure each CTPD’s share of the ZCTA land area inside Ohio. A ZIP may belong to multiple CTPDs.</div>
@@ -243,7 +243,6 @@
       const url = new URL(window.location.href);
       url.searchParams.set("zip", zip);
       history.replaceState(null, "", url);
-      localStorage.setItem("ohio-ctpd-zip", zip);
       if (focus) focusFeature(feature);
     }
 
@@ -256,9 +255,11 @@
     document.querySelector("#reset-map").addEventListener("click", () => resetView(true));
 
     const requestedZip = new URLSearchParams(window.location.search).get("zip");
-    const savedZip = localStorage.getItem("ohio-ctpd-zip");
-    const initialZip = byZip.has(requestedZip) ? requestedZip : (byZip.has(savedZip) ? savedZip : "43004");
-    selectZip(initialZip, true);
+    if (requestedZip) {
+      selectZip(requestedZip, true);
+    } else {
+      resetView(false);
+    }
   })();
   </script>
 </body>

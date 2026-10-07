@@ -1,0 +1,17 @@
+metric,value
+relationship_rows,611
+source_ctpd_irns,93
+open_oeds_ctpds,95
+resolved_geographic_ctpds,93
+unresolved_geographic_ctpds,0
+non_geographic_ctpds,2
+open_traditional_districts,611
+districts_matched_to_census,611
+districts_unassigned_to_ctpd,0
+districts_in_multiple_ctpds,0
+ohio_zctas,1233
+many_to_many_crosswalk_rows,2253
+zctas_without_ctpd,0
+zctas_below_99pct_total_coverage,3
+zctas_above_101pct_total_overlap,0
+hierarchy_cycle_nodes,0

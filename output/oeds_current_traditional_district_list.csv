@@ -1,0 +1,612 @@
+district_org_key,district_irn,district_name,district_status
+22012,000442,Manchester Local,Open
+11127,043489,Akron City,Open
+11128,043497,Alliance City,Open
+11129,043505,Ashland City,Open
+11130,043513,Ashtabula Area City,Open
+11131,043521,Athens City School District,Open
+11132,043539,Barberton City,Open
+11133,043547,Bay Village City,Open
+11134,043554,Beachwood City,Open
+11135,043562,Bedford City,Open
+11136,043570,Bellaire Local,Open
+11137,043588,Bellefontaine City,Open
+11138,043596,Bellevue City,Open
+11139,043604,Belpre City,Open
+11140,043612,Berea City,Open
+11141,043620,Bexley City,Open
+11142,043638,Bowling Green City School District,Open
+11143,043646,Brecksville-Broadview Heights City,Open
+11144,043653,Brooklyn City,Open
+11145,043661,Brunswick City,Open
+11146,043679,Bryan City,Open
+11147,043687,Bucyrus City,Open
+11148,043695,Cambridge City,Open
+11149,043703,Campbell City,Open
+11150,043711,Canton City,Open
+11151,043729,Celina City,Open
+11152,043737,Centerville City,Open
+11153,043745,Chillicothe City,Open
+11154,043752,Cincinnati Public Schools,Open
+11155,043760,Circleville City,Open
+11156,043778,Claymont City,Open
+11157,043786,Cleveland Municipal,Open
+11158,043794,Cleveland Heights-University Heights City,Open
+11159,043802,Columbus City Schools District,Open
+11160,043810,Conneaut Area City,Open
+11161,043828,Coshocton City,Open
+11162,043836,Cuyahoga Falls City School District,Open
+11163,043844,Dayton City,Open
+11164,043851,Deer Park Community City,Open
+11165,043869,Defiance City,Open
+11166,043877,Delaware City,Open
+11167,043885,Delphos City,Open
+11168,043893,Dover City,Open
+11169,043901,East Cleveland City School District,Open
+11170,043919,East Liverpool City,Open
+11171,043927,East Palestine City,Open
+11172,043935,Eaton Community City,Open
+11173,043943,Elyria City Schools,Open
+11174,043950,Euclid City,Open
+11175,043968,Fairborn City,Open
+11176,043976,Fairview Park City,Open
+11177,043984,Findlay City,Open
+11178,043992,Fostoria City,Open
+11179,044008,Franklin City,Open
+11180,044016,Fremont City,Open
+11181,044024,Galion City,Open
+11182,044032,Gallipolis City,Open
+11183,044040,Garfield Heights City Schools,Open
+11184,044057,Geneva Area City,Open
+11185,044065,Girard City School District,Open
+11186,044073,Grandview Heights Schools,Open
+11187,044081,Winton Woods City,Open
+11188,044099,Greenville City,Open
+11189,044107,Hamilton City,Open
+11190,044115,Heath City,Open
+11191,044123,Hillsboro City,Open
+11192,044131,Huron City Schools,Open
+11193,044149,Ironton City School District,Open
+11194,044156,Jackson City,Open
+11195,044164,Kent City,Open
+11196,044172,Kenton City,Open
+11197,044180,Kettering City School District,Open
+11198,044198,Lakewood City,Open
+11199,044206,Lancaster City,Open
+11200,044214,Lebanon City,Open
+11201,044222,Lima City,Open
+11202,044230,Lockland Local,Open
+11203,044248,Logan-Hocking Local,Open
+11204,044255,London City,Open
+11205,044263,Lorain City,Open
+11206,044271,Loveland City,Open
+11207,044289,Madeira City,Open
+11208,044297,Mansfield City,Open
+11209,044305,Maple Heights City,Open
+11210,044313,Mariemont City,Open
+11211,044321,Marietta City,Open
+11212,044339,Marion City,Open
+11213,044347,Martins Ferry City,Open
+11214,044354,Massillon City,Open
+11215,044362,Maumee City,Open
+11216,044370,Mayfield City,Open
+11217,044388,Medina City SD,Open
+11218,044396,Miamisburg City,Open
+11219,044404,Middletown City,Open
+11220,044412,Mt Healthy City,Open
+11221,044420,Mount Vernon City,Open
+11222,044438,Napoleon Area City,Open
+11223,044446,Nelsonville-York City,Open
+11224,044453,Newark City Schools,Open
+11225,044461,New Boston Local,Open
+11226,044479,New Lexington School District,Open
+11227,044487,New Philadelphia City,Open
+11228,044495,Niles City,Open
+11229,044503,North Canton City,Open
+11230,044511,North College Hill City,Open
+11231,044529,North Olmsted City,Open
+11232,044537,North Ridgeville City,Open
+11233,044545,North Royalton City,Open
+11234,044552,Norton City,Open
+11235,044560,Norwalk City,Open
+11236,044578,Norwood City,Open
+11237,044586,Oakwood City,Open
+11238,044594,Oberlin City Schools,Open
+11239,044602,Oregon City,Open
+11240,044610,Orrville City,Open
+11241,044628,Painesville City Local,Open
+11242,044636,Parma City,Open
+11243,044644,Piqua City,Open
+11244,044651,Port Clinton City,Open
+11245,044669,Portsmouth City,Open
+11246,044677,Princeton City,Open
+11247,044685,Ravenna City,Open
+11248,044693,Reading Community City,Open
+11249,044701,Rocky River City,Open
+11250,044719,St Bernard-Elmwood Place City,Open
+11251,044727,St Marys City,Open
+11252,044735,Salem City,Open
+11253,044743,Sandusky City,Open
+11254,044750,Shaker Heights City,Open
+11255,044768,Sheffield-Sheffield Lake City,Open
+11256,044776,Shelby City,Open
+11257,044784,Sidney City,Open
+11258,044792,South Euclid-Lyndhurst City,Open
+11259,044800,South-Western City,Open
+11260,044818,Springfield City School District,Open
+11261,044826,Steubenville City,Open
+11262,044834,Stow-Munroe Falls City School District,Open
+11263,044842,Strongsville City,Open
+11264,044859,Struthers City,Open
+11265,044867,Sycamore Community City,Open
+11266,044875,Sylvania Schools,Open
+11267,044883,Tallmadge City,Open
+11268,044891,Tiffin City Schools,Open
+11269,044909,Toledo City,Open
+11270,044917,Toronto City,Open
+11271,044925,Troy City,Open
+11272,044933,Upper Arlington City,Open
+11273,044941,Urbana City,Open
+11274,044958,Vandalia-Butler City,Open
+11275,044966,Van Wert City,Open
+11276,044974,Wadsworth City,Open
+11277,044982,Wapakoneta City,Open
+11278,044990,Warren City,Open
+11279,045005,Warrensville Heights City,Open
+11280,045013,Washington Court House City,Open
+11281,045021,Wellston City,Open
+11282,045039,Wellsville Local,Open
+11283,045047,Westerville City,Open
+11284,045054,West Carrollton City,Open
+11285,045062,Westlake City,Open
+11286,045070,Whitehall City,Open
+11287,045088,Wickliffe City,Open
+11288,045096,Willard City,Open
+11289,045104,Willoughby-Eastlake City,Open
+11290,045112,Wilmington City,Open
+11291,045120,Wooster City,Open
+11292,045138,Worthington City,Open
+11293,045146,Wyoming City,Open
+11294,045153,Xenia Community City,Open
+11295,045161,Youngstown City,Open
+11296,045179,Zanesville City,Open
+11297,045187,Ada Exempted Village,Open
+11298,045195,Amherst Exempted Village,Open
+11299,045203,Barnesville Exempted Village,Open
+11300,045211,Bluffton Exempted Village,Open
+11301,045229,Bradford Exempted Village,Open
+11302,045237,Bridgeport Exempted Village,Open
+11303,045245,Harrison Hills City,Open
+11304,045252,Caldwell Exempted Village,Open
+11305,045260,Carey Exempted Village Schools,Open
+11306,045278,Carrollton Exempted Village,Open
+11307,045286,Chagrin Falls Exempted Village,Open
+11308,045294,Chesapeake Union Exempted Village,Open
+11309,045302,Clyde-Green Springs Exempted Village,Open
+11310,045310,Coldwater Exempted Village,Open
+11311,045328,Columbiana Exempted Village,Open
+11312,045336,Covington Exempted Village,Open
+11313,045344,Crestline Exempted Village,Open
+11314,045351,Crooksville Exempted Village,Open
+11315,045369,Fairport Harbor Exempted Village,Open
+11316,045377,Georgetown Exempted Village,Open
+11317,045385,Gibsonburg Exempted Village,Open
+11318,045393,Granville Exempted Village,Open
+11319,045401,Greenfield Exempted Village,Open
+11320,045419,Hicksville Exempted Village School District,Open
+11321,045427,Hubbard Exempted Village,Open
+11322,045435,Indian Hill Exempted Village,Open
+11323,045443,Leetonia Exempted Village School District,Open
+11324,045450,Lisbon Exempted Village,Open
+11325,045468,Loudonville-Perrysville Exempted Village,Open
+11326,045476,Marysville Exempted Village,Open
+11327,045484,Mechanicsburg Exempted Village,Open
+11328,045492,Mentor Exempted Village,Open
+11329,045500,Milford Exempted Village,Open
+11330,045518,Milton-Union Exempted Village,Open
+11331,045526,Montpelier Exempted Village,Open
+11332,045534,Mount Gilead Exempted Village,Open
+11333,045542,Newcomerstown Exempted Village,Open
+11334,045559,New Richmond Exempted Village,Open
+11335,045567,Newton Falls Exempted Village,Open
+11336,045575,Paulding Exempted Village,Open
+11337,045583,Perrysburg Exempted Village,Open
+11338,045591,Rittman Exempted Village,Open
+11339,045609,Rossford Exempted Village,Open
+11340,045617,Tipp City Exempted Village,Open
+11341,045625,Upper Sandusky Exempted Village,Open
+11342,045633,Versailles Exempted Village,Open
+11343,045641,Wauseon Exempted Village,Open
+11344,045658,Wellington Exempted Village,Open
+11345,045666,Windham Exempted Village,Open
+11346,045674,Yellow Springs Exempted Village,Open
+11349,045757,Allen East Local,Open
+11350,045765,Bath Local,Open
+11351,045773,Elida Local,Open
+11352,045781,Perry Local,Open
+11353,045799,Shawnee Local,Open
+11354,045807,Spencerville Local,Open
+11356,045823,Hillsdale Local,Open
+11357,045831,Mapleton Local,Open
+11359,045856,Buckeye Local,Open
+11360,045864,Grand Valley Local,Open
+11361,045872,Jefferson Area Local,Open
+11362,045880,Pymatuning Valley Local School District,Open
+11364,045906,Alexander Local,Open
+11365,045914,Federal Hocking Local,Open
+11366,045922,Trimble Local,Open
+11368,045948,Minster Local,Open
+11369,045955,New Bremen Local,Open
+11370,045963,New Knoxville Local,Open
+11371,045971,Waynesfield-Goshen Local,Open
+11373,045997,St Clairsville-Richland City,Open
+11374,046003,Shadyside Local,Open
+11375,046011,Union Local,Open
+11377,046037,Eastern Local School District,Open
+11378,046045,Fayetteville-Perry Local,Open
+11379,046060,Western Brown Local,Open
+11380,046078,Ripley-Union-Lewis-Huntington Local,Open
+11382,046094,Edgewood City School District,Open
+11383,046102,Fairfield City,Open
+11384,046110,Lakota Local,Open
+11385,046128,Madison Local,Open
+11386,046136,New Miami Local,Open
+11387,046144,Ross Local,Open
+11388,046151,Talawanda City,Open
+11390,046177,Brown Local,Open
+11392,046193,Graham Local,Open
+11393,046201,Triad Local,Open
+11394,046219,West Liberty-Salem Local,Open
+11396,046235,Greenon Local,Open
+11397,046243,Tecumseh Local,Open
+11398,046250,Northeastern Local,Open
+11399,046268,Northwestern Local,Open
+11400,046276,Southeastern Local,Open
+11401,046284,Clark-Shawnee Local,Open
+11403,046300,Batavia Local,Open
+11404,046318,Bethel-Tate Local,Open
+11405,046326,Clermont Northeastern Local,Open
+11406,046334,Felicity-Franklin Local,Open
+11407,046342,Goshen Local,Open
+11408,046359,West Clermont Local,Open
+11409,046367,Williamsburg Local,Open
+11411,046383,Blanchester Local,Open
+11412,046391,Clinton-Massie Local,Open
+11413,046409,East Clinton Local,Open
+11415,046425,Beaver Local,Open
+11416,046433,Crestview Local,Open
+11417,046441,Southern Local,Open
+11418,046458,United Local,Open
+11420,046474,Ridgewood Local,Open
+11421,046482,River View Local,Open
+11423,046508,Buckeye Central Local,Open
+11424,046516,Colonel Crawford Local,Open
+11425,046524,Wynford Local,Open
+11428,046557,Cuyahoga Heights Local,Open
+11429,046565,Independence Local,Open
+11430,046573,Olmsted Falls City,Open
+11431,046581,Orange City,Open
+11432,046599,Richmond Heights Local,Open
+11433,046607,Solon City,Open
+11435,046623,Ansonia Local,Open
+11436,046631,Arcanum-Butler Local,Open
+11437,046649,Franklin Monroe Local,Open
+11440,046672,Mississinawa Valley Local,Open
+11441,046680,Tri-Village Local,Open
+11443,046706,Ayersville Local,Open
+11444,046714,Central Local,Open
+11445,046722,Northeastern Local,Open
+11447,046748,Big Walnut Local,Open
+11448,046755,Buckeye Valley Local Schools,Open
+11449,046763,Olentangy Local,Open
+11451,046789,Edison Local (formerly Berlin-Milan),Open
+11452,046797,Kelleys Island Local,Open
+11453,046805,Margaretta Local,Open
+11454,046813,Perkins Local,Open
+11455,046821,Vermilion Local,Open
+11457,046847,Amanda-Clearcreek Local,Open
+11458,046854,Berne Union Local,Open
+11459,046862,Bloom-Carroll Local,Open
+11460,046870,Fairfield Union Local,Open
+11461,046888,Liberty Union-Thurston Local,Open
+11462,046896,Pickerington Local,Open
+11463,046904,Walnut Township Local,Open
+11465,046920,Miami Trace Local,Open
+11467,046946,Canal Winchester Local,Open
+11468,046953,Hamilton Local,Open
+11469,046961,Gahanna-Jefferson City,Open
+11470,046979,Groveport Madison Local,Open
+11471,046995,New Albany-Plain Local,Open
+11472,047001,Reynoldsburg City,Open
+11473,047019,Hilliard City,Open
+11474,047027,Dublin City,Open
+11476,047043,Archbold-Area Local,Open
+11477,047050,Evergreen Local,Open
+11478,047068,Fayette Local,Open
+11479,047076,Pettisville Local,Open
+11480,047084,Pike-Delta-York Local,Open
+11481,047092,Swanton Local,Open
+11488,047167,Berkshire Local,Open
+11489,047175,Cardinal Local,Open
+11490,047183,Chardon Local,Open
+11491,047191,Kenston Local,Open
+11494,047225,West Geauga Local,Open
+11496,047241,Beavercreek City,Open
+11497,047258,Cedar Cliff Local,Open
+11498,047266,Greeneview Local,Open
+11499,047274,Bellbrook-Sugarcreek Local,Open
+11502,047308,Rolling Hills Local,Open
+11505,047332,Finneytown Local,Open
+11506,047340,Forest Hills Local,Open
+11507,047365,Northwest Local,Open
+11508,047373,Oak Hills Local,Open
+11509,047381,Southwest Local,Open
+11510,047399,Three Rivers Local,Open
+11512,047415,Arcadia Local,Open
+11513,047423,Arlington Local,Open
+11514,047431,Cory-Rawson Local,Open
+11515,047449,Liberty-Benton Local,Open
+11516,047456,McComb Local,Open
+11517,047464,Van Buren Local,Open
+11518,047472,Vanlue Local,Open
+11520,047498,Hardin Northern Local,Open
+11521,047506,Ridgemont Local,Open
+11522,047514,Riverdale Local,Open
+11523,047522,Upper Scioto Valley Local,Open
+11525,047548,Conotton Valley Union Local,Open
+11527,047571,Holgate Local,Open
+11528,047589,Liberty Center Local,Open
+11529,047597,Patrick Henry Local,Open
+11531,047613,Bright Local,Open
+11532,047621,Fairfield Local,Open
+11533,047639,Lynchburg-Clay Local,Open
+11538,047688,East Holmes Local,Open
+11539,047696,West Holmes Local,Open
+11541,047712,Monroeville Local,Open
+11542,047720,New London Local,Open
+11543,047738,South Central Local,Open
+11544,047746,Western Reserve Local,Open
+11546,047761,Oak Hill Union Local,Open
+11548,047787,Buckeye Local,Open
+11549,047795,Edison Local,Open
+11550,047803,Indian Creek Local,Open
+11552,047829,Centerburg Local,Open
+11553,047837,Danville Local,Open
+11554,047845,East Knox Local,Open
+11555,047852,Fredericktown Local,Open
+11557,047878,Kirtland Local,Open
+11558,047886,Madison Local,Open
+11559,047894,Riverside Local,Open
+11560,047902,Perry Local,Open
+11562,047928,Dawson-Bryant Local,Open
+11563,047936,Fairland Local,Open
+11564,047944,Rock Hill Local,Open
+11565,047951,South Point Local,Open
+11566,047969,Symmes Valley Local,Open
+11568,047985,Johnstown-Monroe Local,Open
+11569,047993,Lakewood Local,Open
+11570,048009,Licking Heights Local,Open
+11571,048017,Licking Valley Local,Open
+11572,048025,North Fork Local,Open
+11573,048033,Northridge Local,Open
+11574,048041,Southwest Licking Local,Open
+11577,048074,Benjamin Logan Local,Open
+11578,048082,Indian Lake Local,Open
+11579,048090,Riverside Local,Open
+11581,048116,Avon Local,Open
+11582,048124,Avon Lake City,Open
+11583,048132,Clearview Local,Open
+11584,048140,Columbia Local,Open
+11585,048157,Firelands Local,Open
+11586,048165,Keystone Local,Open
+11587,048173,Midview Local,Open
+11590,048207,Anthony Wayne Local,Open
+11591,048215,Ottawa Hills Local,Open
+11592,048223,Springfield Local,Open
+11593,048231,Washington Local,Open
+11595,048256,Jefferson Local,Open
+11596,048264,Jonathan Alder Local,Open
+11597,048272,Madison-Plains Local,Open
+11599,048298,Austintown Local Schools,Open
+11600,048306,Boardman Local,Open
+11601,048314,Canfield Local,Open
+11602,048322,Jackson-Milton Local,Open
+11603,048330,Lowellville Local,Open
+11604,048348,Poland Local,Open
+11605,048355,Sebring Local,Open
+11606,048363,South Range Local,Open
+11607,048371,Springfield Local,Open
+11608,048389,West Branch Local,Open
+11609,048397,Western Reserve Local,Open
+11611,048413,Elgin Local,Open
+11612,048421,Pleasant Local,Open
+11613,048439,Ridgedale Local,Open
+11614,048447,River Valley Local,Open
+11616,048462,Black River Local,Open
+11617,048470,Buckeye Local,Open
+11618,048488,Cloverleaf Local,Open
+11619,048496,Highland Local,Open
+11621,048512,Eastern Local,Open
+11622,048520,Meigs Local,Open
+11623,048538,Southern Local,Open
+11625,048553,Marion Local,Open
+11627,048579,Parkway Local,Open
+11628,048587,St Henry Consolidated Local,Open
+11629,048595,Fort Recovery Local,Open
+11631,048611,Bethel Local,Open
+11632,048629,Miami East Local,Open
+11633,048637,Newton Local,Open
+11635,048652,Switzerland of Ohio Local,Open
+11637,048678,Brookville Local,Open
+11638,048686,Jefferson Township Local,Open
+11639,048694,Trotwood-Madison City,Open
+11640,048702,Mad River Local,Open
+11641,048710,New Lebanon Local School District,Open
+11642,048728,Northmont City,Open
+11643,048736,Northridge Local,Open
+11644,048744,Valley View Local,Open
+11645,048751,Huber Heights City,Open
+11647,048777,Morgan Local,Open
+11649,048793,Cardington-Lincoln Local,Open
+11650,048801,Highland Local,Open
+11651,048819,Northmor Local,Open
+11653,048835,East Muskingum Local,Open
+11654,048843,Franklin Local,Open
+11655,048850,Maysville Local,Open
+11656,048876,Tri-Valley Local,Open
+11657,048884,West Muskingum Local,Open
+11659,048900,Noble Local,Open
+11661,048926,Benton Carroll Salem Local,Open
+11662,048934,Danbury Local,Open
+11663,048942,Genoa Area Local,Open
+11664,048959,Middle Bass Local,Open
+11665,048967,North Bass Local,Open
+11666,048975,Put-In-Bay Local,Open
+11668,048991,Antwerp Local,Open
+11669,049031,Wayne Trace Local,Open
+11671,049056,Northern Local,Open
+11672,049064,Southern Local,Open
+11674,049080,Logan Elm Local,Open
+11675,049098,Teays Valley Local,Open
+11676,049106,Westfall Local,Open
+11678,049122,Eastern Local School District,Open
+11679,049130,Scioto Valley Local,Open
+11680,049148,Waverly City,Open
+11681,049155,Western Local,Open
+11683,049171,Aurora City,Open
+11684,049189,Crestwood Local,Open
+11685,049197,Field Local,Open
+11686,049205,James A Garfield Local,Open
+11687,049213,Rootstown Local,Open
+11688,049221,Southeast Local,Open
+11689,049239,Streetsboro City,Open
+11690,049247,Waterloo Local,Open
+11693,049270,National Trail Local,Open
+11694,049288,Preble Shawnee Local,Open
+11695,049296,Twin Valley Community Local,Open
+11697,049312,Columbus Grove Local,Open
+11698,049320,Continental Local,Open
+11699,049338,Jennings Local,Open
+11700,049346,Kalida Local,Open
+11701,049353,Leipsic Local,Open
+11702,049361,Miller City-New Cleveland Local,Open
+11703,049379,Ottawa-Glandorf Local,Open
+11704,049387,Ottoville Local,Open
+11705,049395,Pandora-Gilboa Local,Open
+11707,049411,Clear Fork Valley Local,Open
+11708,049429,Crestview Local,Open
+11709,049437,Lexington Local,Open
+11710,049445,Lucas Local,Open
+11711,049452,Madison Local,Open
+11712,049460,Plymouth-Shiloh Local,Open
+11713,049478,Ontario Local,Open
+11715,049494,Adena Local,Open
+11716,049502,Huntington Local,Open
+11717,049510,Paint Valley Local,Open
+11718,049528,Southeastern Local,Open
+11719,049536,Union-Scioto Local,Open
+11720,049544,Zane Trace Local,Open
+11722,049569,Lakota Local,Open
+11723,049577,Woodmore Local,Open
+11725,049593,Bloom-Vernon Local,Open
+11726,049601,Clay Local,Open
+11727,049619,Green Local,Open
+11728,049627,Minford Local,Open
+11729,049635,Northwest Local,Open
+11730,049643,Valley Local,Open
+11731,049650,Washington-Nile Local,Open
+11732,049668,Wheelersburg Local,Open
+11734,049684,Seneca East Local,Open
+11736,049700,Hopewell-Loudon Local,Open
+11737,049718,New Riegel Local,Open
+11738,049726,Old Fort Local,Open
+11740,049759,Anna Local,Open
+11741,049767,Botkins Local,Open
+11742,049775,Fairlawn Local,Open
+11743,049783,Fort Loramie Local,Open
+11744,049791,Hardin-Houston Local,Open
+11745,049809,Jackson Center Local,Open
+11746,049817,Russia Local,Open
+11748,049833,Canton Local,Open
+11749,049841,Fairless Local,Open
+11750,049858,Jackson Local,Open
+11751,049866,Lake Local,Open
+11752,049874,Louisville City,Open
+11753,049882,Marlington Local,Open
+11754,049890,Minerva Local,Open
+11755,049908,Northwest Local,Open
+11756,049916,Osnaburg Local,Open
+11757,049924,Perry Local,Open
+11758,049932,Plain Local,Open
+11759,049940,Sandy Valley Local,Open
+11760,049957,Tuslaw Local,Open
+11762,049973,Woodridge Local,Open
+11763,049981,Copley-Fairlawn City,Open
+11764,049999,Coventry Local,Open
+11765,050005,Manchester Local,Open
+11766,050013,Green Local,Open
+11767,050021,Hudson City,Open
+11768,050039,Mogadore Local,Open
+11769,050047,Nordonia Hills City,Open
+11770,050054,Revere Local,Open
+11771,050062,Springfield Local,Open
+11772,050070,Twinsburg City,Open
+11774,050096,Bloomfield-Mespo Local,Open
+11775,050112,Bristol Local,Open
+11776,050120,Brookfield Local,Open
+11777,050138,Champion Local,Open
+11779,050153,Mathews Local,Open
+11780,050161,Howland Local,Open
+11781,050179,Joseph Badger Local,Open
+11782,050187,Lakeview Local,Open
+11783,050195,Liberty Local,Open
+11784,050203,Lordstown Local,Open
+11785,050211,Maplewood Local,Open
+11786,050229,McDonald Local,Open
+11787,050237,Southington Local,Open
+11788,050245,LaBrae Local,Open
+11789,050252,Weathersfield Local,Open
+11791,050278,Garaway Local,Open
+11792,050286,Indian Valley Local,Open
+11793,050294,Strasburg-Franklin Local,Open
+11794,050302,Tuscarawas Valley Local,Open
+11796,050328,Fairbanks Local,Open
+11797,050336,North Union Local School District,Open
+11799,050351,Crestview Local,Open
+11800,050369,Lincolnview Local,Open
+11803,050393,Vinton County Local,Open
+11805,050419,Carlisle Local,Open
+11806,050427,Springboro Community City,Open
+11807,050435,Kings Local,Open
+11808,050443,Little Miami Local,Open
+11809,050450,Mason City,Open
+11810,050468,Wayne Local,Open
+11812,050484,Fort Frye Local,Open
+11813,050492,Frontier Local,Open
+11814,050500,Warren Local,Open
+11815,050518,Wolf Creek Local,Open
+11817,050534,Chippewa Local,Open
+11818,050542,Dalton Local,Open
+11819,050559,Green Local,Open
+11820,050567,Norwayne Local,Open
+11821,050575,Northwestern Local,Open
+11822,050583,Waynedale Local,Open
+11823,050591,Triway Local,Open
+11825,050617,Edgerton Local,Open
+11826,050625,Edon Northwest Local,Open
+11827,050633,Millcreek-West Unity Local,Open
+11828,050641,North Central Local,Open
+11829,050658,Stryker Local,Open
+11831,050674,Eastwood Local,Open
+11832,050682,Elmwood Local,Open
+11833,050690,Lake Local,Open
+11834,050708,North Baltimore Local,Open
+11835,050716,Northwood Local Schools,Open
+11836,050724,Otsego Local,Open
+11838,050740,Mohawk Local,Open
+11902,061903,Adams County Ohio Valley Local,Open
+11998,064964,College Corner Local,Open
+12005,065680,Gallia County Local,Open
+12091,069682,East Guernsey Local,Open
+12978,091397,Tri-County North Local,Open
+14465,139303,Monroe Local,Open

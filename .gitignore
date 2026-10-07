@@ -1,0 +1,13 @@
+# The user's global Git ignore excludes CSV files. These public inputs and
+# generated deliverables are intentionally versioned for reproducibility and
+# for the GitHub Pages download link.
+!data_raw/oeds_ctpd_member_districts.csv
+!data_raw/oeds_district_ctpd_2026-10-06.csv
+!output/*.csv
+!docs/data/*.csv
+
+# Census downloads are reproducible and much larger than the repository needs.
+data_raw/census/
+
+# Retain the superseded local hierarchy only as an untracked comparison source.
+data_raw/ohio_ctpd_updated.csv

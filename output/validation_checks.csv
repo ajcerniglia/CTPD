@@ -1,0 +1,9 @@
+check,status,value,expectation
+All OEDS traditional districts match Census geometry,PASS,611,= 611
+District-Census mapping is one-to-one,PASS,611,= 611
+All resolved members have geometry,PASS,0,= 0
+No unresolved geographic current CTPDs,PASS,0,= 0
+Every Ohio district is assigned to a current CTPD,PASS,0,= 0
+Every Ohio-intersecting ZCTA receives a primary CTPD,PASS,0,= 0
+Every ZCTA has at least 90% resolved CTPD coverage,PASS,0.9307266937877856,>= 0.90
+No duplicate ZCTA-CTPD pairs,PASS,0,= 0

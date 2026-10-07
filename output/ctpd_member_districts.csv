@@ -1,0 +1,612 @@
+ctpd_irn,ctpd_name,mapping_method,source_seed_irn,self_member_irn,district_irn,district_name,designated_county
+021357,Bedford City Comprehensive CTPD,current_oeds_direct_relationship,,,043562,Bedford City,Cuyahoga
+022546,Euclid City Comprehensive CTPD,current_oeds_direct_relationship,,,043950,Euclid City,Cuyahoga
+022548,Mentor Exempted Village Comprehensive CTPD,current_oeds_direct_relationship,,,045492,Mentor Exempted Village,Lake
+022550,Western Lake County Compact CTPD,current_oeds_direct_relationship,,,045088,Wickliffe City,Lake
+022550,Western Lake County Compact CTPD,current_oeds_direct_relationship,,,045104,Willoughby-Eastlake City,Lake
+200001,Apollo JVSD CTPD,current_oeds_direct_relationship,,,044982,Wapakoneta City,Auglaize
+200001,Apollo JVSD CTPD,current_oeds_direct_relationship,,,045187,Ada Exempted Village,Hardin
+200001,Apollo JVSD CTPD,current_oeds_direct_relationship,,,045211,Bluffton Exempted Village,Allen
+200001,Apollo JVSD CTPD,current_oeds_direct_relationship,,,045757,Allen East Local,Allen
+200001,Apollo JVSD CTPD,current_oeds_direct_relationship,,,045765,Bath Local,Allen
+200001,Apollo JVSD CTPD,current_oeds_direct_relationship,,,045773,Elida Local,Allen
+200001,Apollo JVSD CTPD,current_oeds_direct_relationship,,,045781,Perry Local,Allen
+200001,Apollo JVSD CTPD,current_oeds_direct_relationship,,,045799,Shawnee Local,Allen
+200001,Apollo JVSD CTPD,current_oeds_direct_relationship,,,045807,Spencerville Local,Allen
+200001,Apollo JVSD CTPD,current_oeds_direct_relationship,,,047498,Hardin Northern Local,Hardin
+200001,Apollo JVSD CTPD,current_oeds_direct_relationship,,,049312,Columbus Grove Local,Putnam
+200002,Lima City CTPD,current_oeds_direct_relationship,,,044222,Lima City,Allen
+200003,Heartland Technical Education Center CTPD,current_oeds_direct_relationship,,,043505,Ashland City,Ashland
+200003,Heartland Technical Education Center CTPD,current_oeds_direct_relationship,,,045468,Loudonville-Perrysville Exempted Village,Ashland
+200003,Heartland Technical Education Center CTPD,current_oeds_direct_relationship,,,045823,Hillsdale Local,Ashland
+200003,Heartland Technical Education Center CTPD,current_oeds_direct_relationship,,,045831,Mapleton Local,Ashland
+200003,Heartland Technical Education Center CTPD,current_oeds_direct_relationship,,,047696,West Holmes Local,Holmes
+200004,Ashtabula County Technical and Career Center  CTPD,current_oeds_direct_relationship,,,043513,Ashtabula Area City,Ashtabula
+200004,Ashtabula County Technical and Career Center  CTPD,current_oeds_direct_relationship,,,043810,Conneaut Area City,Ashtabula
+200004,Ashtabula County Technical and Career Center  CTPD,current_oeds_direct_relationship,,,044057,Geneva Area City,Ashtabula
+200004,Ashtabula County Technical and Career Center  CTPD,current_oeds_direct_relationship,,,045856,Buckeye Local,Ashtabula
+200004,Ashtabula County Technical and Career Center  CTPD,current_oeds_direct_relationship,,,045864,Grand Valley Local,Ashtabula
+200004,Ashtabula County Technical and Career Center  CTPD,current_oeds_direct_relationship,,,045872,Jefferson Area Local,Ashtabula
+200004,Ashtabula County Technical and Career Center  CTPD,current_oeds_direct_relationship,,,045880,Pymatuning Valley Local School District,Ashtabula
+200005,Tri-County JVSD CTPD,current_oeds_direct_relationship,,,043521,Athens City School District,Athens
+200005,Tri-County JVSD CTPD,current_oeds_direct_relationship,,,044248,Logan-Hocking Local,Hocking
+200005,Tri-County JVSD CTPD,current_oeds_direct_relationship,,,044446,Nelsonville-York City,Athens
+200005,Tri-County JVSD CTPD,current_oeds_direct_relationship,,,044479,New Lexington School District,Perry
+200005,Tri-County JVSD CTPD,current_oeds_direct_relationship,,,045906,Alexander Local,Athens
+200005,Tri-County JVSD CTPD,current_oeds_direct_relationship,,,045914,Federal Hocking Local,Athens
+200005,Tri-County JVSD CTPD,current_oeds_direct_relationship,,,045922,Trimble Local,Athens
+200005,Tri-County JVSD CTPD,current_oeds_direct_relationship,,,049064,Southern Local,Perry
+200006,Belmont-Harrison Area JVSD CTPD,current_oeds_direct_relationship,,,043570,Bellaire Local,Belmont
+200006,Belmont-Harrison Area JVSD CTPD,current_oeds_direct_relationship,,,044347,Martins Ferry City,Belmont
+200006,Belmont-Harrison Area JVSD CTPD,current_oeds_direct_relationship,,,045203,Barnesville Exempted Village,Belmont
+200006,Belmont-Harrison Area JVSD CTPD,current_oeds_direct_relationship,,,045237,Bridgeport Exempted Village,Belmont
+200006,Belmont-Harrison Area JVSD CTPD,current_oeds_direct_relationship,,,045245,Harrison Hills City,Harrison
+200006,Belmont-Harrison Area JVSD CTPD,current_oeds_direct_relationship,,,045997,St Clairsville-Richland City,Belmont
+200006,Belmont-Harrison Area JVSD CTPD,current_oeds_direct_relationship,,,046003,Shadyside Local,Belmont
+200006,Belmont-Harrison Area JVSD CTPD,current_oeds_direct_relationship,,,046011,Union Local,Belmont
+200007,Southern Hills JVSD CTPD,current_oeds_direct_relationship,,,045377,Georgetown Exempted Village,Brown
+200007,Southern Hills JVSD CTPD,current_oeds_direct_relationship,,,046037,Eastern Local School District,Brown
+200007,Southern Hills JVSD CTPD,current_oeds_direct_relationship,,,046045,Fayetteville-Perry Local,Brown
+200007,Southern Hills JVSD CTPD,current_oeds_direct_relationship,,,046060,Western Brown Local,Brown
+200007,Southern Hills JVSD CTPD,current_oeds_direct_relationship,,,046078,Ripley-Union-Lewis-Huntington Local,Brown
+200007,Southern Hills JVSD CTPD,current_oeds_direct_relationship,,,047613,Bright Local,Highland
+200008,Butler County JVSD CTPD,current_oeds_direct_relationship,,,044107,Hamilton City,Butler
+200008,Butler County JVSD CTPD,current_oeds_direct_relationship,,,044404,Middletown City,Butler
+200008,Butler County JVSD CTPD,current_oeds_direct_relationship,,,046094,Edgewood City School District,Butler
+200008,Butler County JVSD CTPD,current_oeds_direct_relationship,,,046102,Fairfield City,Butler
+200008,Butler County JVSD CTPD,current_oeds_direct_relationship,,,046110,Lakota Local,Butler
+200008,Butler County JVSD CTPD,current_oeds_direct_relationship,,,046128,Madison Local,Butler
+200008,Butler County JVSD CTPD,current_oeds_direct_relationship,,,046136,New Miami Local,Butler
+200008,Butler County JVSD CTPD,current_oeds_direct_relationship,,,046144,Ross Local,Butler
+200008,Butler County JVSD CTPD,current_oeds_direct_relationship,,,046151,Talawanda City,Butler
+200008,Butler County JVSD CTPD,current_oeds_direct_relationship,,,047365,Northwest Local,Hamilton
+200008,Butler County JVSD CTPD,current_oeds_direct_relationship,,,139303,Monroe Local,Butler
+200011,Springfield-Clark County JVSD CTPD,current_oeds_direct_relationship,,,044818,Springfield City School District,Clark
+200011,Springfield-Clark County JVSD CTPD,current_oeds_direct_relationship,,,046235,Greenon Local,Clark
+200011,Springfield-Clark County JVSD CTPD,current_oeds_direct_relationship,,,046243,Tecumseh Local,Clark
+200011,Springfield-Clark County JVSD CTPD,current_oeds_direct_relationship,,,046250,Northeastern Local,Clark
+200011,Springfield-Clark County JVSD CTPD,current_oeds_direct_relationship,,,046268,Northwestern Local,Clark
+200011,Springfield-Clark County JVSD CTPD,current_oeds_direct_relationship,,,046276,Southeastern Local,Clark
+200011,Springfield-Clark County JVSD CTPD,current_oeds_direct_relationship,,,046284,Clark-Shawnee Local,Clark
+200012,U S Grant JVSD CTPD,current_oeds_direct_relationship,,,045559,New Richmond Exempted Village,Clermont
+200012,U S Grant JVSD CTPD,current_oeds_direct_relationship,,,046318,Bethel-Tate Local,Clermont
+200012,U S Grant JVSD CTPD,current_oeds_direct_relationship,,,046334,Felicity-Franklin Local,Clermont
+200012,U S Grant JVSD CTPD,current_oeds_direct_relationship,,,046367,Williamsburg Local,Clermont
+200015,Columbiana County JVSD CTPD,current_oeds_direct_relationship,,,043927,East Palestine City,Columbiana
+200015,Columbiana County JVSD CTPD,current_oeds_direct_relationship,,,045039,Wellsville Local,Columbiana
+200015,Columbiana County JVSD CTPD,current_oeds_direct_relationship,,,045328,Columbiana Exempted Village,Columbiana
+200015,Columbiana County JVSD CTPD,current_oeds_direct_relationship,,,045443,Leetonia Exempted Village School District,Columbiana
+200015,Columbiana County JVSD CTPD,current_oeds_direct_relationship,,,045450,Lisbon Exempted Village,Columbiana
+200015,Columbiana County JVSD CTPD,current_oeds_direct_relationship,,,046425,Beaver Local,Columbiana
+200015,Columbiana County JVSD CTPD,current_oeds_direct_relationship,,,046433,Crestview Local,Columbiana
+200015,Columbiana County JVSD CTPD,current_oeds_direct_relationship,,,046441,Southern Local,Columbiana
+200015,Columbiana County JVSD CTPD,current_oeds_direct_relationship,,,046458,United Local,Columbiana
+200016,East Liverpool City CTPD,current_oeds_direct_relationship,,,043919,East Liverpool City,Columbiana
+200019,Cleveland Municipal CTPD,current_oeds_direct_relationship,,,043786,Cleveland Municipal,Cuyahoga
+200020,Tri-Heights Career Prep Consortium CTPD,current_oeds_direct_relationship,,,043794,Cleveland Heights-University Heights City,Cuyahoga
+200020,Tri-Heights Career Prep Consortium CTPD,current_oeds_direct_relationship,,,044305,Maple Heights City,Cuyahoga
+200020,Tri-Heights Career Prep Consortium CTPD,current_oeds_direct_relationship,,,044750,Shaker Heights City,Cuyahoga
+200020,Tri-Heights Career Prep Consortium CTPD,current_oeds_direct_relationship,,,045005,Warrensville Heights City,Cuyahoga
+200021,East Cleveland City CTPD,current_oeds_direct_relationship,,,043901,East Cleveland City School District,Cuyahoga
+200023,Lakewood City CTPD,current_oeds_direct_relationship,,,043547,Bay Village City,Cuyahoga
+200023,Lakewood City CTPD,current_oeds_direct_relationship,,,044198,Lakewood City,Cuyahoga
+200023,Lakewood City CTPD,current_oeds_direct_relationship,,,044701,Rocky River City,Cuyahoga
+200023,Lakewood City CTPD,current_oeds_direct_relationship,,,045062,Westlake City,Cuyahoga
+200025,Mayfield Excel T.E.C.C. CTPD,current_oeds_direct_relationship,,,043554,Beachwood City,Cuyahoga
+200025,Mayfield Excel T.E.C.C. CTPD,current_oeds_direct_relationship,,,044370,Mayfield City,Cuyahoga
+200025,Mayfield Excel T.E.C.C. CTPD,current_oeds_direct_relationship,,,044792,South Euclid-Lyndhurst City,Cuyahoga
+200025,Mayfield Excel T.E.C.C. CTPD,current_oeds_direct_relationship,,,045286,Chagrin Falls Exempted Village,Cuyahoga
+200025,Mayfield Excel T.E.C.C. CTPD,current_oeds_direct_relationship,,,046581,Orange City,Cuyahoga
+200025,Mayfield Excel T.E.C.C. CTPD,current_oeds_direct_relationship,,,046599,Richmond Heights Local,Cuyahoga
+200025,Mayfield Excel T.E.C.C. CTPD,current_oeds_direct_relationship,,,046607,Solon City,Cuyahoga
+200025,Mayfield Excel T.E.C.C. CTPD,current_oeds_direct_relationship,,,047225,West Geauga Local,Geauga
+200025,Mayfield Excel T.E.C.C. CTPD,current_oeds_direct_relationship,,,049171,Aurora City,Portage
+200026,Parma City CTPD,current_oeds_direct_relationship,,,044636,Parma City,Cuyahoga
+200027,Cuyahoga Valley JVSD CTPD,current_oeds_direct_relationship,,,043646,Brecksville-Broadview Heights City,Cuyahoga
+200027,Cuyahoga Valley JVSD CTPD,current_oeds_direct_relationship,,,044040,Garfield Heights City Schools,Cuyahoga
+200027,Cuyahoga Valley JVSD CTPD,current_oeds_direct_relationship,,,044545,North Royalton City,Cuyahoga
+200027,Cuyahoga Valley JVSD CTPD,current_oeds_direct_relationship,,,046557,Cuyahoga Heights Local,Cuyahoga
+200027,Cuyahoga Valley JVSD CTPD,current_oeds_direct_relationship,,,046565,Independence Local,Cuyahoga
+200027,Cuyahoga Valley JVSD CTPD,current_oeds_direct_relationship,,,050047,Nordonia Hills City,Summit
+200027,Cuyahoga Valley JVSD CTPD,current_oeds_direct_relationship,,,050054,Revere Local,Summit
+200027,Cuyahoga Valley JVSD CTPD,current_oeds_direct_relationship,,,050070,Twinsburg City,Summit
+200028,Polaris JVSD CTPD,current_oeds_direct_relationship,,,043612,Berea City,Cuyahoga
+200028,Polaris JVSD CTPD,current_oeds_direct_relationship,,,043653,Brooklyn City,Cuyahoga
+200028,Polaris JVSD CTPD,current_oeds_direct_relationship,,,043976,Fairview Park City,Cuyahoga
+200028,Polaris JVSD CTPD,current_oeds_direct_relationship,,,044529,North Olmsted City,Cuyahoga
+200028,Polaris JVSD CTPD,current_oeds_direct_relationship,,,044842,Strongsville City,Cuyahoga
+200028,Polaris JVSD CTPD,current_oeds_direct_relationship,,,046573,Olmsted Falls City,Cuyahoga
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,043679,Bryan City,Williams
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,043869,Defiance City,Defiance
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,044438,Napoleon Area City,Henry
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,045419,Hicksville Exempted Village School District,Defiance
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,045526,Montpelier Exempted Village,Williams
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,045641,Wauseon Exempted Village,Fulton
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,046706,Ayersville Local,Defiance
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,046714,Central Local,Defiance
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,046722,Northeastern Local,Defiance
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,047043,Archbold-Area Local,Fulton
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,047050,Evergreen Local,Fulton
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,047068,Fayette Local,Fulton
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,047076,Pettisville Local,Fulton
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,047084,Pike-Delta-York Local,Fulton
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,047571,Holgate Local,Henry
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,047589,Liberty Center Local,Henry
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,047597,Patrick Henry Local,Henry
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,050617,Edgerton Local,Williams
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,050625,Edon Northwest Local,Williams
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,050633,Millcreek-West Unity Local,Williams
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,050641,North Central Local,Williams
+200030,Four County JVSD CTPD,current_oeds_direct_relationship,,,050658,Stryker Local,Williams
+200031,Delaware County JVSD CTPD,current_oeds_direct_relationship,,,043877,Delaware City,Delaware
+200031,Delaware County JVSD CTPD,current_oeds_direct_relationship,,,045138,Worthington City,Franklin
+200031,Delaware County JVSD CTPD,current_oeds_direct_relationship,,,046748,Big Walnut Local,Delaware
+200031,Delaware County JVSD CTPD,current_oeds_direct_relationship,,,046755,Buckeye Valley Local Schools,Delaware
+200031,Delaware County JVSD CTPD,current_oeds_direct_relationship,,,046763,Olentangy Local,Delaware
+200032,EHOVE JVSD CTPD,current_oeds_direct_relationship,,,043596,Bellevue City,Huron
+200032,EHOVE JVSD CTPD,current_oeds_direct_relationship,,,044131,Huron City Schools,Erie
+200032,EHOVE JVSD CTPD,current_oeds_direct_relationship,,,044560,Norwalk City,Huron
+200032,EHOVE JVSD CTPD,current_oeds_direct_relationship,,,046789,Edison Local (formerly Berlin-Milan),Erie
+200032,EHOVE JVSD CTPD,current_oeds_direct_relationship,,,046797,Kelleys Island Local,Erie
+200032,EHOVE JVSD CTPD,current_oeds_direct_relationship,,,046805,Margaretta Local,Erie
+200032,EHOVE JVSD CTPD,current_oeds_direct_relationship,,,046813,Perkins Local,Erie
+200032,EHOVE JVSD CTPD,current_oeds_direct_relationship,,,046821,Vermilion Local,Erie
+200032,EHOVE JVSD CTPD,current_oeds_direct_relationship,,,047712,Monroeville Local,Huron
+200032,EHOVE JVSD CTPD,current_oeds_direct_relationship,,,047720,New London Local,Huron
+200032,EHOVE JVSD CTPD,current_oeds_direct_relationship,,,047738,South Central Local,Huron
+200032,EHOVE JVSD CTPD,current_oeds_direct_relationship,,,047746,Western Reserve Local,Huron
+200032,EHOVE JVSD CTPD,current_oeds_direct_relationship,,,048934,Danbury Local,Ottawa
+200032,EHOVE JVSD CTPD,current_oeds_direct_relationship,,,048959,Middle Bass Local,Ottawa
+200032,EHOVE JVSD CTPD,current_oeds_direct_relationship,,,048967,North Bass Local,Ottawa
+200032,EHOVE JVSD CTPD,current_oeds_direct_relationship,,,048975,Put-In-Bay Local,Ottawa
+200033,Sandusky City CTPD,current_oeds_direct_relationship,,,044743,Sandusky City,Erie
+200035,Columbus City CTPD,current_oeds_direct_relationship,,,043802,Columbus City Schools District,Franklin
+200035,Columbus City CTPD,current_oeds_direct_relationship,,,044073,Grandview Heights Schools,Franklin
+200035,Columbus City CTPD,current_oeds_direct_relationship,,,044933,Upper Arlington City,Franklin
+200035,Columbus City CTPD,current_oeds_direct_relationship,,,045047,Westerville City,Franklin
+200036,Eastland JVSD CTPD,current_oeds_direct_relationship,,,043620,Bexley City,Franklin
+200036,Eastland JVSD CTPD,current_oeds_direct_relationship,,,045070,Whitehall City,Franklin
+200036,Eastland JVSD CTPD,current_oeds_direct_relationship,,,046847,Amanda-Clearcreek Local,Fairfield
+200036,Eastland JVSD CTPD,current_oeds_direct_relationship,,,046854,Berne Union Local,Fairfield
+200036,Eastland JVSD CTPD,current_oeds_direct_relationship,,,046862,Bloom-Carroll Local,Fairfield
+200036,Eastland JVSD CTPD,current_oeds_direct_relationship,,,046870,Fairfield Union Local,Fairfield
+200036,Eastland JVSD CTPD,current_oeds_direct_relationship,,,046888,Liberty Union-Thurston Local,Fairfield
+200036,Eastland JVSD CTPD,current_oeds_direct_relationship,,,046896,Pickerington Local,Fairfield
+200036,Eastland JVSD CTPD,current_oeds_direct_relationship,,,046904,Walnut Township Local,Fairfield
+200036,Eastland JVSD CTPD,current_oeds_direct_relationship,,,046946,Canal Winchester Local,Franklin
+200036,Eastland JVSD CTPD,current_oeds_direct_relationship,,,046953,Hamilton Local,Franklin
+200036,Eastland JVSD CTPD,current_oeds_direct_relationship,,,046961,Gahanna-Jefferson City,Franklin
+200036,Eastland JVSD CTPD,current_oeds_direct_relationship,,,046979,Groveport Madison Local,Franklin
+200036,Eastland JVSD CTPD,current_oeds_direct_relationship,,,046995,New Albany-Plain Local,Franklin
+200036,Eastland JVSD CTPD,current_oeds_direct_relationship,,,047001,Reynoldsburg City,Franklin
+200036,Eastland JVSD CTPD,current_oeds_direct_relationship,,,049098,Teays Valley Local,Pickaway
+200037,Tolles Career & Technical Center CTPD,current_oeds_direct_relationship,,,044255,London City,Madison
+200037,Tolles Career & Technical Center CTPD,current_oeds_direct_relationship,,,047019,Hilliard City,Franklin
+200037,Tolles Career & Technical Center CTPD,current_oeds_direct_relationship,,,047027,Dublin City,Franklin
+200037,Tolles Career & Technical Center CTPD,current_oeds_direct_relationship,,,048256,Jefferson Local,Madison
+200037,Tolles Career & Technical Center CTPD,current_oeds_direct_relationship,,,048264,Jonathan Alder Local,Madison
+200037,Tolles Career & Technical Center CTPD,current_oeds_direct_relationship,,,048272,Madison-Plains Local,Madison
+200037,Tolles Career & Technical Center CTPD,current_oeds_direct_relationship,,,050328,Fairbanks Local,Union
+200038,South-Western City CTPD,current_oeds_direct_relationship,,,044800,South-Western City,Franklin
+200039,Penta County JVSD CTPD,current_oeds_direct_relationship,,,043638,Bowling Green City School District,Wood
+200039,Penta County JVSD CTPD,current_oeds_direct_relationship,,,044362,Maumee City,Lucas
+200039,Penta County JVSD CTPD,current_oeds_direct_relationship,,,045583,Perrysburg Exempted Village,Wood
+200039,Penta County JVSD CTPD,current_oeds_direct_relationship,,,045609,Rossford Exempted Village,Wood
+200039,Penta County JVSD CTPD,current_oeds_direct_relationship,,,047092,Swanton Local,Fulton
+200039,Penta County JVSD CTPD,current_oeds_direct_relationship,,,048207,Anthony Wayne Local,Lucas
+200039,Penta County JVSD CTPD,current_oeds_direct_relationship,,,048223,Springfield Local,Lucas
+200039,Penta County JVSD CTPD,current_oeds_direct_relationship,,,048926,Benton Carroll Salem Local,Ottawa
+200039,Penta County JVSD CTPD,current_oeds_direct_relationship,,,048942,Genoa Area Local,Ottawa
+200039,Penta County JVSD CTPD,current_oeds_direct_relationship,,,049577,Woodmore Local,Sandusky
+200039,Penta County JVSD CTPD,current_oeds_direct_relationship,,,050674,Eastwood Local,Wood
+200039,Penta County JVSD CTPD,current_oeds_direct_relationship,,,050682,Elmwood Local,Wood
+200039,Penta County JVSD CTPD,current_oeds_direct_relationship,,,050690,Lake Local,Wood
+200039,Penta County JVSD CTPD,current_oeds_direct_relationship,,,050708,North Baltimore Local,Wood
+200039,Penta County JVSD CTPD,current_oeds_direct_relationship,,,050716,Northwood Local Schools,Wood
+200039,Penta County JVSD CTPD,current_oeds_direct_relationship,,,050724,Otsego Local,Wood
+200040,Gallia-Jackson-Vinton JVSD CTPD,current_oeds_direct_relationship,,,044032,Gallipolis City,Gallia
+200040,Gallia-Jackson-Vinton JVSD CTPD,current_oeds_direct_relationship,,,044156,Jackson City,Jackson
+200040,Gallia-Jackson-Vinton JVSD CTPD,current_oeds_direct_relationship,,,045021,Wellston City,Jackson
+200040,Gallia-Jackson-Vinton JVSD CTPD,current_oeds_direct_relationship,,,047761,Oak Hill Union Local,Jackson
+200040,Gallia-Jackson-Vinton JVSD CTPD,current_oeds_direct_relationship,,,050393,Vinton County Local,Vinton
+200040,Gallia-Jackson-Vinton JVSD CTPD,current_oeds_direct_relationship,,,065680,Gallia County Local,Gallia
+200042,Greene County JVSD CTPD,current_oeds_direct_relationship,,,043968,Fairborn City,Greene
+200042,Greene County JVSD CTPD,current_oeds_direct_relationship,,,045153,Xenia Community City,Greene
+200042,Greene County JVSD CTPD,current_oeds_direct_relationship,,,045674,Yellow Springs Exempted Village,Greene
+200042,Greene County JVSD CTPD,current_oeds_direct_relationship,,,047241,Beavercreek City,Greene
+200042,Greene County JVSD CTPD,current_oeds_direct_relationship,,,047258,Cedar Cliff Local,Greene
+200042,Greene County JVSD CTPD,current_oeds_direct_relationship,,,047266,Greeneview Local,Greene
+200042,Greene County JVSD CTPD,current_oeds_direct_relationship,,,047274,Bellbrook-Sugarcreek Local,Greene
+200043,Cincinnati City CTPD,current_oeds_direct_relationship,,,043752,Cincinnati Public Schools,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,043851,Deer Park Community City,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,044081,Winton Woods City,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,044123,Hillsboro City,Highland
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,044230,Lockland Local,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,044271,Loveland City,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,044289,Madeira City,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,044313,Mariemont City,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,044412,Mt Healthy City,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,044511,North College Hill City,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,044578,Norwood City,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,044677,Princeton City,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,044693,Reading Community City,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,044719,St Bernard-Elmwood Place City,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,044867,Sycamore Community City,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,045013,Washington Court House City,Fayette
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,045112,Wilmington City,Clinton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,045146,Wyoming City,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,045401,Greenfield Exempted Village,Highland
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,045435,Indian Hill Exempted Village,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,045500,Milford Exempted Village,Clermont
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,046300,Batavia Local,Clermont
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,046326,Clermont Northeastern Local,Clermont
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,046342,Goshen Local,Clermont
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,046359,West Clermont Local,Clermont
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,046383,Blanchester Local,Clinton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,046391,Clinton-Massie Local,Clinton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,046409,East Clinton Local,Clinton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,046920,Miami Trace Local,Fayette
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,047332,Finneytown Local,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,047340,Forest Hills Local,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,047373,Oak Hills Local,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,047381,Southwest Local,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,047399,Three Rivers Local,Hamilton
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,047621,Fairfield Local,Highland
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,047639,Lynchburg-Clay Local,Highland
+200044,Great Oaks Career Campuses,current_oeds_direct_relationship,,,050450,Mason City,Warren
+200050,Jefferson County JVSD CTPD,current_oeds_direct_relationship,,,044826,Steubenville City,Jefferson
+200050,Jefferson County JVSD CTPD,current_oeds_direct_relationship,,,044917,Toronto City,Jefferson
+200050,Jefferson County JVSD CTPD,current_oeds_direct_relationship,,,047787,Buckeye Local,Jefferson
+200050,Jefferson County JVSD CTPD,current_oeds_direct_relationship,,,047795,Edison Local,Jefferson
+200050,Jefferson County JVSD CTPD,current_oeds_direct_relationship,,,047803,Indian Creek Local,Jefferson
+200051,Knox County JVSD CTPD,current_oeds_direct_relationship,,,044420,Mount Vernon City,Knox
+200051,Knox County JVSD CTPD,current_oeds_direct_relationship,,,047829,Centerburg Local,Knox
+200051,Knox County JVSD CTPD,current_oeds_direct_relationship,,,047837,Danville Local,Knox
+200051,Knox County JVSD CTPD,current_oeds_direct_relationship,,,047845,East Knox Local,Knox
+200051,Knox County JVSD CTPD,current_oeds_direct_relationship,,,047852,Fredericktown Local,Knox
+200051,Knox County JVSD CTPD,current_oeds_direct_relationship,,,049411,Clear Fork Valley Local,Richland
+200052,Auburn JVSD CTPD,current_oeds_direct_relationship,,,044628,Painesville City Local,Lake
+200052,Auburn JVSD CTPD,current_oeds_direct_relationship,,,045369,Fairport Harbor Exempted Village,Lake
+200052,Auburn JVSD CTPD,current_oeds_direct_relationship,,,047167,Berkshire Local,Geauga
+200052,Auburn JVSD CTPD,current_oeds_direct_relationship,,,047175,Cardinal Local,Geauga
+200052,Auburn JVSD CTPD,current_oeds_direct_relationship,,,047183,Chardon Local,Geauga
+200052,Auburn JVSD CTPD,current_oeds_direct_relationship,,,047191,Kenston Local,Geauga
+200052,Auburn JVSD CTPD,current_oeds_direct_relationship,,,047878,Kirtland Local,Lake
+200052,Auburn JVSD CTPD,current_oeds_direct_relationship,,,047886,Madison Local,Lake
+200052,Auburn JVSD CTPD,current_oeds_direct_relationship,,,047894,Riverside Local,Lake
+200052,Auburn JVSD CTPD,current_oeds_direct_relationship,,,047902,Perry Local,Lake
+200054,Lawrence County JVSD CTPD,current_oeds_direct_relationship,,,044149,Ironton City School District,Lawrence
+200054,Lawrence County JVSD CTPD,current_oeds_direct_relationship,,,045294,Chesapeake Union Exempted Village,Lawrence
+200054,Lawrence County JVSD CTPD,current_oeds_direct_relationship,,,047928,Dawson-Bryant Local,Lawrence
+200054,Lawrence County JVSD CTPD,current_oeds_direct_relationship,,,047936,Fairland Local,Lawrence
+200054,Lawrence County JVSD CTPD,current_oeds_direct_relationship,,,047944,Rock Hill Local,Lawrence
+200054,Lawrence County JVSD CTPD,current_oeds_direct_relationship,,,047951,South Point Local,Lawrence
+200054,Lawrence County JVSD CTPD,current_oeds_direct_relationship,,,047969,Symmes Valley Local,Lawrence
+200055,Licking County JVSD CTPD,current_oeds_direct_relationship,,,044115,Heath City,Licking
+200055,Licking County JVSD CTPD,current_oeds_direct_relationship,,,044453,Newark City Schools,Licking
+200055,Licking County JVSD CTPD,current_oeds_direct_relationship,,,045393,Granville Exempted Village,Licking
+200055,Licking County JVSD CTPD,current_oeds_direct_relationship,,,047985,Johnstown-Monroe Local,Licking
+200055,Licking County JVSD CTPD,current_oeds_direct_relationship,,,047993,Lakewood Local,Licking
+200055,Licking County JVSD CTPD,current_oeds_direct_relationship,,,048009,Licking Heights Local,Licking
+200055,Licking County JVSD CTPD,current_oeds_direct_relationship,,,048017,Licking Valley Local,Licking
+200055,Licking County JVSD CTPD,current_oeds_direct_relationship,,,048025,North Fork Local,Licking
+200055,Licking County JVSD CTPD,current_oeds_direct_relationship,,,048033,Northridge Local,Licking
+200055,Licking County JVSD CTPD,current_oeds_direct_relationship,,,048041,Southwest Licking Local,Licking
+200056,Ohio Hi-Point JVSD CTPD,current_oeds_direct_relationship,,,043588,Bellefontaine City,Logan
+200056,Ohio Hi-Point JVSD CTPD,current_oeds_direct_relationship,,,044172,Kenton City,Hardin
+200056,Ohio Hi-Point JVSD CTPD,current_oeds_direct_relationship,,,044941,Urbana City,Champaign
+200056,Ohio Hi-Point JVSD CTPD,current_oeds_direct_relationship,,,045476,Marysville Exempted Village,Union
+200056,Ohio Hi-Point JVSD CTPD,current_oeds_direct_relationship,,,045484,Mechanicsburg Exempted Village,Champaign
+200056,Ohio Hi-Point JVSD CTPD,current_oeds_direct_relationship,,,045971,Waynesfield-Goshen Local,Auglaize
+200056,Ohio Hi-Point JVSD CTPD,current_oeds_direct_relationship,,,046193,Graham Local,Champaign
+200056,Ohio Hi-Point JVSD CTPD,current_oeds_direct_relationship,,,046201,Triad Local,Champaign
+200056,Ohio Hi-Point JVSD CTPD,current_oeds_direct_relationship,,,046219,West Liberty-Salem Local,Champaign
+200056,Ohio Hi-Point JVSD CTPD,current_oeds_direct_relationship,,,047506,Ridgemont Local,Hardin
+200056,Ohio Hi-Point JVSD CTPD,current_oeds_direct_relationship,,,047522,Upper Scioto Valley Local,Hardin
+200056,Ohio Hi-Point JVSD CTPD,current_oeds_direct_relationship,,,048074,Benjamin Logan Local,Logan
+200056,Ohio Hi-Point JVSD CTPD,current_oeds_direct_relationship,,,048082,Indian Lake Local,Logan
+200056,Ohio Hi-Point JVSD CTPD,current_oeds_direct_relationship,,,048090,Riverside Local,Logan
+200057,Lorain City CTPD,current_oeds_direct_relationship,,,044263,Lorain City,Lorain
+200058,Lorain County JVSD CTPD,current_oeds_direct_relationship,,,043943,Elyria City Schools,Lorain
+200058,Lorain County JVSD CTPD,current_oeds_direct_relationship,,,044537,North Ridgeville City,Lorain
+200058,Lorain County JVSD CTPD,current_oeds_direct_relationship,,,044594,Oberlin City Schools,Lorain
+200058,Lorain County JVSD CTPD,current_oeds_direct_relationship,,,044768,Sheffield-Sheffield Lake City,Lorain
+200058,Lorain County JVSD CTPD,current_oeds_direct_relationship,,,045195,Amherst Exempted Village,Lorain
+200058,Lorain County JVSD CTPD,current_oeds_direct_relationship,,,045658,Wellington Exempted Village,Lorain
+200058,Lorain County JVSD CTPD,current_oeds_direct_relationship,,,048116,Avon Local,Lorain
+200058,Lorain County JVSD CTPD,current_oeds_direct_relationship,,,048124,Avon Lake City,Lorain
+200058,Lorain County JVSD CTPD,current_oeds_direct_relationship,,,048132,Clearview Local,Lorain
+200058,Lorain County JVSD CTPD,current_oeds_direct_relationship,,,048140,Columbia Local,Lorain
+200058,Lorain County JVSD CTPD,current_oeds_direct_relationship,,,048157,Firelands Local,Lorain
+200058,Lorain County JVSD CTPD,current_oeds_direct_relationship,,,048165,Keystone Local,Lorain
+200058,Lorain County JVSD CTPD,current_oeds_direct_relationship,,,048173,Midview Local,Lorain
+200059,Oregon City CTPD,current_oeds_direct_relationship,,,044602,Oregon City,Lucas
+200060,Sylvania City CTPD,current_oeds_direct_relationship,,,044875,Sylvania Schools,Lucas
+200060,Sylvania City CTPD,current_oeds_direct_relationship,,,048215,Ottawa Hills Local,Lucas
+200061,Toledo City CTPD,current_oeds_direct_relationship,,,044909,Toledo City,Lucas
+200062,Washington Local CTPD,current_oeds_direct_relationship,,,048231,Washington Local,Lucas
+200063,Mahoning County JVSD CTPD,current_oeds_direct_relationship,,,043703,Campbell City,Mahoning
+200063,Mahoning County JVSD CTPD,current_oeds_direct_relationship,,,044859,Struthers City,Mahoning
+200063,Mahoning County JVSD CTPD,current_oeds_direct_relationship,,,048298,Austintown Local Schools,Mahoning
+200063,Mahoning County JVSD CTPD,current_oeds_direct_relationship,,,048306,Boardman Local,Mahoning
+200063,Mahoning County JVSD CTPD,current_oeds_direct_relationship,,,048314,Canfield Local,Mahoning
+200063,Mahoning County JVSD CTPD,current_oeds_direct_relationship,,,048322,Jackson-Milton Local,Mahoning
+200063,Mahoning County JVSD CTPD,current_oeds_direct_relationship,,,048330,Lowellville Local,Mahoning
+200063,Mahoning County JVSD CTPD,current_oeds_direct_relationship,,,048348,Poland Local,Mahoning
+200063,Mahoning County JVSD CTPD,current_oeds_direct_relationship,,,048355,Sebring Local,Mahoning
+200063,Mahoning County JVSD CTPD,current_oeds_direct_relationship,,,048363,South Range Local,Mahoning
+200063,Mahoning County JVSD CTPD,current_oeds_direct_relationship,,,048371,Springfield Local,Mahoning
+200063,Mahoning County JVSD CTPD,current_oeds_direct_relationship,,,048389,West Branch Local,Mahoning
+200063,Mahoning County JVSD CTPD,current_oeds_direct_relationship,,,048397,Western Reserve Local,Mahoning
+200064,Youngstown City CTPD,current_oeds_direct_relationship,,,045161,Youngstown City,Mahoning
+200066,Medina County JVSD CTPD,current_oeds_direct_relationship,,,043661,Brunswick City,Medina
+200066,Medina County JVSD CTPD,current_oeds_direct_relationship,,,044388,Medina City SD,Medina
+200066,Medina County JVSD CTPD,current_oeds_direct_relationship,,,048462,Black River Local,Medina
+200066,Medina County JVSD CTPD,current_oeds_direct_relationship,,,048470,Buckeye Local,Medina
+200066,Medina County JVSD CTPD,current_oeds_direct_relationship,,,048488,Cloverleaf Local,Medina
+200066,Medina County JVSD CTPD,current_oeds_direct_relationship,,,048496,Highland Local,Medina
+200067,Meigs Local CTPD,current_oeds_direct_relationship,,,048512,Eastern Local,Meigs
+200067,Meigs Local CTPD,current_oeds_direct_relationship,,,048520,Meigs Local,Meigs
+200067,Meigs Local CTPD,current_oeds_direct_relationship,,,048538,Southern Local,Meigs
+200069,Upper Valley JVSD CTPD,current_oeds_direct_relationship,,,044644,Piqua City,Miami
+200069,Upper Valley JVSD CTPD,current_oeds_direct_relationship,,,044784,Sidney City,Shelby
+200069,Upper Valley JVSD CTPD,current_oeds_direct_relationship,,,044925,Troy City,Miami
+200069,Upper Valley JVSD CTPD,current_oeds_direct_relationship,,,045229,Bradford Exempted Village,Miami
+200069,Upper Valley JVSD CTPD,current_oeds_direct_relationship,,,045336,Covington Exempted Village,Miami
+200069,Upper Valley JVSD CTPD,current_oeds_direct_relationship,,,048637,Newton Local,Miami
+200069,Upper Valley JVSD CTPD,current_oeds_direct_relationship,,,049759,Anna Local,Shelby
+200069,Upper Valley JVSD CTPD,current_oeds_direct_relationship,,,049767,Botkins Local,Shelby
+200069,Upper Valley JVSD CTPD,current_oeds_direct_relationship,,,049775,Fairlawn Local,Shelby
+200069,Upper Valley JVSD CTPD,current_oeds_direct_relationship,,,049783,Fort Loramie Local,Shelby
+200069,Upper Valley JVSD CTPD,current_oeds_direct_relationship,,,049791,Hardin-Houston Local,Shelby
+200069,Upper Valley JVSD CTPD,current_oeds_direct_relationship,,,049809,Jackson Center Local,Shelby
+200069,Upper Valley JVSD CTPD,current_oeds_direct_relationship,,,049817,Russia Local,Shelby
+200070,Switzerland of Ohio Local CTPD,current_oeds_direct_relationship,,,048652,Switzerland of Ohio Local,Monroe
+200071,Dayton City CTPD,current_oeds_direct_relationship,,,043844,Dayton City,Montgomery
+200072,Mad River Local CTPD,current_oeds_direct_relationship,,,048702,Mad River Local,Montgomery
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,043935,Eaton Community City,Preble
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,044396,Miamisburg City,Montgomery
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,044958,Vandalia-Butler City,Montgomery
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,045054,West Carrollton City,Montgomery
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,045518,Milton-Union Exempted Village,Miami
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,045617,Tipp City Exempted Village,Miami
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,045633,Versailles Exempted Village,Darke
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,046623,Ansonia Local,Darke
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,046631,Arcanum-Butler Local,Darke
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,046649,Franklin Monroe Local,Darke
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,046672,Mississinawa Valley Local,Darke
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,046680,Tri-Village Local,Darke
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,048611,Bethel Local,Miami
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,048629,Miami East Local,Miami
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,048678,Brookville Local,Montgomery
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,048686,Jefferson Township Local,Montgomery
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,048694,Trotwood-Madison City,Montgomery
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,048710,New Lebanon Local School District,Montgomery
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,048728,Northmont City,Montgomery
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,048736,Northridge Local,Montgomery
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,048744,Valley View Local,Montgomery
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,048751,Huber Heights City,Montgomery
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,049270,National Trail Local,Preble
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,049288,Preble Shawnee Local,Preble
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,049296,Twin Valley Community Local,Preble
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,050419,Carlisle Local,Warren
+200073,Miami Valley Career Technology JVSD CTPD,current_oeds_direct_relationship,,,091397,Tri-County North Local,Preble
+200074,Morgan Local CTPD,current_oeds_direct_relationship,,,048777,Morgan Local,Morgan
+200075,Mid-East Ohio JVSD CTPD,current_oeds_direct_relationship,,,043695,Cambridge City,Guernsey
+200075,Mid-East Ohio JVSD CTPD,current_oeds_direct_relationship,,,045179,Zanesville City,Muskingum
+200075,Mid-East Ohio JVSD CTPD,current_oeds_direct_relationship,,,045252,Caldwell Exempted Village,Noble
+200075,Mid-East Ohio JVSD CTPD,current_oeds_direct_relationship,,,045351,Crooksville Exempted Village,Perry
+200075,Mid-East Ohio JVSD CTPD,current_oeds_direct_relationship,,,047308,Rolling Hills Local,Guernsey
+200075,Mid-East Ohio JVSD CTPD,current_oeds_direct_relationship,,,048835,East Muskingum Local,Muskingum
+200075,Mid-East Ohio JVSD CTPD,current_oeds_direct_relationship,,,048843,Franklin Local,Muskingum
+200075,Mid-East Ohio JVSD CTPD,current_oeds_direct_relationship,,,048850,Maysville Local,Muskingum
+200075,Mid-East Ohio JVSD CTPD,current_oeds_direct_relationship,,,048876,Tri-Valley Local,Muskingum
+200075,Mid-East Ohio JVSD CTPD,current_oeds_direct_relationship,,,048884,West Muskingum Local,Muskingum
+200075,Mid-East Ohio JVSD CTPD,current_oeds_direct_relationship,,,048900,Noble Local,Noble
+200075,Mid-East Ohio JVSD CTPD,current_oeds_direct_relationship,,,049056,Northern Local,Perry
+200075,Mid-East Ohio JVSD CTPD,current_oeds_direct_relationship,,,069682,East Guernsey Local,Guernsey
+200077,Pike County Career  Technology Center CTPD,current_oeds_direct_relationship,,,049122,Eastern Local School District,Pike
+200077,Pike County Career  Technology Center CTPD,current_oeds_direct_relationship,,,049130,Scioto Valley Local,Pike
+200077,Pike County Career  Technology Center CTPD,current_oeds_direct_relationship,,,049148,Waverly City,Pike
+200077,Pike County Career  Technology Center CTPD,current_oeds_direct_relationship,,,049155,Western Local,Pike
+200078,Maplewood Area JVSD CTPD,current_oeds_direct_relationship,,,044685,Ravenna City,Portage
+200078,Maplewood Area JVSD CTPD,current_oeds_direct_relationship,,,045666,Windham Exempted Village,Portage
+200078,Maplewood Area JVSD CTPD,current_oeds_direct_relationship,,,049189,Crestwood Local,Portage
+200078,Maplewood Area JVSD CTPD,current_oeds_direct_relationship,,,049197,Field Local,Portage
+200078,Maplewood Area JVSD CTPD,current_oeds_direct_relationship,,,049205,James A Garfield Local,Portage
+200078,Maplewood Area JVSD CTPD,current_oeds_direct_relationship,,,049213,Rootstown Local,Portage
+200078,Maplewood Area JVSD CTPD,current_oeds_direct_relationship,,,049221,Southeast Local,Portage
+200078,Maplewood Area JVSD CTPD,current_oeds_direct_relationship,,,049239,Streetsboro City,Portage
+200078,Maplewood Area JVSD CTPD,current_oeds_direct_relationship,,,049247,Waterloo Local,Portage
+200078,Maplewood Area JVSD CTPD,current_oeds_direct_relationship,,,050039,Mogadore Local,Summit
+200079,College Corner Local CTPD,current_oeds_direct_relationship,,,064964,College Corner Local,Preble
+200081,Madison Local CTPD,current_oeds_direct_relationship,,,049452,Madison Local,Richland
+200082,Mansfield City CTPD,current_oeds_direct_relationship,,,044297,Mansfield City,Richland
+200083,Pioneer CTC JVSD CTPD,current_oeds_direct_relationship,,,043687,Bucyrus City,Crawford
+200083,Pioneer CTC JVSD CTPD,current_oeds_direct_relationship,,,044024,Galion City,Crawford
+200083,Pioneer CTC JVSD CTPD,current_oeds_direct_relationship,,,044776,Shelby City,Richland
+200083,Pioneer CTC JVSD CTPD,current_oeds_direct_relationship,,,045096,Willard City,Huron
+200083,Pioneer CTC JVSD CTPD,current_oeds_direct_relationship,,,045344,Crestline Exempted Village,Crawford
+200083,Pioneer CTC JVSD CTPD,current_oeds_direct_relationship,,,046508,Buckeye Central Local,Crawford
+200083,Pioneer CTC JVSD CTPD,current_oeds_direct_relationship,,,046516,Colonel Crawford Local,Crawford
+200083,Pioneer CTC JVSD CTPD,current_oeds_direct_relationship,,,046524,Wynford Local,Crawford
+200083,Pioneer CTC JVSD CTPD,current_oeds_direct_relationship,,,048819,Northmor Local,Morrow
+200083,Pioneer CTC JVSD CTPD,current_oeds_direct_relationship,,,049429,Crestview Local,Richland
+200083,Pioneer CTC JVSD CTPD,current_oeds_direct_relationship,,,049437,Lexington Local,Richland
+200083,Pioneer CTC JVSD CTPD,current_oeds_direct_relationship,,,049445,Lucas Local,Richland
+200083,Pioneer CTC JVSD CTPD,current_oeds_direct_relationship,,,049460,Plymouth-Shiloh Local,Richland
+200083,Pioneer CTC JVSD CTPD,current_oeds_direct_relationship,,,049478,Ontario Local,Richland
+200084,Pickaway-Ross County JVSD CTPD,current_oeds_direct_relationship,,,043745,Chillicothe City,Ross
+200084,Pickaway-Ross County JVSD CTPD,current_oeds_direct_relationship,,,043760,Circleville City,Pickaway
+200084,Pickaway-Ross County JVSD CTPD,current_oeds_direct_relationship,,,049080,Logan Elm Local,Pickaway
+200084,Pickaway-Ross County JVSD CTPD,current_oeds_direct_relationship,,,049106,Westfall Local,Pickaway
+200084,Pickaway-Ross County JVSD CTPD,current_oeds_direct_relationship,,,049494,Adena Local,Ross
+200084,Pickaway-Ross County JVSD CTPD,current_oeds_direct_relationship,,,049502,Huntington Local,Ross
+200084,Pickaway-Ross County JVSD CTPD,current_oeds_direct_relationship,,,049510,Paint Valley Local,Ross
+200084,Pickaway-Ross County JVSD CTPD,current_oeds_direct_relationship,,,049528,Southeastern Local,Ross
+200084,Pickaway-Ross County JVSD CTPD,current_oeds_direct_relationship,,,049536,Union-Scioto Local,Ross
+200084,Pickaway-Ross County JVSD CTPD,current_oeds_direct_relationship,,,049544,Zane Trace Local,Ross
+200085,Vanguard-Sentinel JVSD CTPD,current_oeds_direct_relationship,,,043992,Fostoria City,Seneca
+200085,Vanguard-Sentinel JVSD CTPD,current_oeds_direct_relationship,,,044016,Fremont City,Sandusky
+200085,Vanguard-Sentinel JVSD CTPD,current_oeds_direct_relationship,,,044651,Port Clinton City,Ottawa
+200085,Vanguard-Sentinel JVSD CTPD,current_oeds_direct_relationship,,,044891,Tiffin City Schools,Seneca
+200085,Vanguard-Sentinel JVSD CTPD,current_oeds_direct_relationship,,,045302,Clyde-Green Springs Exempted Village,Sandusky
+200085,Vanguard-Sentinel JVSD CTPD,current_oeds_direct_relationship,,,045385,Gibsonburg Exempted Village,Sandusky
+200085,Vanguard-Sentinel JVSD CTPD,current_oeds_direct_relationship,,,045625,Upper Sandusky Exempted Village,Wyandot
+200085,Vanguard-Sentinel JVSD CTPD,current_oeds_direct_relationship,,,049569,Lakota Local,Sandusky
+200085,Vanguard-Sentinel JVSD CTPD,current_oeds_direct_relationship,,,049684,Seneca East Local,Seneca
+200085,Vanguard-Sentinel JVSD CTPD,current_oeds_direct_relationship,,,049700,Hopewell-Loudon Local,Seneca
+200085,Vanguard-Sentinel JVSD CTPD,current_oeds_direct_relationship,,,049718,New Riegel Local,Seneca
+200085,Vanguard-Sentinel JVSD CTPD,current_oeds_direct_relationship,,,049726,Old Fort Local,Seneca
+200085,Vanguard-Sentinel JVSD CTPD,current_oeds_direct_relationship,,,050740,Mohawk Local,Wyandot
+200086,Scioto County JVSD CTPD,current_oeds_direct_relationship,,,044461,New Boston Local,Scioto
+200086,Scioto County JVSD CTPD,current_oeds_direct_relationship,,,044669,Portsmouth City,Scioto
+200086,Scioto County JVSD CTPD,current_oeds_direct_relationship,,,049593,Bloom-Vernon Local,Scioto
+200086,Scioto County JVSD CTPD,current_oeds_direct_relationship,,,049601,Clay Local,Scioto
+200086,Scioto County JVSD CTPD,current_oeds_direct_relationship,,,049619,Green Local,Scioto
+200086,Scioto County JVSD CTPD,current_oeds_direct_relationship,,,049627,Minford Local,Scioto
+200086,Scioto County JVSD CTPD,current_oeds_direct_relationship,,,049635,Northwest Local,Scioto
+200086,Scioto County JVSD CTPD,current_oeds_direct_relationship,,,049643,Valley Local,Scioto
+200086,Scioto County JVSD CTPD,current_oeds_direct_relationship,,,049650,Washington-Nile Local,Scioto
+200086,Scioto County JVSD CTPD,current_oeds_direct_relationship,,,049668,Wheelersburg Local,Scioto
+200089,Alliance City CTPD,current_oeds_direct_relationship,,,043497,Alliance City,Stark
+200089,Alliance City CTPD,current_oeds_direct_relationship,,,044735,Salem City,Columbiana
+200089,Alliance City CTPD,current_oeds_direct_relationship,,,049882,Marlington Local,Stark
+200090,Canton City CTPD,current_oeds_direct_relationship,,,043711,Canton City,Stark
+200092,Massillon City CTPD,current_oeds_direct_relationship,,,044354,Massillon City,Stark
+200093,Stark County Career Compact,current_oeds_direct_relationship,,,044503,North Canton City,Stark
+200093,Stark County Career Compact,current_oeds_direct_relationship,,,049858,Jackson Local,Stark
+200093,Stark County Career Compact,current_oeds_direct_relationship,,,049866,Lake Local,Stark
+200093,Stark County Career Compact,current_oeds_direct_relationship,,,049932,Plain Local,Stark
+200094,Stark County Area JVSD CTPD,current_oeds_direct_relationship,,,046177,Brown Local,Carroll
+200094,Stark County Area JVSD CTPD,current_oeds_direct_relationship,,,049841,Fairless Local,Stark
+200094,Stark County Area JVSD CTPD,current_oeds_direct_relationship,,,049874,Louisville City,Stark
+200094,Stark County Area JVSD CTPD,current_oeds_direct_relationship,,,049890,Minerva Local,Stark
+200094,Stark County Area JVSD CTPD,current_oeds_direct_relationship,,,049908,Northwest Local,Stark
+200094,Stark County Area JVSD CTPD,current_oeds_direct_relationship,,,049957,Tuslaw Local,Stark
+200095,Akron City CTPD,current_oeds_direct_relationship,,,043489,Akron City,Summit
+200096,Four City Compact CTPD,current_oeds_direct_relationship,,,043539,Barberton City,Summit
+200096,Four City Compact CTPD,current_oeds_direct_relationship,,,044552,Norton City,Summit
+200096,Four City Compact CTPD,current_oeds_direct_relationship,,,044974,Wadsworth City,Medina
+200096,Four City Compact CTPD,current_oeds_direct_relationship,,,049981,Copley-Fairlawn City,Summit
+200097,Six District Voc Ed Compact CTPD,current_oeds_direct_relationship,,,043836,Cuyahoga Falls City School District,Summit
+200097,Six District Voc Ed Compact CTPD,current_oeds_direct_relationship,,,044164,Kent City,Portage
+200097,Six District Voc Ed Compact CTPD,current_oeds_direct_relationship,,,044834,Stow-Munroe Falls City School District,Summit
+200097,Six District Voc Ed Compact CTPD,current_oeds_direct_relationship,,,044883,Tallmadge City,Summit
+200097,Six District Voc Ed Compact CTPD,current_oeds_direct_relationship,,,049973,Woodridge Local,Summit
+200097,Six District Voc Ed Compact CTPD,current_oeds_direct_relationship,,,050021,Hudson City,Summit
+200098,Portage Lakes JVSD CTPD,current_oeds_direct_relationship,,,049999,Coventry Local,Summit
+200098,Portage Lakes JVSD CTPD,current_oeds_direct_relationship,,,050005,Manchester Local,Summit
+200098,Portage Lakes JVSD CTPD,current_oeds_direct_relationship,,,050013,Green Local,Summit
+200098,Portage Lakes JVSD CTPD,current_oeds_direct_relationship,,,050062,Springfield Local,Summit
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,044065,Girard City School District,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,044495,Niles City,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,044990,Warren City,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,045427,Hubbard Exempted Village,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,045567,Newton Falls Exempted Village,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,050096,Bloomfield-Mespo Local,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,050112,Bristol Local,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,050120,Brookfield Local,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,050138,Champion Local,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,050153,Mathews Local,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,050161,Howland Local,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,050179,Joseph Badger Local,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,050187,Lakeview Local,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,050195,Liberty Local,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,050203,Lordstown Local,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,050211,Maplewood Local,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,050229,McDonald Local,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,050237,Southington Local,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,050245,LaBrae Local,Trumbull
+200099,Trumbull County JVSD CTPD,current_oeds_direct_relationship,,,050252,Weathersfield Local,Trumbull
+200101,Buckeye JVSD CTPD,current_oeds_direct_relationship,,,043778,Claymont City,Tuscarawas
+200101,Buckeye JVSD CTPD,current_oeds_direct_relationship,,,043893,Dover City,Tuscarawas
+200101,Buckeye JVSD CTPD,current_oeds_direct_relationship,,,044487,New Philadelphia City,Tuscarawas
+200101,Buckeye JVSD CTPD,current_oeds_direct_relationship,,,045278,Carrollton Exempted Village,Carroll
+200101,Buckeye JVSD CTPD,current_oeds_direct_relationship,,,045542,Newcomerstown Exempted Village,Tuscarawas
+200101,Buckeye JVSD CTPD,current_oeds_direct_relationship,,,047548,Conotton Valley Union Local,Harrison
+200101,Buckeye JVSD CTPD,current_oeds_direct_relationship,,,047688,East Holmes Local,Holmes
+200101,Buckeye JVSD CTPD,current_oeds_direct_relationship,,,050278,Garaway Local,Tuscarawas
+200101,Buckeye JVSD CTPD,current_oeds_direct_relationship,,,050286,Indian Valley Local,Tuscarawas
+200101,Buckeye JVSD CTPD,current_oeds_direct_relationship,,,050294,Strasburg-Franklin Local,Tuscarawas
+200101,Buckeye JVSD CTPD,current_oeds_direct_relationship,,,050302,Tuscarawas Valley Local,Tuscarawas
+200102,Vantage JVSD CTPD,current_oeds_direct_relationship,,,043885,Delphos City,Allen
+200102,Vantage JVSD CTPD,current_oeds_direct_relationship,,,044966,Van Wert City,Van Wert
+200102,Vantage JVSD CTPD,current_oeds_direct_relationship,,,045575,Paulding Exempted Village,Paulding
+200102,Vantage JVSD CTPD,current_oeds_direct_relationship,,,048579,Parkway Local,Mercer
+200102,Vantage JVSD CTPD,current_oeds_direct_relationship,,,048991,Antwerp Local,Paulding
+200102,Vantage JVSD CTPD,current_oeds_direct_relationship,,,049031,Wayne Trace Local,Paulding
+200102,Vantage JVSD CTPD,current_oeds_direct_relationship,,,049320,Continental Local,Putnam
+200102,Vantage JVSD CTPD,current_oeds_direct_relationship,,,049338,Jennings Local,Putnam
+200102,Vantage JVSD CTPD,current_oeds_direct_relationship,,,049346,Kalida Local,Putnam
+200102,Vantage JVSD CTPD,current_oeds_direct_relationship,,,049387,Ottoville Local,Putnam
+200102,Vantage JVSD CTPD,current_oeds_direct_relationship,,,050351,Crestview Local,Van Wert
+200102,Vantage JVSD CTPD,current_oeds_direct_relationship,,,050369,Lincolnview Local,Van Wert
+200103,Warren County JVSD CTPD,current_oeds_direct_relationship,,,044008,Franklin City,Warren
+200103,Warren County JVSD CTPD,current_oeds_direct_relationship,,,044214,Lebanon City,Warren
+200103,Warren County JVSD CTPD,current_oeds_direct_relationship,,,050427,Springboro Community City,Warren
+200103,Warren County JVSD CTPD,current_oeds_direct_relationship,,,050435,Kings Local,Warren
+200103,Warren County JVSD CTPD,current_oeds_direct_relationship,,,050443,Little Miami Local,Warren
+200103,Warren County JVSD CTPD,current_oeds_direct_relationship,,,050468,Wayne Local,Warren
+200104,Washington County JVSD CTPD,current_oeds_direct_relationship,,,043604,Belpre City,Washington
+200104,Washington County JVSD CTPD,current_oeds_direct_relationship,,,044321,Marietta City,Washington
+200104,Washington County JVSD CTPD,current_oeds_direct_relationship,,,050484,Fort Frye Local,Washington
+200104,Washington County JVSD CTPD,current_oeds_direct_relationship,,,050492,Frontier Local,Washington
+200104,Washington County JVSD CTPD,current_oeds_direct_relationship,,,050500,Warren Local,Washington
+200104,Washington County JVSD CTPD,current_oeds_direct_relationship,,,050518,Wolf Creek Local,Washington
+200105,Wayne County JVSD CTPD,current_oeds_direct_relationship,,,044610,Orrville City,Wayne
+200105,Wayne County JVSD CTPD,current_oeds_direct_relationship,,,045120,Wooster City,Wayne
+200105,Wayne County JVSD CTPD,current_oeds_direct_relationship,,,045591,Rittman Exempted Village,Wayne
+200105,Wayne County JVSD CTPD,current_oeds_direct_relationship,,,050534,Chippewa Local,Wayne
+200105,Wayne County JVSD CTPD,current_oeds_direct_relationship,,,050542,Dalton Local,Wayne
+200105,Wayne County JVSD CTPD,current_oeds_direct_relationship,,,050559,Green Local,Wayne
+200105,Wayne County JVSD CTPD,current_oeds_direct_relationship,,,050567,Norwayne Local,Wayne
+200105,Wayne County JVSD CTPD,current_oeds_direct_relationship,,,050575,Northwestern Local,Wayne
+200105,Wayne County JVSD CTPD,current_oeds_direct_relationship,,,050583,Waynedale Local,Wayne
+200105,Wayne County JVSD CTPD,current_oeds_direct_relationship,,,050591,Triway Local,Wayne
+200107,Ohio Valley Local CTPD,current_oeds_direct_relationship,,,000442,Manchester Local,Adams
+200107,Ohio Valley Local CTPD,current_oeds_direct_relationship,,,061903,Adams County Ohio Valley Local,Adams
+200108,Coshocton County JVSD CTPD,current_oeds_direct_relationship,,,043828,Coshocton City,Coshocton
+200108,Coshocton County JVSD CTPD,current_oeds_direct_relationship,,,046474,Ridgewood Local,Coshocton
+200108,Coshocton County JVSD CTPD,current_oeds_direct_relationship,,,046482,River View Local,Coshocton
+200111,Tri-Rivers JVSD CTPD,current_oeds_direct_relationship,,,044339,Marion City,Marion
+200111,Tri-Rivers JVSD CTPD,current_oeds_direct_relationship,,,045534,Mount Gilead Exempted Village,Morrow
+200111,Tri-Rivers JVSD CTPD,current_oeds_direct_relationship,,,048413,Elgin Local,Marion
+200111,Tri-Rivers JVSD CTPD,current_oeds_direct_relationship,,,048421,Pleasant Local,Marion
+200111,Tri-Rivers JVSD CTPD,current_oeds_direct_relationship,,,048439,Ridgedale Local,Marion
+200111,Tri-Rivers JVSD CTPD,current_oeds_direct_relationship,,,048447,River Valley Local,Marion
+200111,Tri-Rivers JVSD CTPD,current_oeds_direct_relationship,,,048793,Cardington-Lincoln Local,Morrow
+200111,Tri-Rivers JVSD CTPD,current_oeds_direct_relationship,,,048801,Highland Local,Morrow
+200111,Tri-Rivers JVSD CTPD,current_oeds_direct_relationship,,,050336,North Union Local School District,Union
+200115,Canton Local CTPD,current_oeds_direct_relationship,,,049833,Canton Local,Stark
+200115,Canton Local CTPD,current_oeds_direct_relationship,,,049916,Osnaburg Local,Stark
+200115,Canton Local CTPD,current_oeds_direct_relationship,,,049924,Perry Local,Stark
+200115,Canton Local CTPD,current_oeds_direct_relationship,,,049940,Sandy Valley Local,Stark
+200116,Millstream Career Cooperative CTPD,current_oeds_direct_relationship,,,043984,Findlay City,Hancock
+200116,Millstream Career Cooperative CTPD,current_oeds_direct_relationship,,,045260,Carey Exempted Village Schools,Wyandot
+200116,Millstream Career Cooperative CTPD,current_oeds_direct_relationship,,,047415,Arcadia Local,Hancock
+200116,Millstream Career Cooperative CTPD,current_oeds_direct_relationship,,,047423,Arlington Local,Hancock
+200116,Millstream Career Cooperative CTPD,current_oeds_direct_relationship,,,047431,Cory-Rawson Local,Hancock
+200116,Millstream Career Cooperative CTPD,current_oeds_direct_relationship,,,047449,Liberty-Benton Local,Hancock
+200116,Millstream Career Cooperative CTPD,current_oeds_direct_relationship,,,047456,McComb Local,Hancock
+200116,Millstream Career Cooperative CTPD,current_oeds_direct_relationship,,,047464,Van Buren Local,Hancock
+200116,Millstream Career Cooperative CTPD,current_oeds_direct_relationship,,,047472,Vanlue Local,Hancock
+200116,Millstream Career Cooperative CTPD,current_oeds_direct_relationship,,,047514,Riverdale Local,Hancock
+200116,Millstream Career Cooperative CTPD,current_oeds_direct_relationship,,,049353,Leipsic Local,Putnam
+200116,Millstream Career Cooperative CTPD,current_oeds_direct_relationship,,,049361,Miller City-New Cleveland Local,Putnam
+200116,Millstream Career Cooperative CTPD,current_oeds_direct_relationship,,,049379,Ottawa-Glandorf Local,Putnam
+200116,Millstream Career Cooperative CTPD,current_oeds_direct_relationship,,,049395,Pandora-Gilboa Local,Putnam
+200117,Greenville City CTPD,current_oeds_direct_relationship,,,044099,Greenville City,Darke
+200119,Lancaster City CTPD,current_oeds_direct_relationship,,,044206,Lancaster City,Fairfield
+200120,Centerville-Kettering-Oakwood CTPD,current_oeds_direct_relationship,,,043737,Centerville City,Montgomery
+200120,Centerville-Kettering-Oakwood CTPD,current_oeds_direct_relationship,,,044180,Kettering City School District,Montgomery
+200120,Centerville-Kettering-Oakwood CTPD,current_oeds_direct_relationship,,,044586,Oakwood City,Montgomery
+200121,Tri Star CTPD,current_oeds_direct_relationship,,,043729,Celina City,Mercer
+200121,Tri Star CTPD,current_oeds_direct_relationship,,,044727,St Marys City,Auglaize
+200121,Tri Star CTPD,current_oeds_direct_relationship,,,045310,Coldwater Exempted Village,Mercer
+200121,Tri Star CTPD,current_oeds_direct_relationship,,,045948,Minster Local,Auglaize
+200121,Tri Star CTPD,current_oeds_direct_relationship,,,045955,New Bremen Local,Auglaize
+200121,Tri Star CTPD,current_oeds_direct_relationship,,,045963,New Knoxville Local,Auglaize
+200121,Tri Star CTPD,current_oeds_direct_relationship,,,048553,Marion Local,Mercer
+200121,Tri Star CTPD,current_oeds_direct_relationship,,,048587,St Henry Consolidated Local,Mercer
+200121,Tri Star CTPD,current_oeds_direct_relationship,,,048595,Fort Recovery Local,Mercer

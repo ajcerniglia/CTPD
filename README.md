@@ -18,6 +18,18 @@ Rscript R/build_ctpd_crosswalk.R .
 
 The script downloads Census inputs only when the saved `data_raw/census/*.rds` snapshots are absent.
 
+To refresh the statewide CTPD membership table directly from the public OEDS
+website before rebuilding:
+
+```sh
+Rscript R/download_ctpd_membership_from_oeds.R .
+```
+
+The public organization search is capped at 100 results. The extractor obtains
+the full traditional-district list in county batches, normalizes all IRNs as
+six-character text, retrieves each CTPD's relationship records, and retains
+only current active relationships to open traditional public districts.
+
 ## Build the static website
 
 After building the crosswalk, regenerate the GitHub Pages site with:
@@ -34,7 +46,7 @@ Website source is kept in `web/index-template.html`. Update that template for de
 
 ## Inputs and vintages
 
-- `data_raw/ohio_ctpd_updated.csv`: supplied parent/lead-to-member relationship file.
+- `data_raw/oeds_ctpd_member_districts.csv`: current direct CTPD-to-member-district relationships regenerated from the public OEDS organization and relationship APIs.
 - `data_raw/oeds_district_ctpd_2026-10-06.csv`: Ohio Educational Directory System public extract generated October 6, 2026. It includes open Traditional Public District and Career Technical Planning District records.
 - `data_raw/census/oh_unified_school_districts_2025.rds`: 2025 Census cartographic unified school districts for Ohio.
 - `data_raw/census/oh_counties_2025.rds`: 2025 Census cartographic counties for Ohio.
@@ -50,8 +62,8 @@ Authoritative validation sources:
 ## Method
 
 1. Normalize every IRN to a six-character string.
-2. Treat `ohio_ctpd_updated.csv` as a directed graph and resolve all reachable traditional-district IRNs from each current CTPD seed. This preserves longer lead-district chains and diagnoses cycles.
-3. Validate current CTPD names and IRNs against the dated OEDS extract. A small, explicit override table handles reviewed renames and comprehensive single-district CTPDs.
+2. Use current active OEDS relationship records to map every open traditional public district directly to its current CTPD.
+3. Validate current CTPD and district names and IRNs against the dated OEDS extract. No fuzzy matching, hierarchy traversal, or hand-coded membership overrides are required.
 4. Match all current traditional districts to Census school-district geometry by normalized name plus an overlapping designated county. Five reviewed aliases handle known naming differences.
 5. Dissolve member-district geometry by current CTPD.
 6. Clip ZCTAs to Ohio, intersect them with CTPD polygons in EPSG:5070, and calculate overlap area, share of the Ohio portion of each ZCTA, and share of each CTPD.
@@ -69,10 +81,10 @@ No positive-area intersection is dropped from the many-to-many table.
 - `output/validation_map.png`: statewide district-membership coverage and multiplicity map with dissolved CTPD outlines.
 - `output/validation_report.md`, `output/validation_checks.csv`, and the other diagnostic CSVs: audit trail and review flags.
 
-## Known validation cases
+## Validation notes
 
 - OEDS CTPDs `200600` and `200602` are correctional/non-geographic and have no traditional school-district boundary.
-- OEDS CTPD `022550` (Western Lake County Compact) is newer than the supplied hierarchy. The build records a reviewed manual mapping to the supplied `200053` Lake Shore Compact hierarchy; this decision remains visible in `ctpd_validation.csv`.
-- The supplied hierarchy contains a directed cycle involving Bedford and Tri-Heights lead IRNs. Graph reachability resolves the component while `hierarchy_cycles.csv` preserves the issue for review.
+- The public OEDS relationships assign all 611 open traditional districts exactly once across 93 geographic CTPDs.
+- `output/oeds_vs_legacy_membership_changes.csv` records the nine pair-level differences between the earlier derived hierarchy and the current direct OEDS relationships.
 
-Refresh the OEDS extract and relationship file together when authoritative membership data for new or reorganized CTPDs become available.
+Refresh the OEDS extract and rerun the public relationship extractor together when authoritative membership data for new or reorganized CTPDs become available.

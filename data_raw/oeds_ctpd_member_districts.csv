@@ -1,0 +1,612 @@
+ctpd_irn,ctpd_name,district_irn,district_name
+021357,Bedford City Comprehensive CTPD,043562,Bedford City
+022546,Euclid City Comprehensive CTPD,043950,Euclid City
+022548,Mentor Exempted Village Comprehensive CTPD,045492,Mentor Exempted Village
+022550,Western Lake County Compact CTPD,045088,Wickliffe City
+022550,Western Lake County Compact CTPD,045104,Willoughby-Eastlake City
+200001,Apollo JVSD CTPD,044982,Wapakoneta City
+200001,Apollo JVSD CTPD,045187,Ada Exempted Village
+200001,Apollo JVSD CTPD,045211,Bluffton Exempted Village
+200001,Apollo JVSD CTPD,045757,Allen East Local
+200001,Apollo JVSD CTPD,045765,Bath Local
+200001,Apollo JVSD CTPD,045773,Elida Local
+200001,Apollo JVSD CTPD,045781,Perry Local
+200001,Apollo JVSD CTPD,045799,Shawnee Local
+200001,Apollo JVSD CTPD,045807,Spencerville Local
+200001,Apollo JVSD CTPD,047498,Hardin Northern Local
+200001,Apollo JVSD CTPD,049312,Columbus Grove Local
+200002,Lima City CTPD,044222,Lima City
+200003,Heartland Technical Education Center CTPD,043505,Ashland City
+200003,Heartland Technical Education Center CTPD,045468,Loudonville-Perrysville Exempted Village
+200003,Heartland Technical Education Center CTPD,045823,Hillsdale Local
+200003,Heartland Technical Education Center CTPD,045831,Mapleton Local
+200003,Heartland Technical Education Center CTPD,047696,West Holmes Local
+200004,Ashtabula County Technical and Career Center CTPD,043513,Ashtabula Area City
+200004,Ashtabula County Technical and Career Center CTPD,043810,Conneaut Area City
+200004,Ashtabula County Technical and Career Center CTPD,044057,Geneva Area City
+200004,Ashtabula County Technical and Career Center CTPD,045856,Buckeye Local
+200004,Ashtabula County Technical and Career Center CTPD,045864,Grand Valley Local
+200004,Ashtabula County Technical and Career Center CTPD,045872,Jefferson Area Local
+200004,Ashtabula County Technical and Career Center CTPD,045880,Pymatuning Valley Local School District
+200005,Tri-County JVSD CTPD,043521,Athens City School District
+200005,Tri-County JVSD CTPD,044248,Logan-Hocking Local
+200005,Tri-County JVSD CTPD,044446,Nelsonville-York City
+200005,Tri-County JVSD CTPD,044479,New Lexington School District
+200005,Tri-County JVSD CTPD,045906,Alexander Local
+200005,Tri-County JVSD CTPD,045914,Federal Hocking Local
+200005,Tri-County JVSD CTPD,045922,Trimble Local
+200005,Tri-County JVSD CTPD,049064,Southern Local
+200006,Belmont-Harrison Area JVSD CTPD,043570,Bellaire Local
+200006,Belmont-Harrison Area JVSD CTPD,044347,Martins Ferry City
+200006,Belmont-Harrison Area JVSD CTPD,045203,Barnesville Exempted Village
+200006,Belmont-Harrison Area JVSD CTPD,045237,Bridgeport Exempted Village
+200006,Belmont-Harrison Area JVSD CTPD,045245,Harrison Hills City
+200006,Belmont-Harrison Area JVSD CTPD,045997,St Clairsville-Richland City
+200006,Belmont-Harrison Area JVSD CTPD,046003,Shadyside Local
+200006,Belmont-Harrison Area JVSD CTPD,046011,Union Local
+200007,Southern Hills JVSD CTPD,045377,Georgetown Exempted Village
+200007,Southern Hills JVSD CTPD,046037,Eastern Local School District
+200007,Southern Hills JVSD CTPD,046045,Fayetteville-Perry Local
+200007,Southern Hills JVSD CTPD,046060,Western Brown Local
+200007,Southern Hills JVSD CTPD,046078,Ripley-Union-Lewis-Huntington Local
+200007,Southern Hills JVSD CTPD,047613,Bright Local
+200008,Butler County JVSD CTPD,044107,Hamilton City
+200008,Butler County JVSD CTPD,044404,Middletown City
+200008,Butler County JVSD CTPD,046094,Edgewood City School District
+200008,Butler County JVSD CTPD,046102,Fairfield City
+200008,Butler County JVSD CTPD,046110,Lakota Local
+200008,Butler County JVSD CTPD,046128,Madison Local
+200008,Butler County JVSD CTPD,046136,New Miami Local
+200008,Butler County JVSD CTPD,046144,Ross Local
+200008,Butler County JVSD CTPD,046151,Talawanda City
+200008,Butler County JVSD CTPD,047365,Northwest Local
+200008,Butler County JVSD CTPD,139303,Monroe Local
+200011,Springfield-Clark County JVSD CTPD,044818,Springfield City School District
+200011,Springfield-Clark County JVSD CTPD,046235,Greenon Local
+200011,Springfield-Clark County JVSD CTPD,046243,Tecumseh Local
+200011,Springfield-Clark County JVSD CTPD,046250,Northeastern Local
+200011,Springfield-Clark County JVSD CTPD,046268,Northwestern Local
+200011,Springfield-Clark County JVSD CTPD,046276,Southeastern Local
+200011,Springfield-Clark County JVSD CTPD,046284,Clark-Shawnee Local
+200012,U S Grant JVSD CTPD,045559,New Richmond Exempted Village
+200012,U S Grant JVSD CTPD,046318,Bethel-Tate Local
+200012,U S Grant JVSD CTPD,046334,Felicity-Franklin Local
+200012,U S Grant JVSD CTPD,046367,Williamsburg Local
+200015,Columbiana County JVSD CTPD,043927,East Palestine City
+200015,Columbiana County JVSD CTPD,045039,Wellsville Local
+200015,Columbiana County JVSD CTPD,045328,Columbiana Exempted Village
+200015,Columbiana County JVSD CTPD,045443,Leetonia Exempted Village School District
+200015,Columbiana County JVSD CTPD,045450,Lisbon Exempted Village
+200015,Columbiana County JVSD CTPD,046425,Beaver Local
+200015,Columbiana County JVSD CTPD,046433,Crestview Local
+200015,Columbiana County JVSD CTPD,046441,Southern Local
+200015,Columbiana County JVSD CTPD,046458,United Local
+200016,East Liverpool City CTPD,043919,East Liverpool City
+200019,Cleveland Municipal CTPD,043786,Cleveland Municipal
+200020,Tri-Heights Career Prep Consortium CTPD,043794,Cleveland Heights-University Heights City
+200020,Tri-Heights Career Prep Consortium CTPD,044305,Maple Heights City
+200020,Tri-Heights Career Prep Consortium CTPD,044750,Shaker Heights City
+200020,Tri-Heights Career Prep Consortium CTPD,045005,Warrensville Heights City
+200021,East Cleveland City CTPD,043901,East Cleveland City School District
+200023,Lakewood City CTPD,043547,Bay Village City
+200023,Lakewood City CTPD,044198,Lakewood City
+200023,Lakewood City CTPD,044701,Rocky River City
+200023,Lakewood City CTPD,045062,Westlake City
+200025,Mayfield Excel T.E.C.C. CTPD,043554,Beachwood City
+200025,Mayfield Excel T.E.C.C. CTPD,044370,Mayfield City
+200025,Mayfield Excel T.E.C.C. CTPD,044792,South Euclid-Lyndhurst City
+200025,Mayfield Excel T.E.C.C. CTPD,045286,Chagrin Falls Exempted Village
+200025,Mayfield Excel T.E.C.C. CTPD,046581,Orange City
+200025,Mayfield Excel T.E.C.C. CTPD,046599,Richmond Heights Local
+200025,Mayfield Excel T.E.C.C. CTPD,046607,Solon City
+200025,Mayfield Excel T.E.C.C. CTPD,047225,West Geauga Local
+200025,Mayfield Excel T.E.C.C. CTPD,049171,Aurora City
+200026,Parma City CTPD,044636,Parma City
+200027,Cuyahoga Valley JVSD CTPD,043646,Brecksville-Broadview Heights City
+200027,Cuyahoga Valley JVSD CTPD,044040,Garfield Heights City Schools
+200027,Cuyahoga Valley JVSD CTPD,044545,North Royalton City
+200027,Cuyahoga Valley JVSD CTPD,046557,Cuyahoga Heights Local
+200027,Cuyahoga Valley JVSD CTPD,046565,Independence Local
+200027,Cuyahoga Valley JVSD CTPD,050047,Nordonia Hills City
+200027,Cuyahoga Valley JVSD CTPD,050054,Revere Local
+200027,Cuyahoga Valley JVSD CTPD,050070,Twinsburg City
+200028,Polaris JVSD CTPD,043612,Berea City
+200028,Polaris JVSD CTPD,043653,Brooklyn City
+200028,Polaris JVSD CTPD,043976,Fairview Park City
+200028,Polaris JVSD CTPD,044529,North Olmsted City
+200028,Polaris JVSD CTPD,044842,Strongsville City
+200028,Polaris JVSD CTPD,046573,Olmsted Falls City
+200030,Four County JVSD CTPD,043679,Bryan City
+200030,Four County JVSD CTPD,043869,Defiance City
+200030,Four County JVSD CTPD,044438,Napoleon Area City
+200030,Four County JVSD CTPD,045419,Hicksville Exempted Village School District
+200030,Four County JVSD CTPD,045526,Montpelier Exempted Village
+200030,Four County JVSD CTPD,045641,Wauseon Exempted Village
+200030,Four County JVSD CTPD,046706,Ayersville Local
+200030,Four County JVSD CTPD,046714,Central Local
+200030,Four County JVSD CTPD,046722,Northeastern Local
+200030,Four County JVSD CTPD,047043,Archbold-Area Local
+200030,Four County JVSD CTPD,047050,Evergreen Local
+200030,Four County JVSD CTPD,047068,Fayette Local
+200030,Four County JVSD CTPD,047076,Pettisville Local
+200030,Four County JVSD CTPD,047084,Pike-Delta-York Local
+200030,Four County JVSD CTPD,047571,Holgate Local
+200030,Four County JVSD CTPD,047589,Liberty Center Local
+200030,Four County JVSD CTPD,047597,Patrick Henry Local
+200030,Four County JVSD CTPD,050617,Edgerton Local
+200030,Four County JVSD CTPD,050625,Edon Northwest Local
+200030,Four County JVSD CTPD,050633,Millcreek-West Unity Local
+200030,Four County JVSD CTPD,050641,North Central Local
+200030,Four County JVSD CTPD,050658,Stryker Local
+200031,Delaware County JVSD CTPD,043877,Delaware City
+200031,Delaware County JVSD CTPD,045138,Worthington City
+200031,Delaware County JVSD CTPD,046748,Big Walnut Local
+200031,Delaware County JVSD CTPD,046755,Buckeye Valley Local Schools
+200031,Delaware County JVSD CTPD,046763,Olentangy Local
+200032,EHOVE JVSD CTPD,043596,Bellevue City
+200032,EHOVE JVSD CTPD,044131,Huron City Schools
+200032,EHOVE JVSD CTPD,044560,Norwalk City
+200032,EHOVE JVSD CTPD,046789,Edison Local (formerly Berlin-Milan)
+200032,EHOVE JVSD CTPD,046797,Kelleys Island Local
+200032,EHOVE JVSD CTPD,046805,Margaretta Local
+200032,EHOVE JVSD CTPD,046813,Perkins Local
+200032,EHOVE JVSD CTPD,046821,Vermilion Local
+200032,EHOVE JVSD CTPD,047712,Monroeville Local
+200032,EHOVE JVSD CTPD,047720,New London Local
+200032,EHOVE JVSD CTPD,047738,South Central Local
+200032,EHOVE JVSD CTPD,047746,Western Reserve Local
+200032,EHOVE JVSD CTPD,048934,Danbury Local
+200032,EHOVE JVSD CTPD,048959,Middle Bass Local
+200032,EHOVE JVSD CTPD,048967,North Bass Local
+200032,EHOVE JVSD CTPD,048975,Put-In-Bay Local
+200033,Sandusky City CTPD,044743,Sandusky City
+200035,Columbus City CTPD,043802,Columbus City Schools District
+200035,Columbus City CTPD,044073,Grandview Heights Schools
+200035,Columbus City CTPD,044933,Upper Arlington City
+200035,Columbus City CTPD,045047,Westerville City
+200036,Eastland JVSD CTPD,043620,Bexley City
+200036,Eastland JVSD CTPD,045070,Whitehall City
+200036,Eastland JVSD CTPD,046847,Amanda-Clearcreek Local
+200036,Eastland JVSD CTPD,046854,Berne Union Local
+200036,Eastland JVSD CTPD,046862,Bloom-Carroll Local
+200036,Eastland JVSD CTPD,046870,Fairfield Union Local
+200036,Eastland JVSD CTPD,046888,Liberty Union-Thurston Local
+200036,Eastland JVSD CTPD,046896,Pickerington Local
+200036,Eastland JVSD CTPD,046904,Walnut Township Local
+200036,Eastland JVSD CTPD,046946,Canal Winchester Local
+200036,Eastland JVSD CTPD,046953,Hamilton Local
+200036,Eastland JVSD CTPD,046961,Gahanna-Jefferson City
+200036,Eastland JVSD CTPD,046979,Groveport Madison Local
+200036,Eastland JVSD CTPD,046995,New Albany-Plain Local
+200036,Eastland JVSD CTPD,047001,Reynoldsburg City
+200036,Eastland JVSD CTPD,049098,Teays Valley Local
+200037,Tolles Career & Technical Center CTPD,044255,London City
+200037,Tolles Career & Technical Center CTPD,047019,Hilliard City
+200037,Tolles Career & Technical Center CTPD,047027,Dublin City
+200037,Tolles Career & Technical Center CTPD,048256,Jefferson Local
+200037,Tolles Career & Technical Center CTPD,048264,Jonathan Alder Local
+200037,Tolles Career & Technical Center CTPD,048272,Madison-Plains Local
+200037,Tolles Career & Technical Center CTPD,050328,Fairbanks Local
+200038,South-Western City CTPD,044800,South-Western City
+200039,Penta County JVSD CTPD,043638,Bowling Green City School District
+200039,Penta County JVSD CTPD,044362,Maumee City
+200039,Penta County JVSD CTPD,045583,Perrysburg Exempted Village
+200039,Penta County JVSD CTPD,045609,Rossford Exempted Village
+200039,Penta County JVSD CTPD,047092,Swanton Local
+200039,Penta County JVSD CTPD,048207,Anthony Wayne Local
+200039,Penta County JVSD CTPD,048223,Springfield Local
+200039,Penta County JVSD CTPD,048926,Benton Carroll Salem Local
+200039,Penta County JVSD CTPD,048942,Genoa Area Local
+200039,Penta County JVSD CTPD,049577,Woodmore Local
+200039,Penta County JVSD CTPD,050674,Eastwood Local
+200039,Penta County JVSD CTPD,050682,Elmwood Local
+200039,Penta County JVSD CTPD,050690,Lake Local
+200039,Penta County JVSD CTPD,050708,North Baltimore Local
+200039,Penta County JVSD CTPD,050716,Northwood Local Schools
+200039,Penta County JVSD CTPD,050724,Otsego Local
+200040,Gallia-Jackson-Vinton JVSD CTPD,044032,Gallipolis City
+200040,Gallia-Jackson-Vinton JVSD CTPD,044156,Jackson City
+200040,Gallia-Jackson-Vinton JVSD CTPD,045021,Wellston City
+200040,Gallia-Jackson-Vinton JVSD CTPD,047761,Oak Hill Union Local
+200040,Gallia-Jackson-Vinton JVSD CTPD,050393,Vinton County Local
+200040,Gallia-Jackson-Vinton JVSD CTPD,065680,Gallia County Local
+200042,Greene County JVSD CTPD,043968,Fairborn City
+200042,Greene County JVSD CTPD,045153,Xenia Community City
+200042,Greene County JVSD CTPD,045674,Yellow Springs Exempted Village
+200042,Greene County JVSD CTPD,047241,Beavercreek City
+200042,Greene County JVSD CTPD,047258,Cedar Cliff Local
+200042,Greene County JVSD CTPD,047266,Greeneview Local
+200042,Greene County JVSD CTPD,047274,Bellbrook-Sugarcreek Local
+200043,Cincinnati City CTPD,043752,Cincinnati Public Schools
+200044,Great Oaks Career Campuses,043851,Deer Park Community City
+200044,Great Oaks Career Campuses,044081,Winton Woods City
+200044,Great Oaks Career Campuses,044123,Hillsboro City
+200044,Great Oaks Career Campuses,044230,Lockland Local
+200044,Great Oaks Career Campuses,044271,Loveland City
+200044,Great Oaks Career Campuses,044289,Madeira City
+200044,Great Oaks Career Campuses,044313,Mariemont City
+200044,Great Oaks Career Campuses,044412,Mt Healthy City
+200044,Great Oaks Career Campuses,044511,North College Hill City
+200044,Great Oaks Career Campuses,044578,Norwood City
+200044,Great Oaks Career Campuses,044677,Princeton City
+200044,Great Oaks Career Campuses,044693,Reading Community City
+200044,Great Oaks Career Campuses,044719,St Bernard-Elmwood Place City
+200044,Great Oaks Career Campuses,044867,Sycamore Community City
+200044,Great Oaks Career Campuses,045013,Washington Court House City
+200044,Great Oaks Career Campuses,045112,Wilmington City
+200044,Great Oaks Career Campuses,045146,Wyoming City
+200044,Great Oaks Career Campuses,045401,Greenfield Exempted Village
+200044,Great Oaks Career Campuses,045435,Indian Hill Exempted Village
+200044,Great Oaks Career Campuses,045500,Milford Exempted Village
+200044,Great Oaks Career Campuses,046300,Batavia Local
+200044,Great Oaks Career Campuses,046326,Clermont Northeastern Local
+200044,Great Oaks Career Campuses,046342,Goshen Local
+200044,Great Oaks Career Campuses,046359,West Clermont Local
+200044,Great Oaks Career Campuses,046383,Blanchester Local
+200044,Great Oaks Career Campuses,046391,Clinton-Massie Local
+200044,Great Oaks Career Campuses,046409,East Clinton Local
+200044,Great Oaks Career Campuses,046920,Miami Trace Local
+200044,Great Oaks Career Campuses,047332,Finneytown Local
+200044,Great Oaks Career Campuses,047340,Forest Hills Local
+200044,Great Oaks Career Campuses,047373,Oak Hills Local
+200044,Great Oaks Career Campuses,047381,Southwest Local
+200044,Great Oaks Career Campuses,047399,Three Rivers Local
+200044,Great Oaks Career Campuses,047621,Fairfield Local
+200044,Great Oaks Career Campuses,047639,Lynchburg-Clay Local
+200044,Great Oaks Career Campuses,050450,Mason City
+200050,Jefferson County JVSD CTPD,044826,Steubenville City
+200050,Jefferson County JVSD CTPD,044917,Toronto City
+200050,Jefferson County JVSD CTPD,047787,Buckeye Local
+200050,Jefferson County JVSD CTPD,047795,Edison Local
+200050,Jefferson County JVSD CTPD,047803,Indian Creek Local
+200051,Knox County JVSD CTPD,044420,Mount Vernon City
+200051,Knox County JVSD CTPD,047829,Centerburg Local
+200051,Knox County JVSD CTPD,047837,Danville Local
+200051,Knox County JVSD CTPD,047845,East Knox Local
+200051,Knox County JVSD CTPD,047852,Fredericktown Local
+200051,Knox County JVSD CTPD,049411,Clear Fork Valley Local
+200052,Auburn JVSD CTPD,044628,Painesville City Local
+200052,Auburn JVSD CTPD,045369,Fairport Harbor Exempted Village
+200052,Auburn JVSD CTPD,047167,Berkshire Local
+200052,Auburn JVSD CTPD,047175,Cardinal Local
+200052,Auburn JVSD CTPD,047183,Chardon Local
+200052,Auburn JVSD CTPD,047191,Kenston Local
+200052,Auburn JVSD CTPD,047878,Kirtland Local
+200052,Auburn JVSD CTPD,047886,Madison Local
+200052,Auburn JVSD CTPD,047894,Riverside Local
+200052,Auburn JVSD CTPD,047902,Perry Local
+200054,Lawrence County JVSD CTPD,044149,Ironton City School District
+200054,Lawrence County JVSD CTPD,045294,Chesapeake Union Exempted Village
+200054,Lawrence County JVSD CTPD,047928,Dawson-Bryant Local
+200054,Lawrence County JVSD CTPD,047936,Fairland Local
+200054,Lawrence County JVSD CTPD,047944,Rock Hill Local
+200054,Lawrence County JVSD CTPD,047951,South Point Local
+200054,Lawrence County JVSD CTPD,047969,Symmes Valley Local
+200055,Licking County JVSD CTPD,044115,Heath City
+200055,Licking County JVSD CTPD,044453,Newark City Schools
+200055,Licking County JVSD CTPD,045393,Granville Exempted Village
+200055,Licking County JVSD CTPD,047985,Johnstown-Monroe Local
+200055,Licking County JVSD CTPD,047993,Lakewood Local
+200055,Licking County JVSD CTPD,048009,Licking Heights Local
+200055,Licking County JVSD CTPD,048017,Licking Valley Local
+200055,Licking County JVSD CTPD,048025,North Fork Local
+200055,Licking County JVSD CTPD,048033,Northridge Local
+200055,Licking County JVSD CTPD,048041,Southwest Licking Local
+200056,Ohio Hi-Point JVSD CTPD,043588,Bellefontaine City
+200056,Ohio Hi-Point JVSD CTPD,044172,Kenton City
+200056,Ohio Hi-Point JVSD CTPD,044941,Urbana City
+200056,Ohio Hi-Point JVSD CTPD,045476,Marysville Exempted Village
+200056,Ohio Hi-Point JVSD CTPD,045484,Mechanicsburg Exempted Village
+200056,Ohio Hi-Point JVSD CTPD,045971,Waynesfield-Goshen Local
+200056,Ohio Hi-Point JVSD CTPD,046193,Graham Local
+200056,Ohio Hi-Point JVSD CTPD,046201,Triad Local
+200056,Ohio Hi-Point JVSD CTPD,046219,West Liberty-Salem Local
+200056,Ohio Hi-Point JVSD CTPD,047506,Ridgemont Local
+200056,Ohio Hi-Point JVSD CTPD,047522,Upper Scioto Valley Local
+200056,Ohio Hi-Point JVSD CTPD,048074,Benjamin Logan Local
+200056,Ohio Hi-Point JVSD CTPD,048082,Indian Lake Local
+200056,Ohio Hi-Point JVSD CTPD,048090,Riverside Local
+200057,Lorain City CTPD,044263,Lorain City
+200058,Lorain County JVSD CTPD,043943,Elyria City Schools
+200058,Lorain County JVSD CTPD,044537,North Ridgeville City
+200058,Lorain County JVSD CTPD,044594,Oberlin City Schools
+200058,Lorain County JVSD CTPD,044768,Sheffield-Sheffield Lake City
+200058,Lorain County JVSD CTPD,045195,Amherst Exempted Village
+200058,Lorain County JVSD CTPD,045658,Wellington Exempted Village
+200058,Lorain County JVSD CTPD,048116,Avon Local
+200058,Lorain County JVSD CTPD,048124,Avon Lake City
+200058,Lorain County JVSD CTPD,048132,Clearview Local
+200058,Lorain County JVSD CTPD,048140,Columbia Local
+200058,Lorain County JVSD CTPD,048157,Firelands Local
+200058,Lorain County JVSD CTPD,048165,Keystone Local
+200058,Lorain County JVSD CTPD,048173,Midview Local
+200059,Oregon City CTPD,044602,Oregon City
+200060,Sylvania City CTPD,044875,Sylvania Schools
+200060,Sylvania City CTPD,048215,Ottawa Hills Local
+200061,Toledo City CTPD,044909,Toledo City
+200062,Washington Local CTPD,048231,Washington Local
+200063,Mahoning County JVSD CTPD,043703,Campbell City
+200063,Mahoning County JVSD CTPD,044859,Struthers City
+200063,Mahoning County JVSD CTPD,048298,Austintown Local Schools
+200063,Mahoning County JVSD CTPD,048306,Boardman Local
+200063,Mahoning County JVSD CTPD,048314,Canfield Local
+200063,Mahoning County JVSD CTPD,048322,Jackson-Milton Local
+200063,Mahoning County JVSD CTPD,048330,Lowellville Local
+200063,Mahoning County JVSD CTPD,048348,Poland Local
+200063,Mahoning County JVSD CTPD,048355,Sebring Local
+200063,Mahoning County JVSD CTPD,048363,South Range Local
+200063,Mahoning County JVSD CTPD,048371,Springfield Local
+200063,Mahoning County JVSD CTPD,048389,West Branch Local
+200063,Mahoning County JVSD CTPD,048397,Western Reserve Local
+200064,Youngstown City CTPD,045161,Youngstown City
+200066,Medina County JVSD CTPD,043661,Brunswick City
+200066,Medina County JVSD CTPD,044388,Medina City SD
+200066,Medina County JVSD CTPD,048462,Black River Local
+200066,Medina County JVSD CTPD,048470,Buckeye Local
+200066,Medina County JVSD CTPD,048488,Cloverleaf Local
+200066,Medina County JVSD CTPD,048496,Highland Local
+200067,Meigs Local CTPD,048512,Eastern Local
+200067,Meigs Local CTPD,048520,Meigs Local
+200067,Meigs Local CTPD,048538,Southern Local
+200069,Upper Valley JVSD CTPD,044644,Piqua City
+200069,Upper Valley JVSD CTPD,044784,Sidney City
+200069,Upper Valley JVSD CTPD,044925,Troy City
+200069,Upper Valley JVSD CTPD,045229,Bradford Exempted Village
+200069,Upper Valley JVSD CTPD,045336,Covington Exempted Village
+200069,Upper Valley JVSD CTPD,048637,Newton Local
+200069,Upper Valley JVSD CTPD,049759,Anna Local
+200069,Upper Valley JVSD CTPD,049767,Botkins Local
+200069,Upper Valley JVSD CTPD,049775,Fairlawn Local
+200069,Upper Valley JVSD CTPD,049783,Fort Loramie Local
+200069,Upper Valley JVSD CTPD,049791,Hardin-Houston Local
+200069,Upper Valley JVSD CTPD,049809,Jackson Center Local
+200069,Upper Valley JVSD CTPD,049817,Russia Local
+200070,Switzerland of Ohio Local CTPD,048652,Switzerland of Ohio Local
+200071,Dayton City CTPD,043844,Dayton City
+200072,Mad River Local CTPD,048702,Mad River Local
+200073,Miami Valley Career Technology JVSD CTPD,043935,Eaton Community City
+200073,Miami Valley Career Technology JVSD CTPD,044396,Miamisburg City
+200073,Miami Valley Career Technology JVSD CTPD,044958,Vandalia-Butler City
+200073,Miami Valley Career Technology JVSD CTPD,045054,West Carrollton City
+200073,Miami Valley Career Technology JVSD CTPD,045518,Milton-Union Exempted Village
+200073,Miami Valley Career Technology JVSD CTPD,045617,Tipp City Exempted Village
+200073,Miami Valley Career Technology JVSD CTPD,045633,Versailles Exempted Village
+200073,Miami Valley Career Technology JVSD CTPD,046623,Ansonia Local
+200073,Miami Valley Career Technology JVSD CTPD,046631,Arcanum-Butler Local
+200073,Miami Valley Career Technology JVSD CTPD,046649,Franklin Monroe Local
+200073,Miami Valley Career Technology JVSD CTPD,046672,Mississinawa Valley Local
+200073,Miami Valley Career Technology JVSD CTPD,046680,Tri-Village Local
+200073,Miami Valley Career Technology JVSD CTPD,048611,Bethel Local
+200073,Miami Valley Career Technology JVSD CTPD,048629,Miami East Local
+200073,Miami Valley Career Technology JVSD CTPD,048678,Brookville Local
+200073,Miami Valley Career Technology JVSD CTPD,048686,Jefferson Township Local
+200073,Miami Valley Career Technology JVSD CTPD,048694,Trotwood-Madison City
+200073,Miami Valley Career Technology JVSD CTPD,048710,New Lebanon Local School District
+200073,Miami Valley Career Technology JVSD CTPD,048728,Northmont City
+200073,Miami Valley Career Technology JVSD CTPD,048736,Northridge Local
+200073,Miami Valley Career Technology JVSD CTPD,048744,Valley View Local
+200073,Miami Valley Career Technology JVSD CTPD,048751,Huber Heights City
+200073,Miami Valley Career Technology JVSD CTPD,049270,National Trail Local
+200073,Miami Valley Career Technology JVSD CTPD,049288,Preble Shawnee Local
+200073,Miami Valley Career Technology JVSD CTPD,049296,Twin Valley Community Local
+200073,Miami Valley Career Technology JVSD CTPD,050419,Carlisle Local
+200073,Miami Valley Career Technology JVSD CTPD,091397,Tri-County North Local
+200074,Morgan Local CTPD,048777,Morgan Local
+200075,Mid-East Ohio JVSD CTPD,043695,Cambridge City
+200075,Mid-East Ohio JVSD CTPD,045179,Zanesville City
+200075,Mid-East Ohio JVSD CTPD,045252,Caldwell Exempted Village
+200075,Mid-East Ohio JVSD CTPD,045351,Crooksville Exempted Village
+200075,Mid-East Ohio JVSD CTPD,047308,Rolling Hills Local
+200075,Mid-East Ohio JVSD CTPD,048835,East Muskingum Local
+200075,Mid-East Ohio JVSD CTPD,048843,Franklin Local
+200075,Mid-East Ohio JVSD CTPD,048850,Maysville Local
+200075,Mid-East Ohio JVSD CTPD,048876,Tri-Valley Local
+200075,Mid-East Ohio JVSD CTPD,048884,West Muskingum Local
+200075,Mid-East Ohio JVSD CTPD,048900,Noble Local
+200075,Mid-East Ohio JVSD CTPD,049056,Northern Local
+200075,Mid-East Ohio JVSD CTPD,069682,East Guernsey Local
+200077,Pike County Career Technology Center CTPD,049122,Eastern Local School District
+200077,Pike County Career Technology Center CTPD,049130,Scioto Valley Local
+200077,Pike County Career Technology Center CTPD,049148,Waverly City
+200077,Pike County Career Technology Center CTPD,049155,Western Local
+200078,Maplewood Area JVSD CTPD,044685,Ravenna City
+200078,Maplewood Area JVSD CTPD,045666,Windham Exempted Village
+200078,Maplewood Area JVSD CTPD,049189,Crestwood Local
+200078,Maplewood Area JVSD CTPD,049197,Field Local
+200078,Maplewood Area JVSD CTPD,049205,James A Garfield Local
+200078,Maplewood Area JVSD CTPD,049213,Rootstown Local
+200078,Maplewood Area JVSD CTPD,049221,Southeast Local
+200078,Maplewood Area JVSD CTPD,049239,Streetsboro City
+200078,Maplewood Area JVSD CTPD,049247,Waterloo Local
+200078,Maplewood Area JVSD CTPD,050039,Mogadore Local
+200079,College Corner Local CTPD,064964,College Corner Local
+200081,Madison Local CTPD,049452,Madison Local
+200082,Mansfield City CTPD,044297,Mansfield City
+200083,Pioneer CTC JVSD CTPD,043687,Bucyrus City
+200083,Pioneer CTC JVSD CTPD,044024,Galion City
+200083,Pioneer CTC JVSD CTPD,044776,Shelby City
+200083,Pioneer CTC JVSD CTPD,045096,Willard City
+200083,Pioneer CTC JVSD CTPD,045344,Crestline Exempted Village
+200083,Pioneer CTC JVSD CTPD,046508,Buckeye Central Local
+200083,Pioneer CTC JVSD CTPD,046516,Colonel Crawford Local
+200083,Pioneer CTC JVSD CTPD,046524,Wynford Local
+200083,Pioneer CTC JVSD CTPD,048819,Northmor Local
+200083,Pioneer CTC JVSD CTPD,049429,Crestview Local
+200083,Pioneer CTC JVSD CTPD,049437,Lexington Local
+200083,Pioneer CTC JVSD CTPD,049445,Lucas Local
+200083,Pioneer CTC JVSD CTPD,049460,Plymouth-Shiloh Local
+200083,Pioneer CTC JVSD CTPD,049478,Ontario Local
+200084,Pickaway-Ross County JVSD CTPD,043745,Chillicothe City
+200084,Pickaway-Ross County JVSD CTPD,043760,Circleville City
+200084,Pickaway-Ross County JVSD CTPD,049080,Logan Elm Local
+200084,Pickaway-Ross County JVSD CTPD,049106,Westfall Local
+200084,Pickaway-Ross County JVSD CTPD,049494,Adena Local
+200084,Pickaway-Ross County JVSD CTPD,049502,Huntington Local
+200084,Pickaway-Ross County JVSD CTPD,049510,Paint Valley Local
+200084,Pickaway-Ross County JVSD CTPD,049528,Southeastern Local
+200084,Pickaway-Ross County JVSD CTPD,049536,Union-Scioto Local
+200084,Pickaway-Ross County JVSD CTPD,049544,Zane Trace Local
+200085,Vanguard-Sentinel JVSD CTPD,043992,Fostoria City
+200085,Vanguard-Sentinel JVSD CTPD,044016,Fremont City
+200085,Vanguard-Sentinel JVSD CTPD,044651,Port Clinton City
+200085,Vanguard-Sentinel JVSD CTPD,044891,Tiffin City Schools
+200085,Vanguard-Sentinel JVSD CTPD,045302,Clyde-Green Springs Exempted Village
+200085,Vanguard-Sentinel JVSD CTPD,045385,Gibsonburg Exempted Village
+200085,Vanguard-Sentinel JVSD CTPD,045625,Upper Sandusky Exempted Village
+200085,Vanguard-Sentinel JVSD CTPD,049569,Lakota Local
+200085,Vanguard-Sentinel JVSD CTPD,049684,Seneca East Local
+200085,Vanguard-Sentinel JVSD CTPD,049700,Hopewell-Loudon Local
+200085,Vanguard-Sentinel JVSD CTPD,049718,New Riegel Local
+200085,Vanguard-Sentinel JVSD CTPD,049726,Old Fort Local
+200085,Vanguard-Sentinel JVSD CTPD,050740,Mohawk Local
+200086,Scioto County JVSD CTPD,044461,New Boston Local
+200086,Scioto County JVSD CTPD,044669,Portsmouth City
+200086,Scioto County JVSD CTPD,049593,Bloom-Vernon Local
+200086,Scioto County JVSD CTPD,049601,Clay Local
+200086,Scioto County JVSD CTPD,049619,Green Local
+200086,Scioto County JVSD CTPD,049627,Minford Local
+200086,Scioto County JVSD CTPD,049635,Northwest Local
+200086,Scioto County JVSD CTPD,049643,Valley Local
+200086,Scioto County JVSD CTPD,049650,Washington-Nile Local
+200086,Scioto County JVSD CTPD,049668,Wheelersburg Local
+200089,Alliance City CTPD,043497,Alliance City
+200089,Alliance City CTPD,044735,Salem City
+200089,Alliance City CTPD,049882,Marlington Local
+200090,Canton City CTPD,043711,Canton City
+200092,Massillon City CTPD,044354,Massillon City
+200093,Stark County Career Compact,044503,North Canton City
+200093,Stark County Career Compact,049858,Jackson Local
+200093,Stark County Career Compact,049866,Lake Local
+200093,Stark County Career Compact,049932,Plain Local
+200094,Stark County Area JVSD CTPD,046177,Brown Local
+200094,Stark County Area JVSD CTPD,049841,Fairless Local
+200094,Stark County Area JVSD CTPD,049874,Louisville City
+200094,Stark County Area JVSD CTPD,049890,Minerva Local
+200094,Stark County Area JVSD CTPD,049908,Northwest Local
+200094,Stark County Area JVSD CTPD,049957,Tuslaw Local
+200095,Akron City CTPD,043489,Akron City
+200096,Four City Compact CTPD,043539,Barberton City
+200096,Four City Compact CTPD,044552,Norton City
+200096,Four City Compact CTPD,044974,Wadsworth City
+200096,Four City Compact CTPD,049981,Copley-Fairlawn City
+200097,Six District Voc Ed Compact CTPD,043836,Cuyahoga Falls City School District
+200097,Six District Voc Ed Compact CTPD,044164,Kent City
+200097,Six District Voc Ed Compact CTPD,044834,Stow-Munroe Falls City School District
+200097,Six District Voc Ed Compact CTPD,044883,Tallmadge City
+200097,Six District Voc Ed Compact CTPD,049973,Woodridge Local
+200097,Six District Voc Ed Compact CTPD,050021,Hudson City
+200098,Portage Lakes JVSD CTPD,049999,Coventry Local
+200098,Portage Lakes JVSD CTPD,050005,Manchester Local
+200098,Portage Lakes JVSD CTPD,050013,Green Local
+200098,Portage Lakes JVSD CTPD,050062,Springfield Local
+200099,Trumbull County JVSD CTPD,044065,Girard City School District
+200099,Trumbull County JVSD CTPD,044495,Niles City
+200099,Trumbull County JVSD CTPD,044990,Warren City
+200099,Trumbull County JVSD CTPD,045427,Hubbard Exempted Village
+200099,Trumbull County JVSD CTPD,045567,Newton Falls Exempted Village
+200099,Trumbull County JVSD CTPD,050096,Bloomfield-Mespo Local
+200099,Trumbull County JVSD CTPD,050112,Bristol Local
+200099,Trumbull County JVSD CTPD,050120,Brookfield Local
+200099,Trumbull County JVSD CTPD,050138,Champion Local
+200099,Trumbull County JVSD CTPD,050153,Mathews Local
+200099,Trumbull County JVSD CTPD,050161,Howland Local
+200099,Trumbull County JVSD CTPD,050179,Joseph Badger Local
+200099,Trumbull County JVSD CTPD,050187,Lakeview Local
+200099,Trumbull County JVSD CTPD,050195,Liberty Local
+200099,Trumbull County JVSD CTPD,050203,Lordstown Local
+200099,Trumbull County JVSD CTPD,050211,Maplewood Local
+200099,Trumbull County JVSD CTPD,050229,McDonald Local
+200099,Trumbull County JVSD CTPD,050237,Southington Local
+200099,Trumbull County JVSD CTPD,050245,LaBrae Local
+200099,Trumbull County JVSD CTPD,050252,Weathersfield Local
+200101,Buckeye JVSD CTPD,043778,Claymont City
+200101,Buckeye JVSD CTPD,043893,Dover City
+200101,Buckeye JVSD CTPD,044487,New Philadelphia City
+200101,Buckeye JVSD CTPD,045278,Carrollton Exempted Village
+200101,Buckeye JVSD CTPD,045542,Newcomerstown Exempted Village
+200101,Buckeye JVSD CTPD,047548,Conotton Valley Union Local
+200101,Buckeye JVSD CTPD,047688,East Holmes Local
+200101,Buckeye JVSD CTPD,050278,Garaway Local
+200101,Buckeye JVSD CTPD,050286,Indian Valley Local
+200101,Buckeye JVSD CTPD,050294,Strasburg-Franklin Local
+200101,Buckeye JVSD CTPD,050302,Tuscarawas Valley Local
+200102,Vantage JVSD CTPD,043885,Delphos City
+200102,Vantage JVSD CTPD,044966,Van Wert City
+200102,Vantage JVSD CTPD,045575,Paulding Exempted Village
+200102,Vantage JVSD CTPD,048579,Parkway Local
+200102,Vantage JVSD CTPD,048991,Antwerp Local
+200102,Vantage JVSD CTPD,049031,Wayne Trace Local
+200102,Vantage JVSD CTPD,049320,Continental Local
+200102,Vantage JVSD CTPD,049338,Jennings Local
+200102,Vantage JVSD CTPD,049346,Kalida Local
+200102,Vantage JVSD CTPD,049387,Ottoville Local
+200102,Vantage JVSD CTPD,050351,Crestview Local
+200102,Vantage JVSD CTPD,050369,Lincolnview Local
+200103,Warren County JVSD CTPD,044008,Franklin City
+200103,Warren County JVSD CTPD,044214,Lebanon City
+200103,Warren County JVSD CTPD,050427,Springboro Community City
+200103,Warren County JVSD CTPD,050435,Kings Local
+200103,Warren County JVSD CTPD,050443,Little Miami Local
+200103,Warren County JVSD CTPD,050468,Wayne Local
+200104,Washington County JVSD CTPD,043604,Belpre City
+200104,Washington County JVSD CTPD,044321,Marietta City
+200104,Washington County JVSD CTPD,050484,Fort Frye Local
+200104,Washington County JVSD CTPD,050492,Frontier Local
+200104,Washington County JVSD CTPD,050500,Warren Local
+200104,Washington County JVSD CTPD,050518,Wolf Creek Local
+200105,Wayne County JVSD CTPD,044610,Orrville City
+200105,Wayne County JVSD CTPD,045120,Wooster City
+200105,Wayne County JVSD CTPD,045591,Rittman Exempted Village
+200105,Wayne County JVSD CTPD,050534,Chippewa Local
+200105,Wayne County JVSD CTPD,050542,Dalton Local
+200105,Wayne County JVSD CTPD,050559,Green Local
+200105,Wayne County JVSD CTPD,050567,Norwayne Local
+200105,Wayne County JVSD CTPD,050575,Northwestern Local
+200105,Wayne County JVSD CTPD,050583,Waynedale Local
+200105,Wayne County JVSD CTPD,050591,Triway Local
+200107,Ohio Valley Local CTPD,000442,Manchester Local
+200107,Ohio Valley Local CTPD,061903,Adams County Ohio Valley Local
+200108,Coshocton County JVSD CTPD,043828,Coshocton City
+200108,Coshocton County JVSD CTPD,046474,Ridgewood Local
+200108,Coshocton County JVSD CTPD,046482,River View Local
+200111,Tri-Rivers JVSD CTPD,044339,Marion City
+200111,Tri-Rivers JVSD CTPD,045534,Mount Gilead Exempted Village
+200111,Tri-Rivers JVSD CTPD,048413,Elgin Local
+200111,Tri-Rivers JVSD CTPD,048421,Pleasant Local
+200111,Tri-Rivers JVSD CTPD,048439,Ridgedale Local
+200111,Tri-Rivers JVSD CTPD,048447,River Valley Local
+200111,Tri-Rivers JVSD CTPD,048793,Cardington-Lincoln Local
+200111,Tri-Rivers JVSD CTPD,048801,Highland Local
+200111,Tri-Rivers JVSD CTPD,050336,North Union Local School District
+200115,Canton Local CTPD,049833,Canton Local
+200115,Canton Local CTPD,049916,Osnaburg Local
+200115,Canton Local CTPD,049924,Perry Local
+200115,Canton Local CTPD,049940,Sandy Valley Local
+200116,Millstream Career Cooperative CTPD,043984,Findlay City
+200116,Millstream Career Cooperative CTPD,045260,Carey Exempted Village Schools
+200116,Millstream Career Cooperative CTPD,047415,Arcadia Local
+200116,Millstream Career Cooperative CTPD,047423,Arlington Local
+200116,Millstream Career Cooperative CTPD,047431,Cory-Rawson Local
+200116,Millstream Career Cooperative CTPD,047449,Liberty-Benton Local
+200116,Millstream Career Cooperative CTPD,047456,McComb Local
+200116,Millstream Career Cooperative CTPD,047464,Van Buren Local
+200116,Millstream Career Cooperative CTPD,047472,Vanlue Local
+200116,Millstream Career Cooperative CTPD,047514,Riverdale Local
+200116,Millstream Career Cooperative CTPD,049353,Leipsic Local
+200116,Millstream Career Cooperative CTPD,049361,Miller City-New Cleveland Local
+200116,Millstream Career Cooperative CTPD,049379,Ottawa-Glandorf Local
+200116,Millstream Career Cooperative CTPD,049395,Pandora-Gilboa Local
+200117,Greenville City CTPD,044099,Greenville City
+200119,Lancaster City CTPD,044206,Lancaster City
+200120,Centerville-Kettering-Oakwood CTPD,043737,Centerville City
+200120,Centerville-Kettering-Oakwood CTPD,044180,Kettering City School District
+200120,Centerville-Kettering-Oakwood CTPD,044586,Oakwood City
+200121,Tri Star CTPD,043729,Celina City
+200121,Tri Star CTPD,044727,St Marys City
+200121,Tri Star CTPD,045310,Coldwater Exempted Village
+200121,Tri Star CTPD,045948,Minster Local
+200121,Tri Star CTPD,045955,New Bremen Local
+200121,Tri Star CTPD,045963,New Knoxville Local
+200121,Tri Star CTPD,048553,Marion Local
+200121,Tri Star CTPD,048587,St Henry Consolidated Local
+200121,Tri Star CTPD,048595,Fort Recovery Local

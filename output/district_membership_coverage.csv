@@ -1,0 +1,612 @@
+district_irn,district_name,designated_county,district_key,county_key,ctpd_count,coverage_class
+000442,Manchester Local,Adams,manchester local,adams,1,One CTPD
+043489,Akron City,Summit,akron city,summit,1,One CTPD
+043497,Alliance City,Stark,alliance city,stark,1,One CTPD
+043505,Ashland City,Ashland,ashland city,ashland,1,One CTPD
+043513,Ashtabula Area City,Ashtabula,ashtabula area city,ashtabula,1,One CTPD
+043521,Athens City School District,Athens,athens city,athens,1,One CTPD
+043539,Barberton City,Summit,barberton city,summit,1,One CTPD
+043547,Bay Village City,Cuyahoga,bay village city,cuyahoga,1,One CTPD
+043554,Beachwood City,Cuyahoga,beachwood city,cuyahoga,1,One CTPD
+043562,Bedford City,Cuyahoga,bedford city,cuyahoga,1,One CTPD
+043570,Bellaire Local,Belmont,bellaire local,belmont,1,One CTPD
+043588,Bellefontaine City,Logan,bellefontaine city,logan,1,One CTPD
+043596,Bellevue City,Huron,bellevue city,huron,1,One CTPD
+043604,Belpre City,Washington,belpre city,washington,1,One CTPD
+043612,Berea City,Cuyahoga,berea city,cuyahoga,1,One CTPD
+043620,Bexley City,Franklin,bexley city,franklin,1,One CTPD
+043638,Bowling Green City School District,Wood,bowling green city,wood,1,One CTPD
+043646,Brecksville-Broadview Heights City,Cuyahoga,brecksville broadview heights city,cuyahoga,1,One CTPD
+043653,Brooklyn City,Cuyahoga,brooklyn city,cuyahoga,1,One CTPD
+043661,Brunswick City,Medina,brunswick city,medina,1,One CTPD
+043679,Bryan City,Williams,bryan city,williams,1,One CTPD
+043687,Bucyrus City,Crawford,bucyrus city,crawford,1,One CTPD
+043695,Cambridge City,Guernsey,cambridge city,guernsey,1,One CTPD
+043703,Campbell City,Mahoning,campbell city,mahoning,1,One CTPD
+043711,Canton City,Stark,canton city,stark,1,One CTPD
+043729,Celina City,Mercer,celina city,mercer,1,One CTPD
+043737,Centerville City,Montgomery,centerville city,montgomery,1,One CTPD
+043745,Chillicothe City,Ross,chillicothe city,ross,1,One CTPD
+043752,Cincinnati Public Schools,Hamilton,cincinnati public,hamilton,1,One CTPD
+043760,Circleville City,Pickaway,circleville city,pickaway,1,One CTPD
+043778,Claymont City,Tuscarawas,claymont city,tuscarawas,1,One CTPD
+043786,Cleveland Municipal,Cuyahoga,cleveland municipal,cuyahoga,1,One CTPD
+043794,Cleveland Heights-University Heights City,Cuyahoga,cleveland heights university heights city,cuyahoga,1,One CTPD
+043802,Columbus City Schools District,Franklin,columbus city,franklin,1,One CTPD
+043810,Conneaut Area City,Ashtabula,conneaut area city,ashtabula,1,One CTPD
+043828,Coshocton City,Coshocton,coshocton city,coshocton,1,One CTPD
+043836,Cuyahoga Falls City School District,Summit,cuyahoga falls city,summit,1,One CTPD
+043844,Dayton City,Montgomery,dayton city,montgomery,1,One CTPD
+043851,Deer Park Community City,Hamilton,deer park community city,hamilton,1,One CTPD
+043869,Defiance City,Defiance,defiance city,defiance,1,One CTPD
+043877,Delaware City,Delaware,delaware city,delaware,1,One CTPD
+043885,Delphos City,Allen,delphos city,allen,1,One CTPD
+043893,Dover City,Tuscarawas,dover city,tuscarawas,1,One CTPD
+043901,East Cleveland City School District,Cuyahoga,east cleveland city,cuyahoga,1,One CTPD
+043919,East Liverpool City,Columbiana,east liverpool city,columbiana,1,One CTPD
+043927,East Palestine City,Columbiana,east palestine city,columbiana,1,One CTPD
+043935,Eaton Community City,Preble,eaton community city,preble,1,One CTPD
+043943,Elyria City Schools,Lorain,elyria city,lorain,1,One CTPD
+043950,Euclid City,Cuyahoga,euclid city,cuyahoga,1,One CTPD
+043968,Fairborn City,Greene,fairborn city,greene,1,One CTPD
+043976,Fairview Park City,Cuyahoga,fairview park city,cuyahoga,1,One CTPD
+043984,Findlay City,Hancock,findlay city,hancock,1,One CTPD
+043992,Fostoria City,Seneca,fostoria city,seneca,1,One CTPD
+044008,Franklin City,Warren,franklin city,warren,1,One CTPD
+044016,Fremont City,Sandusky,fremont city,sandusky,1,One CTPD
+044024,Galion City,Crawford,galion city,crawford,1,One CTPD
+044032,Gallipolis City,Gallia,gallipolis city,gallia,1,One CTPD
+044040,Garfield Heights City Schools,Cuyahoga,garfield heights city,cuyahoga,1,One CTPD
+044057,Geneva Area City,Ashtabula,geneva area city,ashtabula,1,One CTPD
+044065,Girard City School District,Trumbull,girard city,trumbull,1,One CTPD
+044073,Grandview Heights Schools,Franklin,grandview heights,franklin,1,One CTPD
+044081,Winton Woods City,Hamilton,winton woods city,hamilton,1,One CTPD
+044099,Greenville City,Darke,greenville city,darke,1,One CTPD
+044107,Hamilton City,Butler,hamilton city,butler,1,One CTPD
+044115,Heath City,Licking,heath city,licking,1,One CTPD
+044123,Hillsboro City,Highland,hillsboro city,highland,1,One CTPD
+044131,Huron City Schools,Erie,huron city,erie,1,One CTPD
+044149,Ironton City School District,Lawrence,ironton city,lawrence,1,One CTPD
+044156,Jackson City,Jackson,jackson city,jackson,1,One CTPD
+044164,Kent City,Portage,kent city,portage,1,One CTPD
+044172,Kenton City,Hardin,kenton city,hardin,1,One CTPD
+044180,Kettering City School District,Montgomery,kettering city,montgomery,1,One CTPD
+044198,Lakewood City,Cuyahoga,lakewood city,cuyahoga,1,One CTPD
+044206,Lancaster City,Fairfield,lancaster city,fairfield,1,One CTPD
+044214,Lebanon City,Warren,lebanon city,warren,1,One CTPD
+044222,Lima City,Allen,lima city,allen,1,One CTPD
+044230,Lockland Local,Hamilton,lockland local,hamilton,1,One CTPD
+044248,Logan-Hocking Local,Hocking,logan hocking local,hocking,1,One CTPD
+044255,London City,Madison,london city,madison,1,One CTPD
+044263,Lorain City,Lorain,lorain city,lorain,1,One CTPD
+044271,Loveland City,Hamilton,loveland city,hamilton,1,One CTPD
+044289,Madeira City,Hamilton,madeira city,hamilton,1,One CTPD
+044297,Mansfield City,Richland,mansfield city,richland,1,One CTPD
+044305,Maple Heights City,Cuyahoga,maple heights city,cuyahoga,1,One CTPD
+044313,Mariemont City,Hamilton,mariemont city,hamilton,1,One CTPD
+044321,Marietta City,Washington,marietta city,washington,1,One CTPD
+044339,Marion City,Marion,marion city,marion,1,One CTPD
+044347,Martins Ferry City,Belmont,martins ferry city,belmont,1,One CTPD
+044354,Massillon City,Stark,massillon city,stark,1,One CTPD
+044362,Maumee City,Lucas,maumee city,lucas,1,One CTPD
+044370,Mayfield City,Cuyahoga,mayfield city,cuyahoga,1,One CTPD
+044388,Medina City SD,Medina,medina city,medina,1,One CTPD
+044396,Miamisburg City,Montgomery,miamisburg city,montgomery,1,One CTPD
+044404,Middletown City,Butler,middletown city,butler,1,One CTPD
+044412,Mt Healthy City,Hamilton,mount healthy city,hamilton,1,One CTPD
+044420,Mount Vernon City,Knox,mount vernon city,knox,1,One CTPD
+044438,Napoleon Area City,Henry,napoleon area city,henry,1,One CTPD
+044446,Nelsonville-York City,Athens,nelsonville york city,athens,1,One CTPD
+044453,Newark City Schools,Licking,newark city,licking,1,One CTPD
+044461,New Boston Local,Scioto,new boston local,scioto,1,One CTPD
+044479,New Lexington School District,Perry,new lexington,perry,1,One CTPD
+044487,New Philadelphia City,Tuscarawas,new philadelphia city,tuscarawas,1,One CTPD
+044495,Niles City,Trumbull,niles city,trumbull,1,One CTPD
+044503,North Canton City,Stark,north canton city,stark,1,One CTPD
+044511,North College Hill City,Hamilton,north college hill city,hamilton,1,One CTPD
+044529,North Olmsted City,Cuyahoga,north olmsted city,cuyahoga,1,One CTPD
+044537,North Ridgeville City,Lorain,north ridgeville city,lorain,1,One CTPD
+044545,North Royalton City,Cuyahoga,north royalton city,cuyahoga,1,One CTPD
+044552,Norton City,Summit,norton city,summit,1,One CTPD
+044560,Norwalk City,Huron,norwalk city,huron,1,One CTPD
+044578,Norwood City,Hamilton,norwood city,hamilton,1,One CTPD
+044586,Oakwood City,Montgomery,oakwood city,montgomery,1,One CTPD
+044594,Oberlin City Schools,Lorain,oberlin city,lorain,1,One CTPD
+044602,Oregon City,Lucas,oregon city,lucas,1,One CTPD
+044610,Orrville City,Wayne,orrville city,wayne,1,One CTPD
+044628,Painesville City Local,Lake,painesville city local,lake,1,One CTPD
+044636,Parma City,Cuyahoga,parma city,cuyahoga,1,One CTPD
+044644,Piqua City,Miami,piqua city,miami,1,One CTPD
+044651,Port Clinton City,Ottawa,port clinton city,ottawa,1,One CTPD
+044669,Portsmouth City,Scioto,portsmouth city,scioto,1,One CTPD
+044677,Princeton City,Hamilton,princeton city,hamilton,1,One CTPD
+044685,Ravenna City,Portage,ravenna city,portage,1,One CTPD
+044693,Reading Community City,Hamilton,reading community city,hamilton,1,One CTPD
+044701,Rocky River City,Cuyahoga,rocky river city,cuyahoga,1,One CTPD
+044719,St Bernard-Elmwood Place City,Hamilton,st bernard elmwood place city,hamilton,1,One CTPD
+044727,St Marys City,Auglaize,st marys city,auglaize,1,One CTPD
+044735,Salem City,Columbiana,salem city,columbiana,1,One CTPD
+044743,Sandusky City,Erie,sandusky city,erie,1,One CTPD
+044750,Shaker Heights City,Cuyahoga,shaker heights city,cuyahoga,1,One CTPD
+044768,Sheffield-Sheffield Lake City,Lorain,sheffield sheffield lake city,lorain,1,One CTPD
+044776,Shelby City,Richland,shelby city,richland,1,One CTPD
+044784,Sidney City,Shelby,sidney city,shelby,1,One CTPD
+044792,South Euclid-Lyndhurst City,Cuyahoga,south euclid lyndhurst city,cuyahoga,1,One CTPD
+044800,South-Western City,Franklin,south western city,franklin,1,One CTPD
+044818,Springfield City School District,Clark,springfield city,clark,1,One CTPD
+044826,Steubenville City,Jefferson,steubenville city,jefferson,1,One CTPD
+044834,Stow-Munroe Falls City School District,Summit,stow munroe falls city,summit,1,One CTPD
+044842,Strongsville City,Cuyahoga,strongsville city,cuyahoga,1,One CTPD
+044859,Struthers City,Mahoning,struthers city,mahoning,1,One CTPD
+044867,Sycamore Community City,Hamilton,sycamore community city,hamilton,1,One CTPD
+044875,Sylvania Schools,Lucas,sylvania,lucas,1,One CTPD
+044883,Tallmadge City,Summit,tallmadge city,summit,1,One CTPD
+044891,Tiffin City Schools,Seneca,tiffin city,seneca,1,One CTPD
+044909,Toledo City,Lucas,toledo city,lucas,1,One CTPD
+044917,Toronto City,Jefferson,toronto city,jefferson,1,One CTPD
+044925,Troy City,Miami,troy city,miami,1,One CTPD
+044933,Upper Arlington City,Franklin,upper arlington city,franklin,1,One CTPD
+044941,Urbana City,Champaign,urbana city,champaign,1,One CTPD
+044958,Vandalia-Butler City,Montgomery,vandalia butler city,montgomery,1,One CTPD
+044966,Van Wert City,Van Wert,van wert city,van wert,1,One CTPD
+044974,Wadsworth City,Medina,wadsworth city,medina,1,One CTPD
+044982,Wapakoneta City,Auglaize,wapakoneta city,auglaize,1,One CTPD
+044990,Warren City,Trumbull,warren city,trumbull,1,One CTPD
+045005,Warrensville Heights City,Cuyahoga,warrensville heights city,cuyahoga,1,One CTPD
+045013,Washington Court House City,Fayette,washington court house city,fayette,1,One CTPD
+045021,Wellston City,Jackson,wellston city,jackson,1,One CTPD
+045039,Wellsville Local,Columbiana,wellsville local,columbiana,1,One CTPD
+045047,Westerville City,Franklin,westerville city,franklin,1,One CTPD
+045054,West Carrollton City,Montgomery,west carrollton city,montgomery,1,One CTPD
+045062,Westlake City,Cuyahoga,westlake city,cuyahoga,1,One CTPD
+045070,Whitehall City,Franklin,whitehall city,franklin,1,One CTPD
+045088,Wickliffe City,Lake,wickliffe city,lake,1,One CTPD
+045096,Willard City,Huron,willard city,huron,1,One CTPD
+045104,Willoughby-Eastlake City,Lake,willoughby eastlake city,lake,1,One CTPD
+045112,Wilmington City,Clinton,wilmington city,clinton,1,One CTPD
+045120,Wooster City,Wayne,wooster city,wayne,1,One CTPD
+045138,Worthington City,Franklin,worthington city,franklin,1,One CTPD
+045146,Wyoming City,Hamilton,wyoming city,hamilton,1,One CTPD
+045153,Xenia Community City,Greene,xenia community city,greene,1,One CTPD
+045161,Youngstown City,Mahoning,youngstown city,mahoning,1,One CTPD
+045179,Zanesville City,Muskingum,zanesville city,muskingum,1,One CTPD
+045187,Ada Exempted Village,Hardin,ada exempted village,hardin,1,One CTPD
+045195,Amherst Exempted Village,Lorain,amherst exempted village,lorain,1,One CTPD
+045203,Barnesville Exempted Village,Belmont,barnesville exempted village,belmont,1,One CTPD
+045211,Bluffton Exempted Village,Allen,bluffton exempted village,allen,1,One CTPD
+045229,Bradford Exempted Village,Miami,bradford exempted village,miami,1,One CTPD
+045237,Bridgeport Exempted Village,Belmont,bridgeport exempted village,belmont,1,One CTPD
+045245,Harrison Hills City,Harrison,harrison hills city,harrison,1,One CTPD
+045252,Caldwell Exempted Village,Noble,caldwell exempted village,noble,1,One CTPD
+045260,Carey Exempted Village Schools,Wyandot,carey exempted village,wyandot,1,One CTPD
+045278,Carrollton Exempted Village,Carroll,carrollton exempted village,carroll,1,One CTPD
+045286,Chagrin Falls Exempted Village,Cuyahoga,chagrin falls exempted village,cuyahoga,1,One CTPD
+045294,Chesapeake Union Exempted Village,Lawrence,chesapeake union exempted village,lawrence,1,One CTPD
+045302,Clyde-Green Springs Exempted Village,Sandusky,clyde green springs exempted village,sandusky,1,One CTPD
+045310,Coldwater Exempted Village,Mercer,coldwater exempted village,mercer,1,One CTPD
+045328,Columbiana Exempted Village,Columbiana,columbiana exempted village,columbiana,1,One CTPD
+045336,Covington Exempted Village,Miami,covington exempted village,miami,1,One CTPD
+045344,Crestline Exempted Village,Crawford,crestline exempted village,crawford,1,One CTPD
+045351,Crooksville Exempted Village,Perry,crooksville exempted village,perry,1,One CTPD
+045369,Fairport Harbor Exempted Village,Lake,fairport harbor exempted village,lake,1,One CTPD
+045377,Georgetown Exempted Village,Brown,georgetown exempted village,brown,1,One CTPD
+045385,Gibsonburg Exempted Village,Sandusky,gibsonburg exempted village,sandusky,1,One CTPD
+045393,Granville Exempted Village,Licking,granville exempted village,licking,1,One CTPD
+045401,Greenfield Exempted Village,Highland,greenfield exempted village,highland,1,One CTPD
+045419,Hicksville Exempted Village School District,Defiance,hicksville exempted village,defiance,1,One CTPD
+045427,Hubbard Exempted Village,Trumbull,hubbard exempted village,trumbull,1,One CTPD
+045435,Indian Hill Exempted Village,Hamilton,indian hill exempted village,hamilton,1,One CTPD
+045443,Leetonia Exempted Village School District,Columbiana,leetonia exempted village,columbiana,1,One CTPD
+045450,Lisbon Exempted Village,Columbiana,lisbon exempted village,columbiana,1,One CTPD
+045468,Loudonville-Perrysville Exempted Village,Ashland,loudonville perrysville exempted village,ashland,1,One CTPD
+045476,Marysville Exempted Village,Union,marysville exempted village,union,1,One CTPD
+045484,Mechanicsburg Exempted Village,Champaign,mechanicsburg exempted village,champaign,1,One CTPD
+045492,Mentor Exempted Village,Lake,mentor exempted village,lake,1,One CTPD
+045500,Milford Exempted Village,Clermont,milford exempted village,clermont,1,One CTPD
+045518,Milton-Union Exempted Village,Miami,milton union exempted village,miami,1,One CTPD
+045526,Montpelier Exempted Village,Williams,montpelier exempted village,williams,1,One CTPD
+045534,Mount Gilead Exempted Village,Morrow,mount gilead exempted village,morrow,1,One CTPD
+045542,Newcomerstown Exempted Village,Tuscarawas,newcomerstown exempted village,tuscarawas,1,One CTPD
+045559,New Richmond Exempted Village,Clermont,new richmond exempted village,clermont,1,One CTPD
+045567,Newton Falls Exempted Village,Trumbull,newton falls exempted village,trumbull,1,One CTPD
+045575,Paulding Exempted Village,Paulding,paulding exempted village,paulding,1,One CTPD
+045583,Perrysburg Exempted Village,Wood,perrysburg exempted village,wood,1,One CTPD
+045591,Rittman Exempted Village,Wayne,rittman exempted village,wayne,1,One CTPD
+045609,Rossford Exempted Village,Wood,rossford exempted village,wood,1,One CTPD
+045617,Tipp City Exempted Village,Miami,tipp city exempted village,miami,1,One CTPD
+045625,Upper Sandusky Exempted Village,Wyandot,upper sandusky exempted village,wyandot,1,One CTPD
+045633,Versailles Exempted Village,Darke,versailles exempted village,darke,1,One CTPD
+045641,Wauseon Exempted Village,Fulton,wauseon exempted village,fulton,1,One CTPD
+045658,Wellington Exempted Village,Lorain,wellington exempted village,lorain,1,One CTPD
+045666,Windham Exempted Village,Portage,windham exempted village,portage,1,One CTPD
+045674,Yellow Springs Exempted Village,Greene,yellow springs exempted village,greene,1,One CTPD
+045757,Allen East Local,Allen,allen east local,allen,1,One CTPD
+045765,Bath Local,Allen,bath local,allen,1,One CTPD
+045773,Elida Local,Allen,elida local,allen,1,One CTPD
+045781,Perry Local,Allen,perry local,allen,1,One CTPD
+045799,Shawnee Local,Allen,shawnee local,allen,1,One CTPD
+045807,Spencerville Local,Allen,spencerville local,allen,1,One CTPD
+045823,Hillsdale Local,Ashland,hillsdale local,ashland,1,One CTPD
+045831,Mapleton Local,Ashland,mapleton local,ashland,1,One CTPD
+045856,Buckeye Local,Ashtabula,buckeye local,ashtabula,1,One CTPD
+045864,Grand Valley Local,Ashtabula,grand valley local,ashtabula,1,One CTPD
+045872,Jefferson Area Local,Ashtabula,jefferson area local,ashtabula,1,One CTPD
+045880,Pymatuning Valley Local School District,Ashtabula,pymatuning valley local,ashtabula,1,One CTPD
+045906,Alexander Local,Athens,alexander local,athens,1,One CTPD
+045914,Federal Hocking Local,Athens,federal hocking local,athens,1,One CTPD
+045922,Trimble Local,Athens,trimble local,athens,1,One CTPD
+045948,Minster Local,Auglaize,minster local,auglaize,1,One CTPD
+045955,New Bremen Local,Auglaize,new bremen local,auglaize,1,One CTPD
+045963,New Knoxville Local,Auglaize,new knoxville local,auglaize,1,One CTPD
+045971,Waynesfield-Goshen Local,Auglaize,waynesfield goshen local,auglaize,1,One CTPD
+045997,St Clairsville-Richland City,Belmont,st clairsville richland city,belmont,1,One CTPD
+046003,Shadyside Local,Belmont,shadyside local,belmont,1,One CTPD
+046011,Union Local,Belmont,union local,belmont,1,One CTPD
+046037,Eastern Local School District,Brown,eastern local,brown,1,One CTPD
+046045,Fayetteville-Perry Local,Brown,fayetteville perry local,brown,1,One CTPD
+046060,Western Brown Local,Brown,western brown local,brown,1,One CTPD
+046078,Ripley-Union-Lewis-Huntington Local,Brown,ripley union lewis huntington local,brown,1,One CTPD
+046094,Edgewood City School District,Butler,edgewood city,butler,1,One CTPD
+046102,Fairfield City,Butler,fairfield city,butler,1,One CTPD
+046110,Lakota Local,Butler,lakota local,butler,1,One CTPD
+046128,Madison Local,Butler,madison local,butler,1,One CTPD
+046136,New Miami Local,Butler,new miami local,butler,1,One CTPD
+046144,Ross Local,Butler,ross local,butler,1,One CTPD
+046151,Talawanda City,Butler,talawanda city,butler,1,One CTPD
+046177,Brown Local,Carroll,brown local,carroll,1,One CTPD
+046193,Graham Local,Champaign,graham local,champaign,1,One CTPD
+046201,Triad Local,Champaign,triad local,champaign,1,One CTPD
+046219,West Liberty-Salem Local,Champaign,west liberty salem local,champaign,1,One CTPD
+046235,Greenon Local,Clark,greenon local,clark,1,One CTPD
+046243,Tecumseh Local,Clark,tecumseh local,clark,1,One CTPD
+046250,Northeastern Local,Clark,northeastern local,clark,1,One CTPD
+046268,Northwestern Local,Clark,northwestern local,clark,1,One CTPD
+046276,Southeastern Local,Clark,southeastern local,clark,1,One CTPD
+046284,Clark-Shawnee Local,Clark,clark shawnee local,clark,1,One CTPD
+046300,Batavia Local,Clermont,batavia local,clermont,1,One CTPD
+046318,Bethel-Tate Local,Clermont,bethel tate local,clermont,1,One CTPD
+046326,Clermont Northeastern Local,Clermont,clermont northeastern local,clermont,1,One CTPD
+046334,Felicity-Franklin Local,Clermont,felicity franklin local,clermont,1,One CTPD
+046342,Goshen Local,Clermont,goshen local,clermont,1,One CTPD
+046359,West Clermont Local,Clermont,west clermont local,clermont,1,One CTPD
+046367,Williamsburg Local,Clermont,williamsburg local,clermont,1,One CTPD
+046383,Blanchester Local,Clinton,blanchester local,clinton,1,One CTPD
+046391,Clinton-Massie Local,Clinton,clinton massie local,clinton,1,One CTPD
+046409,East Clinton Local,Clinton,east clinton local,clinton,1,One CTPD
+046425,Beaver Local,Columbiana,beaver local,columbiana,1,One CTPD
+046433,Crestview Local,Columbiana,crestview local,columbiana,1,One CTPD
+046441,Southern Local,Columbiana,southern local,columbiana,1,One CTPD
+046458,United Local,Columbiana,united local,columbiana,1,One CTPD
+046474,Ridgewood Local,Coshocton,ridgewood local,coshocton,1,One CTPD
+046482,River View Local,Coshocton,river view local,coshocton,1,One CTPD
+046508,Buckeye Central Local,Crawford,buckeye central local,crawford,1,One CTPD
+046516,Colonel Crawford Local,Crawford,colonel crawford local,crawford,1,One CTPD
+046524,Wynford Local,Crawford,wynford local,crawford,1,One CTPD
+046557,Cuyahoga Heights Local,Cuyahoga,cuyahoga heights local,cuyahoga,1,One CTPD
+046565,Independence Local,Cuyahoga,independence local,cuyahoga,1,One CTPD
+046573,Olmsted Falls City,Cuyahoga,olmsted falls city,cuyahoga,1,One CTPD
+046581,Orange City,Cuyahoga,orange city,cuyahoga,1,One CTPD
+046599,Richmond Heights Local,Cuyahoga,richmond heights local,cuyahoga,1,One CTPD
+046607,Solon City,Cuyahoga,solon city,cuyahoga,1,One CTPD
+046623,Ansonia Local,Darke,ansonia local,darke,1,One CTPD
+046631,Arcanum-Butler Local,Darke,arcanum butler local,darke,1,One CTPD
+046649,Franklin Monroe Local,Darke,franklin monroe local,darke,1,One CTPD
+046672,Mississinawa Valley Local,Darke,mississinawa valley local,darke,1,One CTPD
+046680,Tri-Village Local,Darke,tri village local,darke,1,One CTPD
+046706,Ayersville Local,Defiance,ayersville local,defiance,1,One CTPD
+046714,Central Local,Defiance,central local,defiance,1,One CTPD
+046722,Northeastern Local,Defiance,northeastern local,defiance,1,One CTPD
+046748,Big Walnut Local,Delaware,big walnut local,delaware,1,One CTPD
+046755,Buckeye Valley Local Schools,Delaware,buckeye valley local,delaware,1,One CTPD
+046763,Olentangy Local,Delaware,olentangy local,delaware,1,One CTPD
+046789,Edison Local (formerly Berlin-Milan),Erie,edison local formerly berlin milan,erie,1,One CTPD
+046797,Kelleys Island Local,Erie,kelleys island local,erie,1,One CTPD
+046805,Margaretta Local,Erie,margaretta local,erie,1,One CTPD
+046813,Perkins Local,Erie,perkins local,erie,1,One CTPD
+046821,Vermilion Local,Erie,vermilion local,erie,1,One CTPD
+046847,Amanda-Clearcreek Local,Fairfield,amanda clearcreek local,fairfield,1,One CTPD
+046854,Berne Union Local,Fairfield,berne union local,fairfield,1,One CTPD
+046862,Bloom-Carroll Local,Fairfield,bloom carroll local,fairfield,1,One CTPD
+046870,Fairfield Union Local,Fairfield,fairfield union local,fairfield,1,One CTPD
+046888,Liberty Union-Thurston Local,Fairfield,liberty union thurston local,fairfield,1,One CTPD
+046896,Pickerington Local,Fairfield,pickerington local,fairfield,1,One CTPD
+046904,Walnut Township Local,Fairfield,walnut township local,fairfield,1,One CTPD
+046920,Miami Trace Local,Fayette,miami trace local,fayette,1,One CTPD
+046946,Canal Winchester Local,Franklin,canal winchester local,franklin,1,One CTPD
+046953,Hamilton Local,Franklin,hamilton local,franklin,1,One CTPD
+046961,Gahanna-Jefferson City,Franklin,gahanna jefferson city,franklin,1,One CTPD
+046979,Groveport Madison Local,Franklin,groveport madison local,franklin,1,One CTPD
+046995,New Albany-Plain Local,Franklin,new albany plain local,franklin,1,One CTPD
+047001,Reynoldsburg City,Franklin,reynoldsburg city,franklin,1,One CTPD
+047019,Hilliard City,Franklin,hilliard city,franklin,1,One CTPD
+047027,Dublin City,Franklin,dublin city,franklin,1,One CTPD
+047043,Archbold-Area Local,Fulton,archbold area local,fulton,1,One CTPD
+047050,Evergreen Local,Fulton,evergreen local,fulton,1,One CTPD
+047068,Fayette Local,Fulton,fayette local,fulton,1,One CTPD
+047076,Pettisville Local,Fulton,pettisville local,fulton,1,One CTPD
+047084,Pike-Delta-York Local,Fulton,pike delta york local,fulton,1,One CTPD
+047092,Swanton Local,Fulton,swanton local,fulton,1,One CTPD
+047167,Berkshire Local,Geauga,berkshire local,geauga,1,One CTPD
+047175,Cardinal Local,Geauga,cardinal local,geauga,1,One CTPD
+047183,Chardon Local,Geauga,chardon local,geauga,1,One CTPD
+047191,Kenston Local,Geauga,kenston local,geauga,1,One CTPD
+047225,West Geauga Local,Geauga,west geauga local,geauga,1,One CTPD
+047241,Beavercreek City,Greene,beavercreek city,greene,1,One CTPD
+047258,Cedar Cliff Local,Greene,cedar cliff local,greene,1,One CTPD
+047266,Greeneview Local,Greene,greeneview local,greene,1,One CTPD
+047274,Bellbrook-Sugarcreek Local,Greene,bellbrook sugarcreek local,greene,1,One CTPD
+047308,Rolling Hills Local,Guernsey,rolling hills local,guernsey,1,One CTPD
+047332,Finneytown Local,Hamilton,finneytown local,hamilton,1,One CTPD
+047340,Forest Hills Local,Hamilton,forest hills local,hamilton,1,One CTPD
+047365,Northwest Local,Hamilton,northwest local,hamilton,1,One CTPD
+047373,Oak Hills Local,Hamilton,oak hills local,hamilton,1,One CTPD
+047381,Southwest Local,Hamilton,southwest local,hamilton,1,One CTPD
+047399,Three Rivers Local,Hamilton,three rivers local,hamilton,1,One CTPD
+047415,Arcadia Local,Hancock,arcadia local,hancock,1,One CTPD
+047423,Arlington Local,Hancock,arlington local,hancock,1,One CTPD
+047431,Cory-Rawson Local,Hancock,cory rawson local,hancock,1,One CTPD
+047449,Liberty-Benton Local,Hancock,liberty benton local,hancock,1,One CTPD
+047456,McComb Local,Hancock,mccomb local,hancock,1,One CTPD
+047464,Van Buren Local,Hancock,van buren local,hancock,1,One CTPD
+047472,Vanlue Local,Hancock,vanlue local,hancock,1,One CTPD
+047498,Hardin Northern Local,Hardin,hardin northern local,hardin,1,One CTPD
+047506,Ridgemont Local,Hardin,ridgemont local,hardin,1,One CTPD
+047514,Riverdale Local,Hancock,riverdale local,hancock,1,One CTPD
+047522,Upper Scioto Valley Local,Hardin,upper scioto valley local,hardin,1,One CTPD
+047548,Conotton Valley Union Local,Harrison,conotton valley union local,harrison,1,One CTPD
+047571,Holgate Local,Henry,holgate local,henry,1,One CTPD
+047589,Liberty Center Local,Henry,liberty center local,henry,1,One CTPD
+047597,Patrick Henry Local,Henry,patrick henry local,henry,1,One CTPD
+047613,Bright Local,Highland,bright local,highland,1,One CTPD
+047621,Fairfield Local,Highland,fairfield local,highland,1,One CTPD
+047639,Lynchburg-Clay Local,Highland,lynchburg clay local,highland,1,One CTPD
+047688,East Holmes Local,Holmes,east holmes local,holmes,1,One CTPD
+047696,West Holmes Local,Holmes,west holmes local,holmes,1,One CTPD
+047712,Monroeville Local,Huron,monroeville local,huron,1,One CTPD
+047720,New London Local,Huron,new london local,huron,1,One CTPD
+047738,South Central Local,Huron,south central local,huron,1,One CTPD
+047746,Western Reserve Local,Huron,western reserve local,huron,1,One CTPD
+047761,Oak Hill Union Local,Jackson,oak hill union local,jackson,1,One CTPD
+047787,Buckeye Local,Jefferson,buckeye local,jefferson,1,One CTPD
+047795,Edison Local,Jefferson,edison local,jefferson,1,One CTPD
+047803,Indian Creek Local,Jefferson,indian creek local,jefferson,1,One CTPD
+047829,Centerburg Local,Knox,centerburg local,knox,1,One CTPD
+047837,Danville Local,Knox,danville local,knox,1,One CTPD
+047845,East Knox Local,Knox,east knox local,knox,1,One CTPD
+047852,Fredericktown Local,Knox,fredericktown local,knox,1,One CTPD
+047878,Kirtland Local,Lake,kirtland local,lake,1,One CTPD
+047886,Madison Local,Lake,madison local,lake,1,One CTPD
+047894,Riverside Local,Lake,riverside local,lake,1,One CTPD
+047902,Perry Local,Lake,perry local,lake,1,One CTPD
+047928,Dawson-Bryant Local,Lawrence,dawson bryant local,lawrence,1,One CTPD
+047936,Fairland Local,Lawrence,fairland local,lawrence,1,One CTPD
+047944,Rock Hill Local,Lawrence,rock hill local,lawrence,1,One CTPD
+047951,South Point Local,Lawrence,south point local,lawrence,1,One CTPD
+047969,Symmes Valley Local,Lawrence,symmes valley local,lawrence,1,One CTPD
+047985,Johnstown-Monroe Local,Licking,johnstown monroe local,licking,1,One CTPD
+047993,Lakewood Local,Licking,lakewood local,licking,1,One CTPD
+048009,Licking Heights Local,Licking,licking heights local,licking,1,One CTPD
+048017,Licking Valley Local,Licking,licking valley local,licking,1,One CTPD
+048025,North Fork Local,Licking,north fork local,licking,1,One CTPD
+048033,Northridge Local,Licking,northridge local,licking,1,One CTPD
+048041,Southwest Licking Local,Licking,southwest licking local,licking,1,One CTPD
+048074,Benjamin Logan Local,Logan,benjamin logan local,logan,1,One CTPD
+048082,Indian Lake Local,Logan,indian lake local,logan,1,One CTPD
+048090,Riverside Local,Logan,riverside local,logan,1,One CTPD
+048116,Avon Local,Lorain,avon local,lorain,1,One CTPD
+048124,Avon Lake City,Lorain,avon lake city,lorain,1,One CTPD
+048132,Clearview Local,Lorain,clearview local,lorain,1,One CTPD
+048140,Columbia Local,Lorain,columbia local,lorain,1,One CTPD
+048157,Firelands Local,Lorain,firelands local,lorain,1,One CTPD
+048165,Keystone Local,Lorain,keystone local,lorain,1,One CTPD
+048173,Midview Local,Lorain,midview local,lorain,1,One CTPD
+048207,Anthony Wayne Local,Lucas,anthony wayne local,lucas,1,One CTPD
+048215,Ottawa Hills Local,Lucas,ottawa hills local,lucas,1,One CTPD
+048223,Springfield Local,Lucas,springfield local,lucas,1,One CTPD
+048231,Washington Local,Lucas,washington local,lucas,1,One CTPD
+048256,Jefferson Local,Madison,jefferson local,madison,1,One CTPD
+048264,Jonathan Alder Local,Madison,jonathan alder local,madison,1,One CTPD
+048272,Madison-Plains Local,Madison,madison plains local,madison,1,One CTPD
+048298,Austintown Local Schools,Mahoning,austintown local,mahoning,1,One CTPD
+048306,Boardman Local,Mahoning,boardman local,mahoning,1,One CTPD
+048314,Canfield Local,Mahoning,canfield local,mahoning,1,One CTPD
+048322,Jackson-Milton Local,Mahoning,jackson milton local,mahoning,1,One CTPD
+048330,Lowellville Local,Mahoning,lowellville local,mahoning,1,One CTPD
+048348,Poland Local,Mahoning,poland local,mahoning,1,One CTPD
+048355,Sebring Local,Mahoning,sebring local,mahoning,1,One CTPD
+048363,South Range Local,Mahoning,south range local,mahoning,1,One CTPD
+048371,Springfield Local,Mahoning,springfield local,mahoning,1,One CTPD
+048389,West Branch Local,Mahoning,west branch local,mahoning,1,One CTPD
+048397,Western Reserve Local,Mahoning,western reserve local,mahoning,1,One CTPD
+048413,Elgin Local,Marion,elgin local,marion,1,One CTPD
+048421,Pleasant Local,Marion,pleasant local,marion,1,One CTPD
+048439,Ridgedale Local,Marion,ridgedale local,marion,1,One CTPD
+048447,River Valley Local,Marion,river valley local,marion,1,One CTPD
+048462,Black River Local,Medina,black river local,medina,1,One CTPD
+048470,Buckeye Local,Medina,buckeye local,medina,1,One CTPD
+048488,Cloverleaf Local,Medina,cloverleaf local,medina,1,One CTPD
+048496,Highland Local,Medina,highland local,medina,1,One CTPD
+048512,Eastern Local,Meigs,eastern local,meigs,1,One CTPD
+048520,Meigs Local,Meigs,meigs local,meigs,1,One CTPD
+048538,Southern Local,Meigs,southern local,meigs,1,One CTPD
+048553,Marion Local,Mercer,marion local,mercer,1,One CTPD
+048579,Parkway Local,Mercer,parkway local,mercer,1,One CTPD
+048587,St Henry Consolidated Local,Mercer,st henry consolidated local,mercer,1,One CTPD
+048595,Fort Recovery Local,Mercer,fort recovery local,mercer,1,One CTPD
+048611,Bethel Local,Miami,bethel local,miami,1,One CTPD
+048629,Miami East Local,Miami,miami east local,miami,1,One CTPD
+048637,Newton Local,Miami,newton local,miami,1,One CTPD
+048652,Switzerland of Ohio Local,Monroe,switzerland of ohio local,monroe,1,One CTPD
+048678,Brookville Local,Montgomery,brookville local,montgomery,1,One CTPD
+048686,Jefferson Township Local,Montgomery,jefferson township local,montgomery,1,One CTPD
+048694,Trotwood-Madison City,Montgomery,trotwood madison city,montgomery,1,One CTPD
+048702,Mad River Local,Montgomery,mad river local,montgomery,1,One CTPD
+048710,New Lebanon Local School District,Montgomery,new lebanon local,montgomery,1,One CTPD
+048728,Northmont City,Montgomery,northmont city,montgomery,1,One CTPD
+048736,Northridge Local,Montgomery,northridge local,montgomery,1,One CTPD
+048744,Valley View Local,Montgomery,valley view local,montgomery,1,One CTPD
+048751,Huber Heights City,Montgomery,huber heights city,montgomery,1,One CTPD
+048777,Morgan Local,Morgan,morgan local,morgan,1,One CTPD
+048793,Cardington-Lincoln Local,Morrow,cardington lincoln local,morrow,1,One CTPD
+048801,Highland Local,Morrow,highland local,morrow,1,One CTPD
+048819,Northmor Local,Morrow,northmor local,morrow,1,One CTPD
+048835,East Muskingum Local,Muskingum,east muskingum local,muskingum,1,One CTPD
+048843,Franklin Local,Muskingum,franklin local,muskingum,1,One CTPD
+048850,Maysville Local,Muskingum,maysville local,muskingum,1,One CTPD
+048876,Tri-Valley Local,Muskingum,tri valley local,muskingum,1,One CTPD
+048884,West Muskingum Local,Muskingum,west muskingum local,muskingum,1,One CTPD
+048900,Noble Local,Noble,noble local,noble,1,One CTPD
+048926,Benton Carroll Salem Local,Ottawa,benton carroll salem local,ottawa,1,One CTPD
+048934,Danbury Local,Ottawa,danbury local,ottawa,1,One CTPD
+048942,Genoa Area Local,Ottawa,genoa area local,ottawa,1,One CTPD
+048959,Middle Bass Local,Ottawa,middle bass local,ottawa,1,One CTPD
+048967,North Bass Local,Ottawa,north bass local,ottawa,1,One CTPD
+048975,Put-In-Bay Local,Ottawa,put in bay local,ottawa,1,One CTPD
+048991,Antwerp Local,Paulding,antwerp local,paulding,1,One CTPD
+049031,Wayne Trace Local,Paulding,wayne trace local,paulding,1,One CTPD
+049056,Northern Local,Perry,northern local,perry,1,One CTPD
+049064,Southern Local,Perry,southern local,perry,1,One CTPD
+049080,Logan Elm Local,Pickaway,logan elm local,pickaway,1,One CTPD
+049098,Teays Valley Local,Pickaway,teays valley local,pickaway,1,One CTPD
+049106,Westfall Local,Pickaway,westfall local,pickaway,1,One CTPD
+049122,Eastern Local School District,Pike,eastern local,pike,1,One CTPD
+049130,Scioto Valley Local,Pike,scioto valley local,pike,1,One CTPD
+049148,Waverly City,Pike,waverly city,pike,1,One CTPD
+049155,Western Local,Pike,western local,pike,1,One CTPD
+049171,Aurora City,Portage,aurora city,portage,1,One CTPD
+049189,Crestwood Local,Portage,crestwood local,portage,1,One CTPD
+049197,Field Local,Portage,field local,portage,1,One CTPD
+049205,James A Garfield Local,Portage,james a garfield local,portage,1,One CTPD
+049213,Rootstown Local,Portage,rootstown local,portage,1,One CTPD
+049221,Southeast Local,Portage,southeast local,portage,1,One CTPD
+049239,Streetsboro City,Portage,streetsboro city,portage,1,One CTPD
+049247,Waterloo Local,Portage,waterloo local,portage,1,One CTPD
+049270,National Trail Local,Preble,national trail local,preble,1,One CTPD
+049288,Preble Shawnee Local,Preble,preble shawnee local,preble,1,One CTPD
+049296,Twin Valley Community Local,Preble,twin valley community local,preble,1,One CTPD
+049312,Columbus Grove Local,Putnam,columbus grove local,putnam,1,One CTPD
+049320,Continental Local,Putnam,continental local,putnam,1,One CTPD
+049338,Jennings Local,Putnam,jennings local,putnam,1,One CTPD
+049346,Kalida Local,Putnam,kalida local,putnam,1,One CTPD
+049353,Leipsic Local,Putnam,leipsic local,putnam,1,One CTPD
+049361,Miller City-New Cleveland Local,Putnam,miller city new cleveland local,putnam,1,One CTPD
+049379,Ottawa-Glandorf Local,Putnam,ottawa glandorf local,putnam,1,One CTPD
+049387,Ottoville Local,Putnam,ottoville local,putnam,1,One CTPD
+049395,Pandora-Gilboa Local,Putnam,pandora gilboa local,putnam,1,One CTPD
+049411,Clear Fork Valley Local,Richland,clear fork valley local,richland,1,One CTPD
+049429,Crestview Local,Richland,crestview local,richland,1,One CTPD
+049437,Lexington Local,Richland,lexington local,richland,1,One CTPD
+049445,Lucas Local,Richland,lucas local,richland,1,One CTPD
+049452,Madison Local,Richland,madison local,richland,1,One CTPD
+049460,Plymouth-Shiloh Local,Richland,plymouth shiloh local,richland,1,One CTPD
+049478,Ontario Local,Richland,ontario local,richland,1,One CTPD
+049494,Adena Local,Ross,adena local,ross,1,One CTPD
+049502,Huntington Local,Ross,huntington local,ross,1,One CTPD
+049510,Paint Valley Local,Ross,paint valley local,ross,1,One CTPD
+049528,Southeastern Local,Ross,southeastern local,ross,1,One CTPD
+049536,Union-Scioto Local,Ross,union scioto local,ross,1,One CTPD
+049544,Zane Trace Local,Ross,zane trace local,ross,1,One CTPD
+049569,Lakota Local,Sandusky,lakota local,sandusky,1,One CTPD
+049577,Woodmore Local,Sandusky,woodmore local,sandusky,1,One CTPD
+049593,Bloom-Vernon Local,Scioto,bloom vernon local,scioto,1,One CTPD
+049601,Clay Local,Scioto,clay local,scioto,1,One CTPD
+049619,Green Local,Scioto,green local,scioto,1,One CTPD
+049627,Minford Local,Scioto,minford local,scioto,1,One CTPD
+049635,Northwest Local,Scioto,northwest local,scioto,1,One CTPD
+049643,Valley Local,Scioto,valley local,scioto,1,One CTPD
+049650,Washington-Nile Local,Scioto,washington nile local,scioto,1,One CTPD
+049668,Wheelersburg Local,Scioto,wheelersburg local,scioto,1,One CTPD
+049684,Seneca East Local,Seneca,seneca east local,seneca,1,One CTPD
+049700,Hopewell-Loudon Local,Seneca,hopewell loudon local,seneca,1,One CTPD
+049718,New Riegel Local,Seneca,new riegel local,seneca,1,One CTPD
+049726,Old Fort Local,Seneca,old fort local,seneca,1,One CTPD
+049759,Anna Local,Shelby,anna local,shelby,1,One CTPD
+049767,Botkins Local,Shelby,botkins local,shelby,1,One CTPD
+049775,Fairlawn Local,Shelby,fairlawn local,shelby,1,One CTPD
+049783,Fort Loramie Local,Shelby,fort loramie local,shelby,1,One CTPD
+049791,Hardin-Houston Local,Shelby,hardin houston local,shelby,1,One CTPD
+049809,Jackson Center Local,Shelby,jackson center local,shelby,1,One CTPD
+049817,Russia Local,Shelby,russia local,shelby,1,One CTPD
+049833,Canton Local,Stark,canton local,stark,1,One CTPD
+049841,Fairless Local,Stark,fairless local,stark,1,One CTPD
+049858,Jackson Local,Stark,jackson local,stark,1,One CTPD
+049866,Lake Local,Stark,lake local,stark,1,One CTPD
+049874,Louisville City,Stark,louisville city,stark,1,One CTPD
+049882,Marlington Local,Stark,marlington local,stark,1,One CTPD
+049890,Minerva Local,Stark,minerva local,stark,1,One CTPD
+049908,Northwest Local,Stark,northwest local,stark,1,One CTPD
+049916,Osnaburg Local,Stark,osnaburg local,stark,1,One CTPD
+049924,Perry Local,Stark,perry local,stark,1,One CTPD
+049932,Plain Local,Stark,plain local,stark,1,One CTPD
+049940,Sandy Valley Local,Stark,sandy valley local,stark,1,One CTPD
+049957,Tuslaw Local,Stark,tuslaw local,stark,1,One CTPD
+049973,Woodridge Local,Summit,woodridge local,summit,1,One CTPD
+049981,Copley-Fairlawn City,Summit,copley fairlawn city,summit,1,One CTPD
+049999,Coventry Local,Summit,coventry local,summit,1,One CTPD
+050005,Manchester Local,Summit,manchester local,summit,1,One CTPD
+050013,Green Local,Summit,green local,summit,1,One CTPD
+050021,Hudson City,Summit,hudson city,summit,1,One CTPD
+050039,Mogadore Local,Summit,mogadore local,summit,1,One CTPD
+050047,Nordonia Hills City,Summit,nordonia hills city,summit,1,One CTPD
+050054,Revere Local,Summit,revere local,summit,1,One CTPD
+050062,Springfield Local,Summit,springfield local,summit,1,One CTPD
+050070,Twinsburg City,Summit,twinsburg city,summit,1,One CTPD
+050096,Bloomfield-Mespo Local,Trumbull,bloomfield mespo local,trumbull,1,One CTPD
+050112,Bristol Local,Trumbull,bristol local,trumbull,1,One CTPD
+050120,Brookfield Local,Trumbull,brookfield local,trumbull,1,One CTPD
+050138,Champion Local,Trumbull,champion local,trumbull,1,One CTPD
+050153,Mathews Local,Trumbull,mathews local,trumbull,1,One CTPD
+050161,Howland Local,Trumbull,howland local,trumbull,1,One CTPD
+050179,Joseph Badger Local,Trumbull,joseph badger local,trumbull,1,One CTPD
+050187,Lakeview Local,Trumbull,lakeview local,trumbull,1,One CTPD
+050195,Liberty Local,Trumbull,liberty local,trumbull,1,One CTPD
+050203,Lordstown Local,Trumbull,lordstown local,trumbull,1,One CTPD
+050211,Maplewood Local,Trumbull,maplewood local,trumbull,1,One CTPD
+050229,McDonald Local,Trumbull,mcdonald local,trumbull,1,One CTPD
+050237,Southington Local,Trumbull,southington local,trumbull,1,One CTPD
+050245,LaBrae Local,Trumbull,labrae local,trumbull,1,One CTPD
+050252,Weathersfield Local,Trumbull,weathersfield local,trumbull,1,One CTPD
+050278,Garaway Local,Tuscarawas,garaway local,tuscarawas,1,One CTPD
+050286,Indian Valley Local,Tuscarawas,indian valley local,tuscarawas,1,One CTPD
+050294,Strasburg-Franklin Local,Tuscarawas,strasburg franklin local,tuscarawas,1,One CTPD
+050302,Tuscarawas Valley Local,Tuscarawas,tuscarawas valley local,tuscarawas,1,One CTPD
+050328,Fairbanks Local,Union,fairbanks local,union,1,One CTPD
+050336,North Union Local School District,Union,north union local,union,1,One CTPD
+050351,Crestview Local,Van Wert,crestview local,van wert,1,One CTPD
+050369,Lincolnview Local,Van Wert,lincolnview local,van wert,1,One CTPD
+050393,Vinton County Local,Vinton,vinton county local,vinton,1,One CTPD
+050419,Carlisle Local,Warren,carlisle local,warren,1,One CTPD
+050427,Springboro Community City,Warren,springboro community city,warren,1,One CTPD
+050435,Kings Local,Warren,kings local,warren,1,One CTPD
+050443,Little Miami Local,Warren,little miami local,warren,1,One CTPD
+050450,Mason City,Warren,mason city,warren,1,One CTPD
+050468,Wayne Local,Warren,wayne local,warren,1,One CTPD
+050484,Fort Frye Local,Washington,fort frye local,washington,1,One CTPD
+050492,Frontier Local,Washington,frontier local,washington,1,One CTPD
+050500,Warren Local,Washington,warren local,washington,1,One CTPD
+050518,Wolf Creek Local,Washington,wolf creek local,washington,1,One CTPD
+050534,Chippewa Local,Wayne,chippewa local,wayne,1,One CTPD
+050542,Dalton Local,Wayne,dalton local,wayne,1,One CTPD
+050559,Green Local,Wayne,green local,wayne,1,One CTPD
+050567,Norwayne Local,Wayne,norwayne local,wayne,1,One CTPD
+050575,Northwestern Local,Wayne,northwestern local,wayne,1,One CTPD
+050583,Waynedale Local,Wayne,waynedale local,wayne,1,One CTPD
+050591,Triway Local,Wayne,triway local,wayne,1,One CTPD
+050617,Edgerton Local,Williams,edgerton local,williams,1,One CTPD
+050625,Edon Northwest Local,Williams,edon northwest local,williams,1,One CTPD
+050633,Millcreek-West Unity Local,Williams,millcreek west unity local,williams,1,One CTPD
+050641,North Central Local,Williams,north central local,williams,1,One CTPD
+050658,Stryker Local,Williams,stryker local,williams,1,One CTPD
+050674,Eastwood Local,Wood,eastwood local,wood,1,One CTPD
+050682,Elmwood Local,Wood,elmwood local,wood,1,One CTPD
+050690,Lake Local,Wood,lake local,wood,1,One CTPD
+050708,North Baltimore Local,Wood,north baltimore local,wood,1,One CTPD
+050716,Northwood Local Schools,Wood,northwood local,wood,1,One CTPD
+050724,Otsego Local,Wood,otsego local,wood,1,One CTPD
+050740,Mohawk Local,Wyandot,mohawk local,wyandot,1,One CTPD
+061903,Adams County Ohio Valley Local,Adams,adams county ohio valley local,adams,1,One CTPD
+064964,College Corner Local,Preble,college corner local,preble,1,One CTPD
+065680,Gallia County Local,Gallia,gallia county local,gallia,1,One CTPD
+069682,East Guernsey Local,Guernsey,east guernsey local,guernsey,1,One CTPD
+091397,Tri-County North Local,Preble,tri county north local,preble,1,One CTPD
+139303,Monroe Local,Butler,monroe local,butler,1,One CTPD

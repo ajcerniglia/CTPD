@@ -1,0 +1,612 @@
+district_irn,district_name,designated_county,census_school_geoid,census_school_name,geometry_match_method,match_note,match_status
+061903,Adams County Ohio Valley Local,Adams,3906190,Adams County/Ohio Valley Local School District,normalized_name_plus_overlapping_county,,matched
+043489,Akron City,Summit,3904348,Akron City School District,normalized_name_plus_overlapping_county,,matched
+043497,Alliance City,Stark,3904349,Alliance City School District,normalized_name_plus_overlapping_county,,matched
+043505,Ashland City,Ashland,3904350,Ashland City School District,normalized_name_plus_overlapping_county,,matched
+043513,Ashtabula Area City,Ashtabula,3904351,Ashtabula Area City School District,normalized_name_plus_overlapping_county,,matched
+043521,Athens City School District,Athens,3904352,Athens City School District,normalized_name_plus_overlapping_county,,matched
+043539,Barberton City,Summit,3904353,Barberton City School District,normalized_name_plus_overlapping_county,,matched
+043547,Bay Village City,Cuyahoga,3904354,Bay Village City School District,normalized_name_plus_overlapping_county,,matched
+043554,Beachwood City,Cuyahoga,3904355,Beachwood City School District,normalized_name_plus_overlapping_county,,matched
+043562,Bedford City,Cuyahoga,3910017,Bedford City School District,normalized_name_plus_overlapping_county,,matched
+043570,Bellaire Local,Belmont,3904357,Bellaire Local School District,normalized_name_plus_overlapping_county,,matched
+043588,Bellefontaine City,Logan,3904358,Bellefontaine City School District,normalized_name_plus_overlapping_county,,matched
+043596,Bellevue City,Huron,3904359,Bellevue City School District,normalized_name_plus_overlapping_county,,matched
+043604,Belpre City,Washington,3904361,Belpre City School District,normalized_name_plus_overlapping_county,,matched
+043612,Berea City,Cuyahoga,3904360,Berea City School District,normalized_name_plus_overlapping_county,,matched
+043620,Bexley City,Franklin,3904362,Bexley City School District,normalized_name_plus_overlapping_county,,matched
+043638,Bowling Green City School District,Wood,3904363,Bowling Green City School District,normalized_name_plus_overlapping_county,,matched
+043646,Brecksville-Broadview Heights City,Cuyahoga,3904364,Brecksville-Broadview Heights City School District,normalized_name_plus_overlapping_county,,matched
+043653,Brooklyn City,Cuyahoga,3904365,Brooklyn City School District,normalized_name_plus_overlapping_county,,matched
+043661,Brunswick City,Medina,3904366,Brunswick City School District,normalized_name_plus_overlapping_county,,matched
+043679,Bryan City,Williams,3904367,Bryan City School District,normalized_name_plus_overlapping_county,,matched
+043687,Bucyrus City,Crawford,3904368,Bucyrus City School District,normalized_name_plus_overlapping_county,,matched
+043695,Cambridge City,Guernsey,3904369,Cambridge City School District,normalized_name_plus_overlapping_county,,matched
+043703,Campbell City,Mahoning,3904370,Campbell City School District,normalized_name_plus_overlapping_county,,matched
+043711,Canton City,Stark,3904371,Canton City School District,normalized_name_plus_overlapping_county,,matched
+043729,Celina City,Mercer,3910030,Celina City School District,normalized_name_plus_overlapping_county,,matched
+043737,Centerville City,Montgomery,3904373,Centerville City School District,normalized_name_plus_overlapping_county,,matched
+043745,Chillicothe City,Ross,3904374,Chillicothe City School District,normalized_name_plus_overlapping_county,,matched
+043752,Cincinnati Public Schools,Hamilton,3904375,Cincinnati City School District,manual_alias,Cincinnati Public Schools -> Cincinnati City School District,matched
+043760,Circleville City,Pickaway,3904376,Circleville City School District,normalized_name_plus_overlapping_county,,matched
+043778,Claymont City,Tuscarawas,3904377,Claymont City School District,normalized_name_plus_overlapping_county,,matched
+043786,Cleveland Municipal,Cuyahoga,3904378,Cleveland Municipal School District,normalized_name_plus_overlapping_county,,matched
+043794,Cleveland Heights-University Heights City,Cuyahoga,3904379,Cleveland Heights-University Heights City School District,normalized_name_plus_overlapping_county,,matched
+043802,Columbus City Schools District,Franklin,3904380,Columbus City School District,normalized_name_plus_overlapping_county,,matched
+043810,Conneaut Area City,Ashtabula,3904381,Conneaut Area City School District,normalized_name_plus_overlapping_county,,matched
+043828,Coshocton City,Coshocton,3904382,Coshocton City School District,normalized_name_plus_overlapping_county,,matched
+043836,Cuyahoga Falls City School District,Summit,3904383,Cuyahoga Falls City School District,normalized_name_plus_overlapping_county,,matched
+043844,Dayton City,Montgomery,3904384,Dayton City School District,normalized_name_plus_overlapping_county,,matched
+043851,Deer Park Community City,Hamilton,3904385,Deer Park Community City School District,normalized_name_plus_overlapping_county,,matched
+043869,Defiance City,Defiance,3904386,Defiance City School District,normalized_name_plus_overlapping_county,,matched
+043877,Delaware City,Delaware,3904387,Delaware City School District,normalized_name_plus_overlapping_county,,matched
+043885,Delphos City,Allen,3904388,Delphos City School District,normalized_name_plus_overlapping_county,,matched
+043893,Dover City,Tuscarawas,3904389,Dover City School District,normalized_name_plus_overlapping_county,,matched
+043901,East Cleveland City School District,Cuyahoga,3904390,East Cleveland City School District,normalized_name_plus_overlapping_county,,matched
+043919,East Liverpool City,Columbiana,3904391,East Liverpool City School District,normalized_name_plus_overlapping_county,,matched
+043927,East Palestine City,Columbiana,3904392,East Palestine City School District,normalized_name_plus_overlapping_county,,matched
+043935,Eaton Community City,Preble,3904393,Eaton Community City School District,normalized_name_plus_overlapping_county,,matched
+043943,Elyria City Schools,Lorain,3904394,Elyria City School District,normalized_name_plus_overlapping_county,,matched
+043950,Euclid City,Cuyahoga,3904395,Euclid City School District,normalized_name_plus_overlapping_county,,matched
+043968,Fairborn City,Greene,3904396,Fairborn City School District,normalized_name_plus_overlapping_county,,matched
+043976,Fairview Park City,Cuyahoga,3904397,Fairview Park City School District,normalized_name_plus_overlapping_county,,matched
+043984,Findlay City,Hancock,3910000,Findlay City School District,normalized_name_plus_overlapping_county,,matched
+043992,Fostoria City,Seneca,3904399,Fostoria City School District,normalized_name_plus_overlapping_county,,matched
+044008,Franklin City,Warren,3904400,Franklin City School District,normalized_name_plus_overlapping_county,,matched
+044016,Fremont City,Sandusky,3904401,Fremont City School District,normalized_name_plus_overlapping_county,,matched
+044024,Galion City,Crawford,3904402,Galion City School District,normalized_name_plus_overlapping_county,,matched
+044032,Gallipolis City,Gallia,3904403,Gallipolis City School District,normalized_name_plus_overlapping_county,,matched
+044040,Garfield Heights City Schools,Cuyahoga,3904404,Garfield Heights City School District,normalized_name_plus_overlapping_county,,matched
+044057,Geneva Area City,Ashtabula,3904405,Geneva Area City School District,normalized_name_plus_overlapping_county,,matched
+044065,Girard City School District,Trumbull,3904406,Girard City School District,normalized_name_plus_overlapping_county,,matched
+044073,Grandview Heights Schools,Franklin,3904407,Grandview Heights City School District,manual_alias,Grandview Heights Schools -> Grandview Heights City School District,matched
+044081,Winton Woods City,Hamilton,3904408,Winton Woods City School District,normalized_name_plus_overlapping_county,,matched
+044099,Greenville City,Darke,3904409,Greenville City School District,normalized_name_plus_overlapping_county,,matched
+044107,Hamilton City,Butler,3904410,Hamilton City School District,normalized_name_plus_overlapping_county,,matched
+044115,Heath City,Licking,3904411,Heath City School District,normalized_name_plus_overlapping_county,,matched
+044123,Hillsboro City,Highland,3904412,Hillsboro City School District,normalized_name_plus_overlapping_county,,matched
+044131,Huron City Schools,Erie,3904413,Huron City School District,normalized_name_plus_overlapping_county,,matched
+044149,Ironton City School District,Lawrence,3904414,Ironton City School District,normalized_name_plus_overlapping_county,,matched
+044156,Jackson City,Jackson,3904415,Jackson City School District,normalized_name_plus_overlapping_county,,matched
+044164,Kent City,Portage,3904416,Kent City School District,normalized_name_plus_overlapping_county,,matched
+044172,Kenton City,Hardin,3910025,Kenton City School District,normalized_name_plus_overlapping_county,,matched
+044180,Kettering City School District,Montgomery,3904418,Kettering City School District,normalized_name_plus_overlapping_county,,matched
+044198,Lakewood City,Cuyahoga,3904419,Lakewood City School District,normalized_name_plus_overlapping_county,,matched
+044206,Lancaster City,Fairfield,3904420,Lancaster City School District,normalized_name_plus_overlapping_county,,matched
+044214,Lebanon City,Warren,3904421,Lebanon City School District,normalized_name_plus_overlapping_county,,matched
+044222,Lima City,Allen,3904422,Lima City School District,normalized_name_plus_overlapping_county,,matched
+044230,Lockland Local,Hamilton,3904423,Lockland Local School District,normalized_name_plus_overlapping_county,,matched
+044248,Logan-Hocking Local,Hocking,3904424,Logan-Hocking Local School District,normalized_name_plus_overlapping_county,,matched
+044255,London City,Madison,3904425,London City School District,normalized_name_plus_overlapping_county,,matched
+044263,Lorain City,Lorain,3904426,Lorain City School District,normalized_name_plus_overlapping_county,,matched
+044271,Loveland City,Hamilton,3904427,Loveland City School District,normalized_name_plus_overlapping_county,,matched
+044289,Madeira City,Hamilton,3904428,Madeira City School District,normalized_name_plus_overlapping_county,,matched
+044297,Mansfield City,Richland,3904429,Mansfield City School District,normalized_name_plus_overlapping_county,,matched
+044305,Maple Heights City,Cuyahoga,3904430,Maple Heights City School District,normalized_name_plus_overlapping_county,,matched
+044313,Mariemont City,Hamilton,3904431,Mariemont City School District,normalized_name_plus_overlapping_county,,matched
+044321,Marietta City,Washington,3910019,Marietta City School District,normalized_name_plus_overlapping_county,,matched
+044339,Marion City,Marion,3904433,Marion City School District,normalized_name_plus_overlapping_county,,matched
+044347,Martins Ferry City,Belmont,3904434,Martins Ferry City School District,normalized_name_plus_overlapping_county,,matched
+044354,Massillon City,Stark,3904435,Massillon City School District,normalized_name_plus_overlapping_county,,matched
+044362,Maumee City,Lucas,3904436,Maumee City School District,normalized_name_plus_overlapping_county,,matched
+044370,Mayfield City,Cuyahoga,3904437,Mayfield City School District,normalized_name_plus_overlapping_county,,matched
+044388,Medina City SD,Medina,3904438,Medina City School District,normalized_name_plus_overlapping_county,,matched
+044396,Miamisburg City,Montgomery,3904439,Miamisburg City School District,normalized_name_plus_overlapping_county,,matched
+044404,Middletown City,Butler,3904440,Middletown City School District,normalized_name_plus_overlapping_county,,matched
+044412,Mt Healthy City,Hamilton,3904441,Mount Healthy City School District,normalized_name_plus_overlapping_county,,matched
+044420,Mount Vernon City,Knox,3910012,Mount Vernon City School District,normalized_name_plus_overlapping_county,,matched
+044438,Napoleon Area City,Henry,3904443,Napoleon Area City School District,normalized_name_plus_overlapping_county,,matched
+044446,Nelsonville-York City,Athens,3904444,Nelsonville-York City School District,normalized_name_plus_overlapping_county,,matched
+044453,Newark City Schools,Licking,3904445,Newark City School District,normalized_name_plus_overlapping_county,,matched
+044461,New Boston Local,Scioto,3904446,New Boston Local School District,normalized_name_plus_overlapping_county,,matched
+044479,New Lexington School District,Perry,3904447,New Lexington City School District,manual_alias,New Lexington School District -> New Lexington City School District,matched
+044487,New Philadelphia City,Tuscarawas,3904448,New Philadelphia City School District,normalized_name_plus_overlapping_county,,matched
+044495,Niles City,Trumbull,3904449,Niles City School District,normalized_name_plus_overlapping_county,,matched
+044503,North Canton City,Stark,3904450,North Canton City School District,normalized_name_plus_overlapping_county,,matched
+044511,North College Hill City,Hamilton,3904451,North College Hill City School District,normalized_name_plus_overlapping_county,,matched
+044529,North Olmsted City,Cuyahoga,3904452,North Olmsted City School District,normalized_name_plus_overlapping_county,,matched
+044537,North Ridgeville City,Lorain,3904453,North Ridgeville City School District,normalized_name_plus_overlapping_county,,matched
+044545,North Royalton City,Cuyahoga,3904454,North Royalton City School District,normalized_name_plus_overlapping_county,,matched
+044552,Norton City,Summit,3904455,Norton City School District,normalized_name_plus_overlapping_county,,matched
+044560,Norwalk City,Huron,3904456,Norwalk City School District,normalized_name_plus_overlapping_county,,matched
+044578,Norwood City,Hamilton,3904457,Norwood City School District,normalized_name_plus_overlapping_county,,matched
+044586,Oakwood City,Montgomery,3904458,Oakwood City School District,normalized_name_plus_overlapping_county,,matched
+044594,Oberlin City Schools,Lorain,3904459,Oberlin City School District,normalized_name_plus_overlapping_county,,matched
+044602,Oregon City,Lucas,3904460,Oregon City School District,normalized_name_plus_overlapping_county,,matched
+044610,Orrville City,Wayne,3904461,Orrville City School District,normalized_name_plus_overlapping_county,,matched
+044628,Painesville City Local,Lake,3910015,Painesville City Local School District,normalized_name_plus_overlapping_county,,matched
+044636,Parma City,Cuyahoga,3904463,Parma City School District,normalized_name_plus_overlapping_county,,matched
+044644,Piqua City,Miami,3904464,Piqua City School District,normalized_name_plus_overlapping_county,,matched
+044651,Port Clinton City,Ottawa,3904465,Port Clinton City School District,normalized_name_plus_overlapping_county,,matched
+044669,Portsmouth City,Scioto,3910027,Portsmouth City School District,normalized_name_plus_overlapping_county,,matched
+044677,Princeton City,Hamilton,3904467,Princeton City School District,normalized_name_plus_overlapping_county,,matched
+044685,Ravenna City,Portage,3904468,Ravenna City School District,normalized_name_plus_overlapping_county,,matched
+044693,Reading Community City,Hamilton,3904469,Reading Community City School District,normalized_name_plus_overlapping_county,,matched
+044701,Rocky River City,Cuyahoga,3904470,Rocky River City School District,normalized_name_plus_overlapping_county,,matched
+044719,St Bernard-Elmwood Place City,Hamilton,3904471,St. Bernard-Elmwood Place City School District,normalized_name_plus_overlapping_county,,matched
+044727,St Marys City,Auglaize,3904472,St. Marys City School District,normalized_name_plus_overlapping_county,,matched
+044735,Salem City,Columbiana,3910006,Salem City School District,normalized_name_plus_overlapping_county,,matched
+044743,Sandusky City,Erie,3904474,Sandusky City School District,normalized_name_plus_overlapping_county,,matched
+044750,Shaker Heights City,Cuyahoga,3904475,Shaker Heights City School District,normalized_name_plus_overlapping_county,,matched
+044768,Sheffield-Sheffield Lake City,Lorain,3904476,Sheffield-Sheffield Lake City School District,normalized_name_plus_overlapping_county,,matched
+044776,Shelby City,Richland,3910009,Shelby City School District,normalized_name_plus_overlapping_county,,matched
+044784,Sidney City,Shelby,3910003,Sidney City School District,normalized_name_plus_overlapping_county,,matched
+044792,South Euclid-Lyndhurst City,Cuyahoga,3904479,South Euclid-Lyndhurst City School District,normalized_name_plus_overlapping_county,,matched
+044800,South-Western City,Franklin,3904480,South-Western City School District,normalized_name_plus_overlapping_county,,matched
+044818,Springfield City School District,Clark,3904481,Springfield City School District,normalized_name_plus_overlapping_county,,matched
+044826,Steubenville City,Jefferson,3904482,Steubenville City School District,normalized_name_plus_overlapping_county,,matched
+044834,Stow-Munroe Falls City School District,Summit,3904483,Stow-Munroe Falls City School District,normalized_name_plus_overlapping_county,,matched
+044842,Strongsville City,Cuyahoga,3904484,Strongsville City School District,normalized_name_plus_overlapping_county,,matched
+044859,Struthers City,Mahoning,3904485,Struthers City School District,normalized_name_plus_overlapping_county,,matched
+044867,Sycamore Community City,Hamilton,3904486,Sycamore Community City School District,normalized_name_plus_overlapping_county,,matched
+044875,Sylvania Schools,Lucas,3904487,Sylvania City School District,manual_alias,Sylvania Schools -> Sylvania City School District,matched
+044883,Tallmadge City,Summit,3904488,Tallmadge City School District,normalized_name_plus_overlapping_county,,matched
+044891,Tiffin City Schools,Seneca,3904489,Tiffin City School District,normalized_name_plus_overlapping_county,,matched
+044909,Toledo City,Lucas,3904490,Toledo City School District,normalized_name_plus_overlapping_county,,matched
+044917,Toronto City,Jefferson,3904491,Toronto City School District,normalized_name_plus_overlapping_county,,matched
+044925,Troy City,Miami,3904492,Troy City School District,normalized_name_plus_overlapping_county,,matched
+044933,Upper Arlington City,Franklin,3904493,Upper Arlington City School District,normalized_name_plus_overlapping_county,,matched
+044941,Urbana City,Champaign,3904494,Urbana City School District,normalized_name_plus_overlapping_county,,matched
+044958,Vandalia-Butler City,Montgomery,3904495,Vandalia-Butler City School District,normalized_name_plus_overlapping_county,,matched
+044966,Van Wert City,Van Wert,3910023,Van Wert City School District,normalized_name_plus_overlapping_county,,matched
+044974,Wadsworth City,Medina,3910029,Wadsworth City School District,normalized_name_plus_overlapping_county,,matched
+044982,Wapakoneta City,Auglaize,3904498,Wapakoneta City School District,normalized_name_plus_overlapping_county,,matched
+044990,Warren City,Trumbull,3904499,Warren City School District,normalized_name_plus_overlapping_county,,matched
+045005,Warrensville Heights City,Cuyahoga,3904500,Warrensville Heights City School District,normalized_name_plus_overlapping_county,,matched
+045013,Washington Court House City,Fayette,3910011,Washington Court House City School District,normalized_name_plus_overlapping_county,,matched
+045021,Wellston City,Jackson,3904502,Wellston City School District,normalized_name_plus_overlapping_county,,matched
+045039,Wellsville Local,Columbiana,3904503,Wellsville Local School District,normalized_name_plus_overlapping_county,,matched
+045047,Westerville City,Franklin,3904504,Westerville City School District,normalized_name_plus_overlapping_county,,matched
+045054,West Carrollton City,Montgomery,3904505,West Carrollton City School District,normalized_name_plus_overlapping_county,,matched
+045062,Westlake City,Cuyahoga,3904506,Westlake City School District,normalized_name_plus_overlapping_county,,matched
+045070,Whitehall City,Franklin,3904507,Whitehall City School District,normalized_name_plus_overlapping_county,,matched
+045088,Wickliffe City,Lake,3904508,Wickliffe City School District,normalized_name_plus_overlapping_county,,matched
+045096,Willard City,Huron,3904509,Willard City School District,normalized_name_plus_overlapping_county,,matched
+045104,Willoughby-Eastlake City,Lake,3904510,Willoughby-Eastlake City School District,normalized_name_plus_overlapping_county,,matched
+045112,Wilmington City,Clinton,3904511,Wilmington City School District,normalized_name_plus_overlapping_county,,matched
+045120,Wooster City,Wayne,3910032,Wooster City School District,normalized_name_plus_overlapping_county,,matched
+045138,Worthington City,Franklin,3904513,Worthington City School District,normalized_name_plus_overlapping_county,,matched
+045146,Wyoming City,Hamilton,3904514,Wyoming City School District,normalized_name_plus_overlapping_county,,matched
+045153,Xenia Community City,Greene,3904515,Xenia Community City School District,normalized_name_plus_overlapping_county,,matched
+045161,Youngstown City,Mahoning,3904516,Youngstown City School District,normalized_name_plus_overlapping_county,,matched
+045179,Zanesville City,Muskingum,3904517,Zanesville City School District,normalized_name_plus_overlapping_county,,matched
+045187,Ada Exempted Village,Hardin,3904518,Ada Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045195,Amherst Exempted Village,Lorain,3904519,Amherst Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045203,Barnesville Exempted Village,Belmont,3904520,Barnesville Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045211,Bluffton Exempted Village,Allen,3904521,Bluffton Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045229,Bradford Exempted Village,Miami,3904522,Bradford Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045237,Bridgeport Exempted Village,Belmont,3904523,Bridgeport Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045245,Harrison Hills City,Harrison,3904524,Harrison Hills City School District,normalized_name_plus_overlapping_county,,matched
+045252,Caldwell Exempted Village,Noble,3904525,Caldwell Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045260,Carey Exempted Village Schools,Wyandot,3904526,Carey Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045278,Carrollton Exempted Village,Carroll,3904527,Carrollton Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045286,Chagrin Falls Exempted Village,Cuyahoga,3904528,Chagrin Falls Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045294,Chesapeake Union Exempted Village,Lawrence,3904529,Chesapeake Union Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045302,Clyde-Green Springs Exempted Village,Sandusky,3910020,Clyde-Green Springs Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045310,Coldwater Exempted Village,Mercer,3904531,Coldwater Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045328,Columbiana Exempted Village,Columbiana,3904532,Columbiana Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045336,Covington Exempted Village,Miami,3904533,Covington Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045344,Crestline Exempted Village,Crawford,3910008,Crestline Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045351,Crooksville Exempted Village,Perry,3904535,Crooksville Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045369,Fairport Harbor Exempted Village,Lake,3904536,Fairport Harbor Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045377,Georgetown Exempted Village,Brown,3904537,Georgetown Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045385,Gibsonburg Exempted Village,Sandusky,3904538,Gibsonburg Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045393,Granville Exempted Village,Licking,3904539,Granville Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045401,Greenfield Exempted Village,Highland,3904540,Greenfield Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045419,Hicksville Exempted Village School District,Defiance,3904541,Hicksville Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045427,Hubbard Exempted Village,Trumbull,3904542,Hubbard Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045435,Indian Hill Exempted Village,Hamilton,3904543,Indian Hill Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045443,Leetonia Exempted Village School District,Columbiana,3910007,Leetonia Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045450,Lisbon Exempted Village,Columbiana,3904545,Lisbon Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045468,Loudonville-Perrysville Exempted Village,Ashland,3904546,Loudonville-Perrysville Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045476,Marysville Exempted Village,Union,3904547,Marysville Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045484,Mechanicsburg Exempted Village,Champaign,3904548,Mechanicsburg Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045492,Mentor Exempted Village,Lake,3904549,Mentor Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045500,Milford Exempted Village,Clermont,3904550,Milford Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045518,Milton-Union Exempted Village,Miami,3904551,Milton-Union Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045526,Montpelier Exempted Village,Williams,3904552,Montpelier Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045534,Mount Gilead Exempted Village,Morrow,3904553,Mount Gilead Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045542,Newcomerstown Exempted Village,Tuscarawas,3904554,Newcomerstown Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045559,New Richmond Exempted Village,Clermont,3904555,New Richmond Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045567,Newton Falls Exempted Village,Trumbull,3904556,Newton Falls Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045575,Paulding Exempted Village,Paulding,3904557,Paulding Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045583,Perrysburg Exempted Village,Wood,3904558,Perrysburg Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045591,Rittman Exempted Village,Wayne,3910028,Rittman Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045609,Rossford Exempted Village,Wood,3904560,Rossford Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045617,Tipp City Exempted Village,Miami,3904561,Tipp City Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045625,Upper Sandusky Exempted Village,Wyandot,3910024,Upper Sandusky Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045633,Versailles Exempted Village,Darke,3904563,Versailles Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045641,Wauseon Exempted Village,Fulton,3904564,Wauseon Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045658,Wellington Exempted Village,Lorain,3904565,Wellington Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045666,Windham Exempted Village,Portage,3904566,Windham Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045674,Yellow Springs Exempted Village,Greene,3904567,Yellow Springs Exempted Village School District,normalized_name_plus_overlapping_county,,matched
+045757,Allen East Local,Allen,3904575,Allen East Local School District,normalized_name_plus_overlapping_county,,matched
+045765,Bath Local,Allen,3904576,Bath Local School District,normalized_name_plus_overlapping_county,,matched
+045773,Elida Local,Allen,3904577,Elida Local School District,normalized_name_plus_overlapping_county,,matched
+045781,Perry Local,Allen,3904578,Perry Local School District,normalized_name_plus_overlapping_county,,matched
+045799,Shawnee Local,Allen,3904579,Shawnee Local School District,normalized_name_plus_overlapping_county,,matched
+045807,Spencerville Local,Allen,3904580,Spencerville Local School District,normalized_name_plus_overlapping_county,,matched
+045823,Hillsdale Local,Ashland,3904582,Hillsdale Local School District,normalized_name_plus_overlapping_county,,matched
+045831,Mapleton Local,Ashland,3904583,Mapleton Local School District,normalized_name_plus_overlapping_county,,matched
+045856,Buckeye Local,Ashtabula,3904585,Buckeye Local School District,normalized_name_plus_overlapping_county,,matched
+045864,Grand Valley Local,Ashtabula,3904586,Grand Valley Local School District,normalized_name_plus_overlapping_county,,matched
+045872,Jefferson Area Local,Ashtabula,3904587,Jefferson Area Local School District,normalized_name_plus_overlapping_county,,matched
+045880,Pymatuning Valley Local School District,Ashtabula,3904588,Pymatuning Valley Local School District,normalized_name_plus_overlapping_county,,matched
+045906,Alexander Local,Athens,3904590,Alexander Local School District,normalized_name_plus_overlapping_county,,matched
+045914,Federal Hocking Local,Athens,3904591,Federal Hocking Local School District,normalized_name_plus_overlapping_county,,matched
+045922,Trimble Local,Athens,3904592,Trimble Local School District,normalized_name_plus_overlapping_county,,matched
+045948,Minster Local,Auglaize,3904594,Minster Local School District,normalized_name_plus_overlapping_county,,matched
+045955,New Bremen Local,Auglaize,3904595,New Bremen Local School District,normalized_name_plus_overlapping_county,,matched
+045963,New Knoxville Local,Auglaize,3904596,New Knoxville Local School District,normalized_name_plus_overlapping_county,,matched
+045971,Waynesfield-Goshen Local,Auglaize,3904597,Waynesfield-Goshen Local School District,normalized_name_plus_overlapping_county,,matched
+045997,St Clairsville-Richland City,Belmont,3904599,St. Clairsville-Richland City School District,normalized_name_plus_overlapping_county,,matched
+046003,Shadyside Local,Belmont,3904600,Shadyside Local School District,normalized_name_plus_overlapping_county,,matched
+046011,Union Local,Belmont,3904601,Union Local School District,normalized_name_plus_overlapping_county,,matched
+046037,Eastern Local School District,Brown,3904603,Eastern Local School District,normalized_name_plus_overlapping_county,,matched
+046045,Fayetteville-Perry Local,Brown,3904604,Fayetteville-Perry Local School District,normalized_name_plus_overlapping_county,,matched
+046060,Western Brown Local,Brown,3904606,Western Brown Local School District,normalized_name_plus_overlapping_county,,matched
+046078,Ripley-Union-Lewis-Huntington Local,Brown,3904607,Ripley-Union-Lewis-Huntington Local School District,normalized_name_plus_overlapping_county,,matched
+046094,Edgewood City School District,Butler,3904609,Edgewood City School District,normalized_name_plus_overlapping_county,,matched
+046102,Fairfield City,Butler,3904610,Fairfield City School District,normalized_name_plus_overlapping_county,,matched
+046110,Lakota Local,Butler,3904611,Lakota Local School District,normalized_name_plus_overlapping_county,,matched
+046128,Madison Local,Butler,3904612,Madison Local School District,normalized_name_plus_overlapping_county,,matched
+046136,New Miami Local,Butler,3904613,New Miami Local School District,normalized_name_plus_overlapping_county,,matched
+046144,Ross Local,Butler,3904614,Ross Local School District,normalized_name_plus_overlapping_county,,matched
+046151,Talawanda City,Butler,3904615,Talawanda City School District,normalized_name_plus_overlapping_county,,matched
+046177,Brown Local,Carroll,3904617,Brown Local School District,normalized_name_plus_overlapping_county,,matched
+046193,Graham Local,Champaign,3904619,Graham Local School District,normalized_name_plus_overlapping_county,,matched
+046201,Triad Local,Champaign,3904620,Triad Local School District,normalized_name_plus_overlapping_county,,matched
+046219,West Liberty-Salem Local,Champaign,3904621,West Liberty-Salem Local School District,normalized_name_plus_overlapping_county,,matched
+046235,Greenon Local,Clark,3904623,Greenon Local School District,normalized_name_plus_overlapping_county,,matched
+046243,Tecumseh Local,Clark,3904624,Tecumseh Local School District,normalized_name_plus_overlapping_county,,matched
+046250,Northeastern Local,Clark,3904625,Northeastern Local School District,normalized_name_plus_overlapping_county,,matched
+046268,Northwestern Local,Clark,3904626,Northwestern Local School District,normalized_name_plus_overlapping_county,,matched
+046276,Southeastern Local,Clark,3904627,Southeastern Local School District,normalized_name_plus_overlapping_county,,matched
+046284,Clark-Shawnee Local,Clark,3904628,Clark-Shawnee Local School District,normalized_name_plus_overlapping_county,,matched
+046300,Batavia Local,Clermont,3904630,Batavia Local School District,normalized_name_plus_overlapping_county,,matched
+046318,Bethel-Tate Local,Clermont,3904631,Bethel-Tate Local School District,normalized_name_plus_overlapping_county,,matched
+046326,Clermont Northeastern Local,Clermont,3904632,Clermont Northeastern Local School District,normalized_name_plus_overlapping_county,,matched
+046334,Felicity-Franklin Local,Clermont,3904633,Felicity-Franklin Local School District,normalized_name_plus_overlapping_county,,matched
+046342,Goshen Local,Clermont,3904634,Goshen Local School District,normalized_name_plus_overlapping_county,,matched
+046359,West Clermont Local,Clermont,3904635,West Clermont Local School District,normalized_name_plus_overlapping_county,,matched
+046367,Williamsburg Local,Clermont,3904636,Williamsburg Local School District,normalized_name_plus_overlapping_county,,matched
+046383,Blanchester Local,Clinton,3904638,Blanchester Local School District,normalized_name_plus_overlapping_county,,matched
+046391,Clinton-Massie Local,Clinton,3904639,Clinton-Massie Local School District,normalized_name_plus_overlapping_county,,matched
+046409,East Clinton Local,Clinton,3904640,East Clinton Local School District,normalized_name_plus_overlapping_county,,matched
+046425,Beaver Local,Columbiana,3904642,Beaver Local School District,normalized_name_plus_overlapping_county,,matched
+046433,Crestview Local,Columbiana,3904643,Crestview Local School District,normalized_name_plus_overlapping_county,,matched
+046441,Southern Local,Columbiana,3904644,Southern Local School District,normalized_name_plus_overlapping_county,,matched
+046458,United Local,Columbiana,3904645,United Local School District,normalized_name_plus_overlapping_county,,matched
+046474,Ridgewood Local,Coshocton,3904647,Ridgewood Local School District,normalized_name_plus_overlapping_county,,matched
+046482,River View Local,Coshocton,3904648,River View Local School District,normalized_name_plus_overlapping_county,,matched
+046508,Buckeye Central Local,Crawford,3904650,Buckeye Central Local School District,normalized_name_plus_overlapping_county,,matched
+046516,Colonel Crawford Local,Crawford,3904651,Colonel Crawford Local School District,normalized_name_plus_overlapping_county,,matched
+046524,Wynford Local,Crawford,3904652,Wynford Local School District,normalized_name_plus_overlapping_county,,matched
+046557,Cuyahoga Heights Local,Cuyahoga,3904655,Cuyahoga Heights Local School District,normalized_name_plus_overlapping_county,,matched
+046565,Independence Local,Cuyahoga,3904656,Independence Local School District,normalized_name_plus_overlapping_county,,matched
+046573,Olmsted Falls City,Cuyahoga,3904657,Olmsted Falls City School District,normalized_name_plus_overlapping_county,,matched
+046581,Orange City,Cuyahoga,3910016,Orange City School District,normalized_name_plus_overlapping_county,,matched
+046599,Richmond Heights Local,Cuyahoga,3904659,Richmond Heights Local School District,normalized_name_plus_overlapping_county,,matched
+046607,Solon City,Cuyahoga,3904660,Solon City School District,normalized_name_plus_overlapping_county,,matched
+046623,Ansonia Local,Darke,3904662,Ansonia Local School District,normalized_name_plus_overlapping_county,,matched
+046631,Arcanum-Butler Local,Darke,3904663,Arcanum-Butler Local School District,normalized_name_plus_overlapping_county,,matched
+046649,Franklin Monroe Local,Darke,3904664,Franklin Monroe Local School District,normalized_name_plus_overlapping_county,,matched
+046672,Mississinawa Valley Local,Darke,3904667,Mississinawa Valley Local School District,normalized_name_plus_overlapping_county,,matched
+046680,Tri-Village Local,Darke,3904668,Tri-Village Local School District,normalized_name_plus_overlapping_county,,matched
+046706,Ayersville Local,Defiance,3904670,Ayersville Local School District,normalized_name_plus_overlapping_county,,matched
+046714,Central Local,Defiance,3904671,Central Local School District,normalized_name_plus_overlapping_county,,matched
+046722,Northeastern Local,Defiance,3904672,Northeastern Local School District,normalized_name_plus_overlapping_county,,matched
+046748,Big Walnut Local,Delaware,3904674,Big Walnut Local School District,normalized_name_plus_overlapping_county,,matched
+046755,Buckeye Valley Local Schools,Delaware,3904675,Buckeye Valley Local School District,normalized_name_plus_overlapping_county,,matched
+046763,Olentangy Local,Delaware,3904676,Olentangy Local School District,normalized_name_plus_overlapping_county,,matched
+046789,Edison Local (formerly Berlin-Milan),Erie,3904678,Edison Local (formerly Berlin-Milan) School District,normalized_name_plus_overlapping_county,,matched
+046797,Kelleys Island Local,Erie,3904679,Kelleys Island Local School District,normalized_name_plus_overlapping_county,,matched
+046805,Margaretta Local,Erie,3904680,Margaretta Local School District,normalized_name_plus_overlapping_county,,matched
+046813,Perkins Local,Erie,3904681,Perkins Local School District,normalized_name_plus_overlapping_county,,matched
+046821,Vermilion Local,Erie,3904682,Vermilion Local School District,normalized_name_plus_overlapping_county,,matched
+046847,Amanda-Clearcreek Local,Fairfield,3904684,Amanda-Clearcreek Local School District,normalized_name_plus_overlapping_county,,matched
+046854,Berne Union Local,Fairfield,3904685,Berne Union Local School District,normalized_name_plus_overlapping_county,,matched
+046862,Bloom-Carroll Local,Fairfield,3904686,Bloom-Carroll Local School District,normalized_name_plus_overlapping_county,,matched
+046870,Fairfield Union Local,Fairfield,3904687,Fairfield Union Local School District,normalized_name_plus_overlapping_county,,matched
+046888,Liberty Union-Thurston Local,Fairfield,3904688,Liberty Union-Thurston Local School District,normalized_name_plus_overlapping_county,,matched
+046896,Pickerington Local,Fairfield,3904689,Pickerington Local School District,normalized_name_plus_overlapping_county,,matched
+046904,Walnut Township Local,Fairfield,3904690,Walnut Township Local School District,normalized_name_plus_overlapping_county,,matched
+046920,Miami Trace Local,Fayette,3910010,Miami Trace Local School District,normalized_name_plus_overlapping_county,,matched
+046946,Canal Winchester Local,Franklin,3904694,Canal Winchester Local School District,normalized_name_plus_overlapping_county,,matched
+046953,Hamilton Local,Franklin,3904695,Hamilton Local School District,normalized_name_plus_overlapping_county,,matched
+046961,Gahanna-Jefferson City,Franklin,3904696,Gahanna-Jefferson City School District,normalized_name_plus_overlapping_county,,matched
+046979,Groveport Madison Local,Franklin,3904697,Groveport Madison Local School District,normalized_name_plus_overlapping_county,,matched
+046995,New Albany-Plain Local,Franklin,3904699,New Albany-Plain Local School District,normalized_name_plus_overlapping_county,,matched
+047001,Reynoldsburg City,Franklin,3904700,Reynoldsburg City School District,normalized_name_plus_overlapping_county,,matched
+047019,Hilliard City,Franklin,3904701,Hilliard City School District,normalized_name_plus_overlapping_county,,matched
+047027,Dublin City,Franklin,3904702,Dublin City School District,normalized_name_plus_overlapping_county,,matched
+047043,Archbold-Area Local,Fulton,3904704,Archbold Area Local School District,normalized_name_plus_overlapping_county,,matched
+047050,Evergreen Local,Fulton,3904705,Evergreen Local School District,normalized_name_plus_overlapping_county,,matched
+047068,Fayette Local,Fulton,3904706,Fayette Local School District,normalized_name_plus_overlapping_county,,matched
+047076,Pettisville Local,Fulton,3904707,Pettisville Local School District,normalized_name_plus_overlapping_county,,matched
+047084,Pike-Delta-York Local,Fulton,3904708,Pike-Delta-York Local School District,normalized_name_plus_overlapping_county,,matched
+047092,Swanton Local,Fulton,3904709,Swanton Local School District,normalized_name_plus_overlapping_county,,matched
+047167,Berkshire Local,Geauga,3904716,Berkshire Local School District,normalized_name_plus_overlapping_county,,matched
+047175,Cardinal Local,Geauga,3904717,Cardinal Local School District,normalized_name_plus_overlapping_county,,matched
+047183,Chardon Local,Geauga,3904718,Chardon Local School District,normalized_name_plus_overlapping_county,,matched
+047191,Kenston Local,Geauga,3904719,Kenston Local School District,normalized_name_plus_overlapping_county,,matched
+047225,West Geauga Local,Geauga,3904722,West Geauga Local School District,normalized_name_plus_overlapping_county,,matched
+047241,Beavercreek City,Greene,3904724,Beavercreek City School District,normalized_name_plus_overlapping_county,,matched
+047258,Cedar Cliff Local,Greene,3904725,Cedar Cliff Local School District,normalized_name_plus_overlapping_county,,matched
+047266,Greeneview Local,Greene,3904726,Greeneview Local School District,normalized_name_plus_overlapping_county,,matched
+047274,Bellbrook-Sugarcreek Local,Greene,3904727,Bellbrook-Sugarcreek Local School District,normalized_name_plus_overlapping_county,,matched
+047308,Rolling Hills Local,Guernsey,3904730,Rolling Hills Local School District,normalized_name_plus_overlapping_county,,matched
+047332,Finneytown Local,Hamilton,3904733,Finneytown Local School District,normalized_name_plus_overlapping_county,,matched
+047340,Forest Hills Local,Hamilton,3904734,Forest Hills Local School District,normalized_name_plus_overlapping_county,,matched
+047365,Northwest Local,Hamilton,3904736,Northwest Local School District,normalized_name_plus_overlapping_county,,matched
+047373,Oak Hills Local,Hamilton,3904737,Oak Hills Local School District,normalized_name_plus_overlapping_county,,matched
+047381,Southwest Local,Hamilton,3904738,Southwest Local School District,normalized_name_plus_overlapping_county,,matched
+047399,Three Rivers Local,Hamilton,3904739,Three Rivers Local School District,normalized_name_plus_overlapping_county,,matched
+047415,Arcadia Local,Hancock,3910002,Arcadia Local School District,normalized_name_plus_overlapping_county,,matched
+047423,Arlington Local,Hancock,3904742,Arlington Local School District,normalized_name_plus_overlapping_county,,matched
+047431,Cory-Rawson Local,Hancock,3904743,Cory-Rawson Local School District,normalized_name_plus_overlapping_county,,matched
+047449,Liberty-Benton Local,Hancock,3904744,Liberty-Benton Local School District,normalized_name_plus_overlapping_county,,matched
+047456,McComb Local,Hancock,3904745,McComb Local School District,normalized_name_plus_overlapping_county,,matched
+047464,Van Buren Local,Hancock,3910001,Van Buren Local School District,normalized_name_plus_overlapping_county,,matched
+047472,Vanlue Local,Hancock,3904747,Vanlue Local School District,normalized_name_plus_overlapping_county,,matched
+047498,Hardin Northern Local,Hardin,3904749,Hardin Northern Local School District,normalized_name_plus_overlapping_county,,matched
+047506,Ridgemont Local,Hardin,3904750,Ridgemont Local School District,normalized_name_plus_overlapping_county,,matched
+047514,Riverdale Local,Hancock,3904751,Riverdale Local School District,normalized_name_plus_overlapping_county,,matched
+047522,Upper Scioto Valley Local,Hardin,3904752,Upper Scioto Valley Local School District,normalized_name_plus_overlapping_county,,matched
+047548,Conotton Valley Union Local,Harrison,3904754,Conotton Valley Union Local School District,normalized_name_plus_overlapping_county,,matched
+047571,Holgate Local,Henry,3904757,Holgate Local School District,normalized_name_plus_overlapping_county,,matched
+047589,Liberty Center Local,Henry,3904758,Liberty Center Local School District,normalized_name_plus_overlapping_county,,matched
+047597,Patrick Henry Local,Henry,3904759,Patrick Henry Local School District,normalized_name_plus_overlapping_county,,matched
+047613,Bright Local,Highland,3904761,Bright Local School District,normalized_name_plus_overlapping_county,,matched
+047621,Fairfield Local,Highland,3904762,Fairfield Local School District,normalized_name_plus_overlapping_county,,matched
+047639,Lynchburg-Clay Local,Highland,3904763,Lynchburg-Clay Local School District,normalized_name_plus_overlapping_county,,matched
+047688,East Holmes Local,Holmes,3904768,East Holmes Local School District,normalized_name_plus_overlapping_county,,matched
+047696,West Holmes Local,Holmes,3904769,West Holmes Local School District,normalized_name_plus_overlapping_county,,matched
+047712,Monroeville Local,Huron,3904771,Monroeville Local School District,normalized_name_plus_overlapping_county,,matched
+047720,New London Local,Huron,3904772,New London Local School District,normalized_name_plus_overlapping_county,,matched
+047738,South Central Local,Huron,3904773,South Central Local School District,normalized_name_plus_overlapping_county,,matched
+047746,Western Reserve Local,Huron,3904774,Western Reserve Local School District,normalized_name_plus_overlapping_county,,matched
+047761,Oak Hill Union Local,Jackson,3904776,Oak Hill Union Local School District,normalized_name_plus_overlapping_county,,matched
+047787,Buckeye Local,Jefferson,3904778,Buckeye Local School District,normalized_name_plus_overlapping_county,,matched
+047795,Edison Local,Jefferson,3904779,Edison Local School District,normalized_name_plus_overlapping_county,,matched
+047803,Indian Creek Local,Jefferson,3904780,Indian Creek Local School District,normalized_name_plus_overlapping_county,,matched
+047829,Centerburg Local,Knox,3904782,Centerburg Local School District,normalized_name_plus_overlapping_county,,matched
+047837,Danville Local,Knox,3904783,Danville Local School District,normalized_name_plus_overlapping_county,,matched
+047845,East Knox Local,Knox,3910013,East Knox Local School District,normalized_name_plus_overlapping_county,,matched
+047852,Fredericktown Local,Knox,3904785,Fredericktown Local School District,normalized_name_plus_overlapping_county,,matched
+047878,Kirtland Local,Lake,3904787,Kirtland Local School District,normalized_name_plus_overlapping_county,,matched
+047886,Madison Local,Lake,3904788,Madison Local School District,normalized_name_plus_overlapping_county,,matched
+047894,Riverside Local,Lake,3910014,Riverside Local School District,normalized_name_plus_overlapping_county,,matched
+047902,Perry Local,Lake,3904790,Perry Local School District,normalized_name_plus_overlapping_county,,matched
+047928,Dawson-Bryant Local,Lawrence,3904792,Dawson-Bryant Local School District,normalized_name_plus_overlapping_county,,matched
+047936,Fairland Local,Lawrence,3904793,Fairland Local School District,normalized_name_plus_overlapping_county,,matched
+047944,Rock Hill Local,Lawrence,3904794,Rock Hill Local School District,normalized_name_plus_overlapping_county,,matched
+047951,South Point Local,Lawrence,3904795,South Point Local School District,normalized_name_plus_overlapping_county,,matched
+047969,Symmes Valley Local,Lawrence,3904796,Symmes Valley Local School District,normalized_name_plus_overlapping_county,,matched
+047985,Johnstown-Monroe Local,Licking,3904798,Johnstown-Monroe Local School District,normalized_name_plus_overlapping_county,,matched
+047993,Lakewood Local,Licking,3904799,Lakewood Local School District,normalized_name_plus_overlapping_county,,matched
+048009,Licking Heights Local,Licking,3904800,Licking Heights Local School District,normalized_name_plus_overlapping_county,,matched
+048017,Licking Valley Local,Licking,3904801,Licking Valley Local School District,normalized_name_plus_overlapping_county,,matched
+048025,North Fork Local,Licking,3904802,North Fork Local School District,normalized_name_plus_overlapping_county,,matched
+048033,Northridge Local,Licking,3904803,Northridge Local School District,normalized_name_plus_overlapping_county,,matched
+048041,Southwest Licking Local,Licking,3904804,Southwest Licking Local School District,normalized_name_plus_overlapping_county,,matched
+048074,Benjamin Logan Local,Logan,3904807,Benjamin Logan Local School District,normalized_name_plus_overlapping_county,,matched
+048082,Indian Lake Local,Logan,3904808,Indian Lake Local School District,normalized_name_plus_overlapping_county,,matched
+048090,Riverside Local,Logan,3904809,Riverside Local School District,normalized_name_plus_overlapping_county,,matched
+048116,Avon Local,Lorain,3904811,Avon Local School District,normalized_name_plus_overlapping_county,,matched
+048124,Avon Lake City,Lorain,3904812,Avon Lake City School District,normalized_name_plus_overlapping_county,,matched
+048132,Clearview Local,Lorain,3904813,Clearview Local School District,normalized_name_plus_overlapping_county,,matched
+048140,Columbia Local,Lorain,3904814,Columbia Local School District,normalized_name_plus_overlapping_county,,matched
+048157,Firelands Local,Lorain,3904815,Firelands Local School District,normalized_name_plus_overlapping_county,,matched
+048165,Keystone Local,Lorain,3904816,Keystone Local School District,normalized_name_plus_overlapping_county,,matched
+048173,Midview Local,Lorain,3904817,Midview Local School District,normalized_name_plus_overlapping_county,,matched
+048207,Anthony Wayne Local,Lucas,3904820,Anthony Wayne Local School District,normalized_name_plus_overlapping_county,,matched
+048215,Ottawa Hills Local,Lucas,3904821,Ottawa Hills Local School District,normalized_name_plus_overlapping_county,,matched
+048223,Springfield Local,Lucas,3904822,Springfield Local School District,normalized_name_plus_overlapping_county,,matched
+048231,Washington Local,Lucas,3904823,Washington Local School District,normalized_name_plus_overlapping_county,,matched
+048256,Jefferson Local,Madison,3904825,Jefferson Local School District,normalized_name_plus_overlapping_county,,matched
+048264,Jonathan Alder Local,Madison,3904826,Jonathan Alder Local School District,normalized_name_plus_overlapping_county,,matched
+048272,Madison-Plains Local,Madison,3904827,Madison-Plains Local School District,normalized_name_plus_overlapping_county,,matched
+048298,Austintown Local Schools,Mahoning,3904829,Austintown Local School District,normalized_name_plus_overlapping_county,,matched
+048306,Boardman Local,Mahoning,3904830,Boardman Local School District,normalized_name_plus_overlapping_county,,matched
+048314,Canfield Local,Mahoning,3904831,Canfield Local School District,normalized_name_plus_overlapping_county,,matched
+048322,Jackson-Milton Local,Mahoning,3904832,Jackson-Milton Local School District,normalized_name_plus_overlapping_county,,matched
+048330,Lowellville Local,Mahoning,3904833,Lowellville Local School District,normalized_name_plus_overlapping_county,,matched
+048348,Poland Local,Mahoning,3904834,Poland Local School District,normalized_name_plus_overlapping_county,,matched
+048355,Sebring Local,Mahoning,3904835,Sebring Local School District,normalized_name_plus_overlapping_county,,matched
+048363,South Range Local,Mahoning,3904836,South Range Local School District,normalized_name_plus_overlapping_county,,matched
+048371,Springfield Local,Mahoning,3904837,Springfield Local School District,normalized_name_plus_overlapping_county,,matched
+048389,West Branch Local,Mahoning,3904838,West Branch Local School District,normalized_name_plus_overlapping_county,,matched
+048397,Western Reserve Local,Mahoning,3904839,Western Reserve Local School District,normalized_name_plus_overlapping_county,,matched
+048413,Elgin Local,Marion,3904841,Elgin Local School District,normalized_name_plus_overlapping_county,,matched
+048421,Pleasant Local,Marion,3904842,Pleasant Local School District,normalized_name_plus_overlapping_county,,matched
+048439,Ridgedale Local,Marion,3904843,Ridgedale Local School District,normalized_name_plus_overlapping_county,,matched
+048447,River Valley Local,Marion,3904844,River Valley Local School District,normalized_name_plus_overlapping_county,,matched
+048462,Black River Local,Medina,3904846,Black River Local School District,normalized_name_plus_overlapping_county,,matched
+048470,Buckeye Local,Medina,3904847,Buckeye Local School District,normalized_name_plus_overlapping_county,,matched
+048488,Cloverleaf Local,Medina,3904848,Cloverleaf Local School District,normalized_name_plus_overlapping_county,,matched
+048496,Highland Local,Medina,3904849,Highland Local School District,normalized_name_plus_overlapping_county,,matched
+048512,Eastern Local,Meigs,3904851,Eastern Local School District,normalized_name_plus_overlapping_county,,matched
+048520,Meigs Local,Meigs,3904852,Meigs Local School District,normalized_name_plus_overlapping_county,,matched
+048538,Southern Local,Meigs,3904853,Southern Local School District,normalized_name_plus_overlapping_county,,matched
+048553,Marion Local,Mercer,3910031,Marion Local School District,normalized_name_plus_overlapping_county,,matched
+048579,Parkway Local,Mercer,3904857,Parkway Local School District,normalized_name_plus_overlapping_county,,matched
+048587,St Henry Consolidated Local,Mercer,3904858,St. Henry Consolidated Local School District,normalized_name_plus_overlapping_county,,matched
+048595,Fort Recovery Local,Mercer,3904859,Fort Recovery Local School District,normalized_name_plus_overlapping_county,,matched
+048611,Bethel Local,Miami,3904861,Bethel Local School District,normalized_name_plus_overlapping_county,,matched
+048629,Miami East Local,Miami,3904862,Miami East Local School District,normalized_name_plus_overlapping_county,,matched
+048637,Newton Local,Miami,3904863,Newton Local School District,normalized_name_plus_overlapping_county,,matched
+048652,Switzerland of Ohio Local,Monroe,3904865,Switzerland of Ohio Local School District,normalized_name_plus_overlapping_county,,matched
+048678,Brookville Local,Montgomery,3904867,Brookville Local School District,normalized_name_plus_overlapping_county,,matched
+048686,Jefferson Township Local,Montgomery,3904868,Jefferson Township Local School District,normalized_name_plus_overlapping_county,,matched
+048694,Trotwood-Madison City,Montgomery,3904869,Trotwood-Madison City School District,normalized_name_plus_overlapping_county,,matched
+048702,Mad River Local,Montgomery,3904870,Mad River Local School District,normalized_name_plus_overlapping_county,,matched
+048710,New Lebanon Local School District,Montgomery,3904871,New Lebanon Local School District,normalized_name_plus_overlapping_county,,matched
+048728,Northmont City,Montgomery,3904872,Northmont City School District,normalized_name_plus_overlapping_county,,matched
+048736,Northridge Local,Montgomery,3904873,Northridge Local School District,normalized_name_plus_overlapping_county,,matched
+048744,Valley View Local,Montgomery,3904874,Valley View Local School District,normalized_name_plus_overlapping_county,,matched
+048751,Huber Heights City,Montgomery,3904875,Huber Heights City School District,normalized_name_plus_overlapping_county,,matched
+048777,Morgan Local,Morgan,3904877,Morgan Local School District,normalized_name_plus_overlapping_county,,matched
+048793,Cardington-Lincoln Local,Morrow,3904879,Cardington-Lincoln Local School District,normalized_name_plus_overlapping_county,,matched
+048801,Highland Local,Morrow,3904880,Highland Local School District,normalized_name_plus_overlapping_county,,matched
+048819,Northmor Local,Morrow,3904881,Northmor Local School District,normalized_name_plus_overlapping_county,,matched
+048835,East Muskingum Local,Muskingum,3904883,East Muskingum Local School District,normalized_name_plus_overlapping_county,,matched
+048843,Franklin Local,Muskingum,3904884,Franklin Local School District,normalized_name_plus_overlapping_county,,matched
+048850,Maysville Local,Muskingum,3904885,Maysville Local School District,normalized_name_plus_overlapping_county,,matched
+048876,Tri-Valley Local,Muskingum,3904887,Tri-Valley Local School District,normalized_name_plus_overlapping_county,,matched
+048884,West Muskingum Local,Muskingum,3904888,West Muskingum Local School District,normalized_name_plus_overlapping_county,,matched
+048900,Noble Local,Noble,3904890,Noble Local School District,normalized_name_plus_overlapping_county,,matched
+048926,Benton Carroll Salem Local,Ottawa,3904892,Benton-Carroll-Salem Local School District,normalized_name_plus_overlapping_county,,matched
+048934,Danbury Local,Ottawa,3904893,Danbury Local School District,normalized_name_plus_overlapping_county,,matched
+048942,Genoa Area Local,Ottawa,3904894,Genoa Area Local School District,normalized_name_plus_overlapping_county,,matched
+048959,Middle Bass Local,Ottawa,3904895,Middle Bass Local School District,normalized_name_plus_overlapping_county,,matched
+048967,North Bass Local,Ottawa,3904896,North Bass Local School District,normalized_name_plus_overlapping_county,,matched
+048975,Put-In-Bay Local,Ottawa,3904897,Put-in-Bay Local School District,normalized_name_plus_overlapping_county,,matched
+048991,Antwerp Local,Paulding,3904899,Antwerp Local School District,normalized_name_plus_overlapping_county,,matched
+049031,Wayne Trace Local,Paulding,3904903,Wayne Trace Local School District,normalized_name_plus_overlapping_county,,matched
+049056,Northern Local,Perry,3904905,Northern Local School District,normalized_name_plus_overlapping_county,,matched
+049064,Southern Local,Perry,3904906,Southern Local School District,normalized_name_plus_overlapping_county,,matched
+049080,Logan Elm Local,Pickaway,3904908,Logan Elm Local School District,normalized_name_plus_overlapping_county,,matched
+049098,Teays Valley Local,Pickaway,3904909,Teays Valley Local School District,normalized_name_plus_overlapping_county,,matched
+049106,Westfall Local,Pickaway,3904910,Westfall Local School District,normalized_name_plus_overlapping_county,,matched
+049122,Eastern Local School District,Pike,3904912,Eastern Local School District,normalized_name_plus_overlapping_county,,matched
+049130,Scioto Valley Local,Pike,3904913,Scioto Valley Local School District,normalized_name_plus_overlapping_county,,matched
+049148,Waverly City,Pike,3904914,Waverly City School District,normalized_name_plus_overlapping_county,,matched
+049155,Western Local,Pike,3904915,Western Local School District,normalized_name_plus_overlapping_county,,matched
+049171,Aurora City,Portage,3904917,Aurora City School District,normalized_name_plus_overlapping_county,,matched
+049189,Crestwood Local,Portage,3904918,Crestwood Local School District,normalized_name_plus_overlapping_county,,matched
+049197,Field Local,Portage,3904919,Field Local School District,normalized_name_plus_overlapping_county,,matched
+049205,James A Garfield Local,Portage,3904920,James A. Garfield Local School District,normalized_name_plus_overlapping_county,,matched
+049213,Rootstown Local,Portage,3904921,Rootstown Local School District,normalized_name_plus_overlapping_county,,matched
+049221,Southeast Local,Portage,3904922,Southeast Local School District,normalized_name_plus_overlapping_county,,matched
+049239,Streetsboro City,Portage,3904923,Streetsboro City School District,normalized_name_plus_overlapping_county,,matched
+049247,Waterloo Local,Portage,3904924,Waterloo Local School District,normalized_name_plus_overlapping_county,,matched
+049270,National Trail Local,Preble,3904927,National Trail Local School District,normalized_name_plus_overlapping_county,,matched
+049288,Preble Shawnee Local,Preble,3904928,Preble Shawnee Local School District,normalized_name_plus_overlapping_county,,matched
+049296,Twin Valley Community Local,Preble,3904900,Twin Valley Community Local School District,normalized_name_plus_overlapping_county,,matched
+049312,Columbus Grove Local,Putnam,3904931,Columbus Grove Local School District,normalized_name_plus_overlapping_county,,matched
+049320,Continental Local,Putnam,3904932,Continental Local School District,normalized_name_plus_overlapping_county,,matched
+049338,Jennings Local,Putnam,3904933,Jennings Local School District,normalized_name_plus_overlapping_county,,matched
+049346,Kalida Local,Putnam,3904934,Kalida Local School District,normalized_name_plus_overlapping_county,,matched
+049353,Leipsic Local,Putnam,3904935,Leipsic Local School District,normalized_name_plus_overlapping_county,,matched
+049361,Miller City-New Cleveland Local,Putnam,3904936,Miller City-New Cleveland Local School District,normalized_name_plus_overlapping_county,,matched
+049379,Ottawa-Glandorf Local,Putnam,3904937,Ottawa-Glandorf Local School District,normalized_name_plus_overlapping_county,,matched
+049387,Ottoville Local,Putnam,3904938,Ottoville Local School District,normalized_name_plus_overlapping_county,,matched
+049395,Pandora-Gilboa Local,Putnam,3904939,Pandora-Gilboa Local School District,normalized_name_plus_overlapping_county,,matched
+049411,Clear Fork Valley Local,Richland,3904941,Clear Fork Valley Local School District,normalized_name_plus_overlapping_county,,matched
+049429,Crestview Local,Richland,3904942,Crestview Local School District,normalized_name_plus_overlapping_county,,matched
+049437,Lexington Local,Richland,3904943,Lexington Local School District,normalized_name_plus_overlapping_county,,matched
+049445,Lucas Local,Richland,3904944,Lucas Local School District,normalized_name_plus_overlapping_county,,matched
+049452,Madison Local,Richland,3904945,Madison Local School District,normalized_name_plus_overlapping_county,,matched
+049460,Plymouth-Shiloh Local,Richland,3904946,Plymouth-Shiloh Local School District,normalized_name_plus_overlapping_county,,matched
+049478,Ontario Local,Richland,3904947,Ontario Local School District,normalized_name_plus_overlapping_county,,matched
+049494,Adena Local,Ross,3904949,Adena Local School District,normalized_name_plus_overlapping_county,,matched
+049502,Huntington Local,Ross,3904950,Huntington Local School District,normalized_name_plus_overlapping_county,,matched
+049510,Paint Valley Local,Ross,3904951,Paint Valley Local School District,normalized_name_plus_overlapping_county,,matched
+049528,Southeastern Local,Ross,3904952,Southeastern Local School District,normalized_name_plus_overlapping_county,,matched
+049536,Union-Scioto Local,Ross,3904953,Union-Scioto Local School District,normalized_name_plus_overlapping_county,,matched
+049544,Zane Trace Local,Ross,3904954,Zane Trace Local School District,normalized_name_plus_overlapping_county,,matched
+049569,Lakota Local,Sandusky,3904956,Lakota Local School District,normalized_name_plus_overlapping_county,,matched
+049577,Woodmore Local,Sandusky,3904957,Woodmore Local School District,normalized_name_plus_overlapping_county,,matched
+049593,Bloom-Vernon Local,Scioto,3904959,Bloom-Vernon Local School District,normalized_name_plus_overlapping_county,,matched
+049601,Clay Local,Scioto,3910026,Clay Local School District,normalized_name_plus_overlapping_county,,matched
+049619,Green Local,Scioto,3904961,Green Local School District,normalized_name_plus_overlapping_county,,matched
+049627,Minford Local,Scioto,3904962,Minford Local School District,normalized_name_plus_overlapping_county,,matched
+049635,Northwest Local,Scioto,3904963,Northwest Local School District,normalized_name_plus_overlapping_county,,matched
+049643,Valley Local,Scioto,3904964,Valley Local School District,normalized_name_plus_overlapping_county,,matched
+049650,Washington-Nile Local,Scioto,3904965,Washington-Nile Local School District,normalized_name_plus_overlapping_county,,matched
+049668,Wheelersburg Local,Scioto,3904966,Wheelersburg Local School District,normalized_name_plus_overlapping_county,,matched
+049684,Seneca East Local,Seneca,3904968,Seneca East Local School District,normalized_name_plus_overlapping_county,,matched
+049700,Hopewell-Loudon Local,Seneca,3904970,Hopewell-Loudon Local School District,normalized_name_plus_overlapping_county,,matched
+049718,New Riegel Local,Seneca,3904971,New Riegel Local School District,normalized_name_plus_overlapping_county,,matched
+049726,Old Fort Local,Seneca,3910021,Old Fort Local School District,normalized_name_plus_overlapping_county,,matched
+049759,Anna Local,Shelby,3910004,Anna Local School District,normalized_name_plus_overlapping_county,,matched
+049767,Botkins Local,Shelby,3904976,Botkins Local School District,normalized_name_plus_overlapping_county,,matched
+049775,Fairlawn Local,Shelby,3904977,Fairlawn Local School District,normalized_name_plus_overlapping_county,,matched
+049783,Fort Loramie Local,Shelby,3904978,Fort Loramie Local School District,normalized_name_plus_overlapping_county,,matched
+049791,Hardin-Houston Local,Shelby,3904979,Hardin-Houston Local School District,normalized_name_plus_overlapping_county,,matched
+049809,Jackson Center Local,Shelby,3910005,Jackson Center Local School District,normalized_name_plus_overlapping_county,,matched
+049817,Russia Local,Shelby,3904981,Russia Local School District,normalized_name_plus_overlapping_county,,matched
+049833,Canton Local,Stark,3904983,Canton Local School District,normalized_name_plus_overlapping_county,,matched
+049841,Fairless Local,Stark,3904984,Fairless Local School District,normalized_name_plus_overlapping_county,,matched
+049858,Jackson Local,Stark,3904985,Jackson Local School District,normalized_name_plus_overlapping_county,,matched
+049866,Lake Local,Stark,3904986,Lake Local School District,normalized_name_plus_overlapping_county,,matched
+049874,Louisville City,Stark,3904987,Louisville City School District,normalized_name_plus_overlapping_county,,matched
+049882,Marlington Local,Stark,3904988,Marlington Local School District,normalized_name_plus_overlapping_county,,matched
+049890,Minerva Local,Stark,3904989,Minerva Local School District,normalized_name_plus_overlapping_county,,matched
+049908,Northwest Local,Stark,3904990,Northwest Local School District,normalized_name_plus_overlapping_county,,matched
+049916,Osnaburg Local,Stark,3904991,Osnaburg Local School District,normalized_name_plus_overlapping_county,,matched
+049924,Perry Local,Stark,3904992,Perry Local School District,normalized_name_plus_overlapping_county,,matched
+049932,Plain Local,Stark,3904993,Plain Local School District,normalized_name_plus_overlapping_county,,matched
+049940,Sandy Valley Local,Stark,3904994,Sandy Valley Local School District,normalized_name_plus_overlapping_county,,matched
+049957,Tuslaw Local,Stark,3904995,Tuslaw Local School District,normalized_name_plus_overlapping_county,,matched
+049973,Woodridge Local,Summit,3904997,Woodridge Local School District,normalized_name_plus_overlapping_county,,matched
+049981,Copley-Fairlawn City,Summit,3904998,Copley-Fairlawn City School District,normalized_name_plus_overlapping_county,,matched
+049999,Coventry Local,Summit,3904999,Coventry Local School District,normalized_name_plus_overlapping_county,,matched
+050005,Manchester Local,Summit,3905000,Manchester Local School District,normalized_name_plus_overlapping_county,,matched
+050013,Green Local,Summit,3905001,Green Local School District,normalized_name_plus_overlapping_county,,matched
+050021,Hudson City,Summit,3905002,Hudson City School District,normalized_name_plus_overlapping_county,,matched
+050039,Mogadore Local,Summit,3905003,Mogadore Local School District,normalized_name_plus_overlapping_county,,matched
+050047,Nordonia Hills City,Summit,3905004,Nordonia Hills City School District,normalized_name_plus_overlapping_county,,matched
+050054,Revere Local,Summit,3905005,Revere Local School District,normalized_name_plus_overlapping_county,,matched
+050062,Springfield Local,Summit,3905006,Springfield Local School District,normalized_name_plus_overlapping_county,,matched
+050070,Twinsburg City,Summit,3905007,Twinsburg City School District,normalized_name_plus_overlapping_county,,matched
+050096,Bloomfield-Mespo Local,Trumbull,3905009,Bloomfield-Mespo Local School District,normalized_name_plus_overlapping_county,,matched
+050112,Bristol Local,Trumbull,3905011,Bristol Local School District,normalized_name_plus_overlapping_county,,matched
+050120,Brookfield Local,Trumbull,3905012,Brookfield Local School District,normalized_name_plus_overlapping_county,,matched
+050138,Champion Local,Trumbull,3905013,Champion Local School District,normalized_name_plus_overlapping_county,,matched
+050153,Mathews Local,Trumbull,3905015,Mathews Local School District,normalized_name_plus_overlapping_county,,matched
+050161,Howland Local,Trumbull,3905016,Howland Local School District,normalized_name_plus_overlapping_county,,matched
+050179,Joseph Badger Local,Trumbull,3905017,Joseph Badger Local School District,normalized_name_plus_overlapping_county,,matched
+050187,Lakeview Local,Trumbull,3905018,Lakeview Local School District,normalized_name_plus_overlapping_county,,matched
+050195,Liberty Local,Trumbull,3905019,Liberty Local School District,normalized_name_plus_overlapping_county,,matched
+050203,Lordstown Local,Trumbull,3905020,Lordstown Local School District,normalized_name_plus_overlapping_county,,matched
+050211,Maplewood Local,Trumbull,3905021,Maplewood Local School District,normalized_name_plus_overlapping_county,,matched
+050229,McDonald Local,Trumbull,3905022,McDonald Local School District,normalized_name_plus_overlapping_county,,matched
+050237,Southington Local,Trumbull,3905023,Southington Local School District,normalized_name_plus_overlapping_county,,matched
+050245,LaBrae Local,Trumbull,3905024,LaBrae Local School District,normalized_name_plus_overlapping_county,,matched
+050252,Weathersfield Local,Trumbull,3905025,Weathersfield Local School District,normalized_name_plus_overlapping_county,,matched
+050278,Garaway Local,Tuscarawas,3905027,Garaway Local School District,normalized_name_plus_overlapping_county,,matched
+050286,Indian Valley Local,Tuscarawas,3905028,Indian Valley Local School District,normalized_name_plus_overlapping_county,,matched
+050294,Strasburg-Franklin Local,Tuscarawas,3905029,Strasburg-Franklin Local School District,normalized_name_plus_overlapping_county,,matched
+050302,Tuscarawas Valley Local,Tuscarawas,3905030,Tuscarawas Valley Local School District,normalized_name_plus_overlapping_county,,matched
+050328,Fairbanks Local,Union,3905032,Fairbanks Local School District,normalized_name_plus_overlapping_county,,matched
+050336,North Union Local School District,Union,3905033,North Union Local School District,normalized_name_plus_overlapping_county,,matched
+050351,Crestview Local,Van Wert,3905035,Crestview Local School District,normalized_name_plus_overlapping_county,,matched
+050369,Lincolnview Local,Van Wert,3910022,Lincolnview Local School District,normalized_name_plus_overlapping_county,,matched
+050393,Vinton County Local,Vinton,3905039,Vinton County Local School District,normalized_name_plus_overlapping_county,,matched
+050419,Carlisle Local,Warren,3905041,Carlisle Local School District,normalized_name_plus_overlapping_county,,matched
+050427,Springboro Community City,Warren,3905042,Springboro Community City School District,normalized_name_plus_overlapping_county,,matched
+050435,Kings Local,Warren,3905043,Kings Local School District,normalized_name_plus_overlapping_county,,matched
+050443,Little Miami Local,Warren,3905044,Little Miami Local School District,normalized_name_plus_overlapping_county,,matched
+050450,Mason City,Warren,3905045,Mason City School District,normalized_name_plus_overlapping_county,,matched
+050468,Wayne Local,Warren,3905046,Wayne Local School District,normalized_name_plus_overlapping_county,,matched
+050484,Fort Frye Local,Washington,3905048,Fort Frye Local School District,normalized_name_plus_overlapping_county,,matched
+050492,Frontier Local,Washington,3905049,Frontier Local School District,normalized_name_plus_overlapping_county,,matched
+050500,Warren Local,Washington,3910018,Warren Local School District,normalized_name_plus_overlapping_county,,matched
+050518,Wolf Creek Local,Washington,3905051,Wolf Creek Local School District,normalized_name_plus_overlapping_county,,matched
+050534,Chippewa Local,Wayne,3905053,Chippewa Local School District,normalized_name_plus_overlapping_county,,matched
+050542,Dalton Local,Wayne,3905054,Dalton Local School District,normalized_name_plus_overlapping_county,,matched
+050559,Green Local,Wayne,3905055,Green Local School District,normalized_name_plus_overlapping_county,,matched
+050567,Norwayne Local,Wayne,3905056,Norwayne Local School District,normalized_name_plus_overlapping_county,,matched
+050575,Northwestern Local,Wayne,3910033,Northwestern Local School District,normalized_name_plus_overlapping_county,,matched
+050583,Waynedale Local,Wayne,3905058,Southeast Local School District,manual_alias,Waynedale Local -> Southeast Local School District (2025 Census name),matched
+050591,Triway Local,Wayne,3905059,Triway Local School District,normalized_name_plus_overlapping_county,,matched
+050617,Edgerton Local,Williams,3905061,Edgerton Local School District,normalized_name_plus_overlapping_county,,matched
+050625,Edon Northwest Local,Williams,3905062,Edon Northwest Local School District,normalized_name_plus_overlapping_county,,matched
+050633,Millcreek-West Unity Local,Williams,3905063,Millcreek-West Unity Local School District,normalized_name_plus_overlapping_county,,matched
+050641,North Central Local,Williams,3905064,North Central Local School District,normalized_name_plus_overlapping_county,,matched
+050658,Stryker Local,Williams,3905065,Stryker Local School District,normalized_name_plus_overlapping_county,,matched
+050674,Eastwood Local,Wood,3905067,Eastwood Local School District,normalized_name_plus_overlapping_county,,matched
+050682,Elmwood Local,Wood,3905068,Elmwood Local School District,normalized_name_plus_overlapping_county,,matched
+050690,Lake Local,Wood,3905069,Lake Local School District,normalized_name_plus_overlapping_county,,matched
+050708,North Baltimore Local,Wood,3905070,North Baltimore Local School District,normalized_name_plus_overlapping_county,,matched
+050716,Northwood Local Schools,Wood,3905071,Northwood Local School District,normalized_name_plus_overlapping_county,,matched
+050724,Otsego Local,Wood,3905072,Otsego Local School District,normalized_name_plus_overlapping_county,,matched
+050740,Mohawk Local,Wyandot,3905074,Mohawk Local School District,normalized_name_plus_overlapping_county,,matched
+064964,College Corner Local,Preble,3906496,College Corner Local School District,normalized_name_plus_overlapping_county,,matched
+065680,Gallia County Local,Gallia,3906568,Gallia County Local School District,normalized_name_plus_overlapping_county,,matched
+069682,East Guernsey Local,Guernsey,3906968,East Guernsey Local School District,normalized_name_plus_overlapping_county,,matched
+091397,Tri-County North Local,Preble,3904926,Tri-County North Local School District,normalized_name_plus_overlapping_county,,matched
+139303,Monroe Local,Butler,3900094,Monroe Local School District,normalized_name_plus_overlapping_county,,matched
+000442,Manchester Local,Adams,3900537,Manchester Local School District,normalized_name_plus_overlapping_county,,matched

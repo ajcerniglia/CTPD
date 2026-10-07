@@ -1,0 +1,96 @@
+ctpd_irn,ctpd_name,designated_county,official_name_key,resolved_member_count,mapping_method,mapping_note,source_seed_irn,self_member_irn,name_distance,geometry_status
+021357,Bedford City Comprehensive CTPD,Cuyahoga,bedford city comprehensive,1,current_oeds_direct_relationship,,,,,resolved
+022546,Euclid City Comprehensive CTPD,Cuyahoga,euclid city comprehensive,1,current_oeds_direct_relationship,,,,,resolved
+022548,Mentor Exempted Village Comprehensive CTPD,Lake,mentor exempted village comprehensive,1,current_oeds_direct_relationship,,,,,resolved
+022550,Western Lake County Compact CTPD,Lake,western lake county compact,2,current_oeds_direct_relationship,,,,,resolved
+200001,Apollo JVSD CTPD,Allen,apollo,11,current_oeds_direct_relationship,,,,,resolved
+200002,Lima City CTPD,Allen,lima city,1,current_oeds_direct_relationship,,,,,resolved
+200003,Heartland Technical Education Center CTPD,Ashland,heartland technical education center,5,current_oeds_direct_relationship,,,,,resolved
+200004,Ashtabula County Technical and Career Center  CTPD,Ashtabula,ashtabula county center,7,current_oeds_direct_relationship,,,,,resolved
+200005,Tri-County JVSD CTPD,Athens,tri county,8,current_oeds_direct_relationship,,,,,resolved
+200006,Belmont-Harrison Area JVSD CTPD,Belmont,belmont harrison,8,current_oeds_direct_relationship,,,,,resolved
+200007,Southern Hills JVSD CTPD,Brown,southern hills,6,current_oeds_direct_relationship,,,,,resolved
+200008,Butler County JVSD CTPD,Butler,butler county,11,current_oeds_direct_relationship,,,,,resolved
+200011,Springfield-Clark County JVSD CTPD,Clark,springfield clark county,7,current_oeds_direct_relationship,,,,,resolved
+200012,U S Grant JVSD CTPD,Clermont,u s grant,4,current_oeds_direct_relationship,,,,,resolved
+200015,Columbiana County JVSD CTPD,Columbiana,columbiana county,9,current_oeds_direct_relationship,,,,,resolved
+200016,East Liverpool City CTPD,Columbiana,east liverpool city,1,current_oeds_direct_relationship,,,,,resolved
+200019,Cleveland Municipal CTPD,Cuyahoga,cleveland municipal,1,current_oeds_direct_relationship,,,,,resolved
+200020,Tri-Heights Career Prep Consortium CTPD,Cuyahoga,tri heights career prep consortium,4,current_oeds_direct_relationship,,,,,resolved
+200021,East Cleveland City CTPD,Cuyahoga,east cleveland city,1,current_oeds_direct_relationship,,,,,resolved
+200023,Lakewood City CTPD,Cuyahoga,lakewood city,4,current_oeds_direct_relationship,,,,,resolved
+200025,Mayfield Excel T.E.C.C. CTPD,Cuyahoga,mayfield excel t e c c,9,current_oeds_direct_relationship,,,,,resolved
+200026,Parma City CTPD,Cuyahoga,parma city,1,current_oeds_direct_relationship,,,,,resolved
+200027,Cuyahoga Valley JVSD CTPD,Cuyahoga,cuyahoga valley,8,current_oeds_direct_relationship,,,,,resolved
+200028,Polaris JVSD CTPD,Cuyahoga,polaris,6,current_oeds_direct_relationship,,,,,resolved
+200030,Four County JVSD CTPD,Henry,four county,22,current_oeds_direct_relationship,,,,,resolved
+200031,Delaware County JVSD CTPD,Delaware,delaware county,5,current_oeds_direct_relationship,,,,,resolved
+200032,EHOVE JVSD CTPD,Erie,ehove,16,current_oeds_direct_relationship,,,,,resolved
+200033,Sandusky City CTPD,Erie,sandusky city,1,current_oeds_direct_relationship,,,,,resolved
+200035,Columbus City CTPD,Franklin,columbus city,4,current_oeds_direct_relationship,,,,,resolved
+200036,Eastland JVSD CTPD,Franklin,eastland,16,current_oeds_direct_relationship,,,,,resolved
+200037,Tolles Career & Technical Center CTPD,Madison,tolles career and technical center,7,current_oeds_direct_relationship,,,,,resolved
+200038,South-Western City CTPD,Franklin,south western city,1,current_oeds_direct_relationship,,,,,resolved
+200039,Penta County JVSD CTPD,Wood,penta county,16,current_oeds_direct_relationship,,,,,resolved
+200040,Gallia-Jackson-Vinton JVSD CTPD,Gallia,gallia jackson vinton,6,current_oeds_direct_relationship,,,,,resolved
+200042,Greene County JVSD CTPD,Greene,greene county,7,current_oeds_direct_relationship,,,,,resolved
+200043,Cincinnati City CTPD,Hamilton,cincinnati city,1,current_oeds_direct_relationship,,,,,resolved
+200044,Great Oaks Career Campuses,Hamilton,great oaks career campuses,36,current_oeds_direct_relationship,,,,,resolved
+200050,Jefferson County JVSD CTPD,Jefferson,jefferson county,5,current_oeds_direct_relationship,,,,,resolved
+200051,Knox County JVSD CTPD,Knox,knox county,6,current_oeds_direct_relationship,,,,,resolved
+200052,Auburn JVSD CTPD,Lake,auburn,10,current_oeds_direct_relationship,,,,,resolved
+200054,Lawrence County JVSD CTPD,Lawrence,lawrence county,7,current_oeds_direct_relationship,,,,,resolved
+200055,Licking County JVSD CTPD,Licking,licking county,10,current_oeds_direct_relationship,,,,,resolved
+200056,Ohio Hi-Point JVSD CTPD,Logan,ohio hi point,14,current_oeds_direct_relationship,,,,,resolved
+200057,Lorain City CTPD,Lorain,lorain city,1,current_oeds_direct_relationship,,,,,resolved
+200058,Lorain County JVSD CTPD,Lorain,lorain county,13,current_oeds_direct_relationship,,,,,resolved
+200059,Oregon City CTPD,Lucas,oregon city,1,current_oeds_direct_relationship,,,,,resolved
+200060,Sylvania City CTPD,Lucas,sylvania city,2,current_oeds_direct_relationship,,,,,resolved
+200061,Toledo City CTPD,Lucas,toledo city,1,current_oeds_direct_relationship,,,,,resolved
+200062,Washington Local CTPD,Lucas,washington local,1,current_oeds_direct_relationship,,,,,resolved
+200063,Mahoning County JVSD CTPD,Mahoning,mahoning county,13,current_oeds_direct_relationship,,,,,resolved
+200064,Youngstown City CTPD,Mahoning,youngstown city,1,current_oeds_direct_relationship,,,,,resolved
+200066,Medina County JVSD CTPD,Medina,medina county,6,current_oeds_direct_relationship,,,,,resolved
+200067,Meigs Local CTPD,Meigs,meigs local,3,current_oeds_direct_relationship,,,,,resolved
+200069,Upper Valley JVSD CTPD,Miami,upper valley,13,current_oeds_direct_relationship,,,,,resolved
+200070,Switzerland of Ohio Local CTPD,Monroe,switzerland of ohio local,1,current_oeds_direct_relationship,,,,,resolved
+200071,Dayton City CTPD,Montgomery,dayton city,1,current_oeds_direct_relationship,,,,,resolved
+200072,Mad River Local CTPD,Montgomery,mad river local,1,current_oeds_direct_relationship,,,,,resolved
+200073,Miami Valley Career Technology JVSD CTPD,Montgomery,miami valley,27,current_oeds_direct_relationship,,,,,resolved
+200074,Morgan Local CTPD,Morgan,morgan local,1,current_oeds_direct_relationship,,,,,resolved
+200075,Mid-East Ohio JVSD CTPD,Muskingum,mid east ohio,13,current_oeds_direct_relationship,,,,,resolved
+200077,Pike County Career  Technology Center CTPD,Pike,pike county career technology center,4,current_oeds_direct_relationship,,,,,resolved
+200078,Maplewood Area JVSD CTPD,Portage,maplewood,10,current_oeds_direct_relationship,,,,,resolved
+200079,College Corner Local CTPD,Preble,college corner local,1,current_oeds_direct_relationship,,,,,resolved
+200081,Madison Local CTPD,Richland,madison local,1,current_oeds_direct_relationship,,,,,resolved
+200082,Mansfield City CTPD,Richland,mansfield city,1,current_oeds_direct_relationship,,,,,resolved
+200083,Pioneer CTC JVSD CTPD,Richland,pioneer ctc,14,current_oeds_direct_relationship,,,,,resolved
+200084,Pickaway-Ross County JVSD CTPD,Ross,pickaway ross county,10,current_oeds_direct_relationship,,,,,resolved
+200085,Vanguard-Sentinel JVSD CTPD,Sandusky,vanguard sentinel,13,current_oeds_direct_relationship,,,,,resolved
+200086,Scioto County JVSD CTPD,Scioto,scioto county,10,current_oeds_direct_relationship,,,,,resolved
+200089,Alliance City CTPD,Stark,alliance city,3,current_oeds_direct_relationship,,,,,resolved
+200090,Canton City CTPD,Stark,canton city,1,current_oeds_direct_relationship,,,,,resolved
+200092,Massillon City CTPD,Stark,massillon city,1,current_oeds_direct_relationship,,,,,resolved
+200093,Stark County Career Compact,Stark,stark county career compact,4,current_oeds_direct_relationship,,,,,resolved
+200094,Stark County Area JVSD CTPD,Stark,stark county,6,current_oeds_direct_relationship,,,,,resolved
+200095,Akron City CTPD,Summit,akron city,1,current_oeds_direct_relationship,,,,,resolved
+200096,Four City Compact CTPD,Medina,four city compact,4,current_oeds_direct_relationship,,,,,resolved
+200097,Six District Voc Ed Compact CTPD,Summit,six district voc ed compact,6,current_oeds_direct_relationship,,,,,resolved
+200098,Portage Lakes JVSD CTPD,Summit,portage lakes,4,current_oeds_direct_relationship,,,,,resolved
+200099,Trumbull County JVSD CTPD,Trumbull,trumbull county,20,current_oeds_direct_relationship,,,,,resolved
+200101,Buckeye JVSD CTPD,Tuscarawas,buckeye,11,current_oeds_direct_relationship,,,,,resolved
+200102,Vantage JVSD CTPD,Van Wert,vantage,12,current_oeds_direct_relationship,,,,,resolved
+200103,Warren County JVSD CTPD,Warren,warren county,6,current_oeds_direct_relationship,,,,,resolved
+200104,Washington County JVSD CTPD,Washington,washington county,6,current_oeds_direct_relationship,,,,,resolved
+200105,Wayne County JVSD CTPD,Wayne,wayne county,10,current_oeds_direct_relationship,,,,,resolved
+200107,Ohio Valley Local CTPD,Adams,ohio valley local,2,current_oeds_direct_relationship,,,,,resolved
+200108,Coshocton County JVSD CTPD,Coshocton,coshocton county,3,current_oeds_direct_relationship,,,,,resolved
+200111,Tri-Rivers JVSD CTPD,Marion,tri rivers,9,current_oeds_direct_relationship,,,,,resolved
+200115,Canton Local CTPD,Stark,canton local,4,current_oeds_direct_relationship,,,,,resolved
+200116,Millstream Career Cooperative CTPD,Hancock,millstream career cooperative,14,current_oeds_direct_relationship,,,,,resolved
+200117,Greenville City CTPD,Darke,greenville city,1,current_oeds_direct_relationship,,,,,resolved
+200119,Lancaster City CTPD,Fairfield,lancaster city,1,current_oeds_direct_relationship,,,,,resolved
+200120,Centerville-Kettering-Oakwood CTPD,Montgomery,centerville kettering oakwood,3,current_oeds_direct_relationship,,,,,resolved
+200121,Tri Star CTPD,Mercer,tri star,9,current_oeds_direct_relationship,,,,,resolved
+200600,Career Technical Planning District 600,Franklin,600,0,non_geographic,Correctional-institution CTPD; no traditional school-district boundary,,,,not_applicable
+200602,Career Technical Planning District 602,Franklin,602,0,non_geographic,Correctional-institution CTPD; no traditional school-district boundary,,,,not_applicable

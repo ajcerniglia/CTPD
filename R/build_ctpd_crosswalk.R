@@ -3,7 +3,7 @@
 # Build a statewide Ohio ZIP Code Tabulation Area (ZCTA)-to-CTPD crosswalk.
 #
 # Inputs:
-#   data_raw/ohio_ctpd_updated.csv
+#   data_raw/oeds_ctpd_member_districts.csv
 #   data_raw/oeds_district_ctpd_2026-10-06.csv
 #   data_raw/census/*.rds (downloaded automatically if absent)
 #
@@ -12,10 +12,8 @@
 suppressPackageStartupMessages({
   library(dplyr)
   library(ggplot2)
-  library(igraph)
   library(readr)
   library(sf)
-  library(stringdist)
   library(stringi)
   library(stringr)
   library(tidyr)
@@ -39,7 +37,7 @@ dir.create(census_dir, recursive = TRUE, showWarnings = FALSE)
 dir.create(output_dir, recursive = TRUE, showWarnings = FALSE)
 Sys.setenv(TIGRIS_CACHE_DIR = file.path(census_dir, "tigris_cache"))
 
-relationship_path <- file.path(data_dir, "ohio_ctpd_updated.csv")
+relationship_path <- file.path(data_dir, "oeds_ctpd_member_districts.csv")
 oeds_path <- file.path(data_dir, "oeds_district_ctpd_2026-10-06.csv")
 school_path <- file.path(census_dir, "oh_unified_school_districts_2025.rds")
 county_path <- file.path(census_dir, "oh_counties_2025.rds")
@@ -136,11 +134,12 @@ relationships <- read_csv(
   show_col_types = FALSE
 ) |>
   transmute(
-    source_ctpd_irn = normalize_irn(ctpd_irn),
+    ctpd_irn = normalize_irn(ctpd_irn),
     source_ctpd_name = str_squish(ctpd_name),
-    child_irn = normalize_irn(district_irn)
+    district_irn = normalize_irn(district_irn),
+    source_district_name = str_squish(district_name)
   ) |>
-  filter(!is.na(source_ctpd_irn), !is.na(child_irn)) |>
+  filter(!is.na(ctpd_irn), !is.na(district_irn)) |>
   distinct()
 
 if (nrow(relationships) == 0) stop("The CTPD relationship input has no usable rows.")
@@ -268,118 +267,55 @@ unmatched_census <- anti_join(
   by = "census_school_geoid"
 )
 
-# ----- Map the current OEDS CTPD list to the supplied relationship graph -----
+# ----- Validate direct current OEDS memberships -----------------------------
 
-source_groups <- relationships |>
-  distinct(source_ctpd_irn, source_ctpd_name) |>
-  mutate(source_name_key = ctpd_name_key(source_ctpd_name))
-
-# These are intentionally few and auditable. Self-member fallbacks are used
-# only for comprehensive districts whose current OEDS name identifies a single
-# traditional district. Western Lake is mapped to the supplied Lake Shore
-# Compact hierarchy, its reviewed predecessor/successor compact relationship.
-ctpd_overrides <- tribble(
-  ~ctpd_irn, ~override_kind, ~override_irn, ~override_note,
-  "200003", "source_seed", "062042", "Heartland is the renamed Ashland Co/West Holmes CTPD in the supplied relationships",
-  "200079", "self_member", "064964", "College Corner comprehensive CTPD; current traditional district used as its sole member",
-  "022546", "self_member", "043950", "Euclid comprehensive CTPD; current traditional district used as its sole member",
-  "022548", "self_member", "045492", "Mentor comprehensive CTPD; current traditional district used as its sole member",
-  "022550", "source_seed", "200053", "Western Lake County Compact is the reviewed successor to the supplied Lake Shore Compact hierarchy",
-  "200600", "non_geographic", NA_character_, "Correctional-institution CTPD; no traditional school-district boundary",
-  "200602", "non_geographic", NA_character_, "Correctional-institution CTPD; no traditional school-district boundary"
-)
-
-direct_map <- official_ctpds |>
-  filter(ctpd_irn %in% relationships$source_ctpd_irn) |>
-  transmute(
-    ctpd_irn,
-    source_seed_irn = ctpd_irn,
-    self_member_irn = NA_character_,
-    mapping_method = "official_irn_in_source_graph",
-    mapping_note = NA_character_,
-    name_distance = 0
-  )
-
-needs_name_match <- official_ctpds |>
-  anti_join(direct_map, by = "ctpd_irn") |>
-  anti_join(ctpd_overrides, by = "ctpd_irn")
-
-name_candidates <- crossing(
-  needs_name_match |> select(ctpd_irn, official_name_key),
-  source_groups |> select(source_ctpd_irn, source_name_key)
-) |>
-  mutate(name_distance = stringdist(official_name_key, source_name_key, method = "jw", p = 0.1)) |>
-  group_by(ctpd_irn) |>
-  slice_min(name_distance, n = 1, with_ties = FALSE) |>
-  ungroup()
-
-name_map <- name_candidates |>
-  filter(name_distance <= 0.18) |>
-  transmute(
-    ctpd_irn,
-    source_seed_irn = source_ctpd_irn,
-    self_member_irn = NA_character_,
-    mapping_method = if_else(name_distance == 0, "normalized_name", "fuzzy_name_reviewed"),
-    mapping_note = NA_character_,
-    name_distance
-  )
-
-override_map <- ctpd_overrides |>
-  transmute(
-    ctpd_irn,
-    source_seed_irn = if_else(override_kind == "source_seed", override_irn, NA_character_),
-    self_member_irn = if_else(override_kind == "self_member", override_irn, NA_character_),
-    mapping_method = override_kind,
-    mapping_note = override_note,
-    name_distance = NA_real_
-  )
-
-ctpd_validation <- official_ctpds |>
-  left_join(
-    bind_rows(direct_map, name_map, override_map) |> distinct(ctpd_irn, .keep_all = TRUE),
+# The membership file is generated from the public OEDS organization and
+# relationship APIs. It already contains current official CTPD IRNs, so no
+# hierarchy traversal, fuzzy matching, or hand-coded reassignment is needed.
+member_map <- relationships |>
+  inner_join(
+    official_ctpds |> select(ctpd_irn, ctpd_name),
     by = "ctpd_irn"
   ) |>
-  mutate(
-    mapping_method = replace_na(mapping_method, "unresolved"),
-    mapping_note = if_else(
-      mapping_method == "unresolved" & is.na(mapping_note),
-      "No source-graph match met the reviewed name-distance threshold",
-      mapping_note
-    )
-  )
-
-# Directed reachability resolves one-hop lead-district links, longer chains,
-# and cycles. Any reachable node that is a current traditional district is a
-# member; the seed itself is included when it is a traditional district IRN.
-graph <- graph_from_data_frame(
-  relationships |> select(source_ctpd_irn, child_irn),
-  directed = TRUE
-)
-
-resolve_members <- function(source_seed_irn, self_member_irn) {
-  if (!is.na(self_member_irn)) return(self_member_irn)
-  if (is.na(source_seed_irn) || !(source_seed_irn %in% V(graph)$name)) return(character())
-  reachable <- subcomponent(graph, source_seed_irn, mode = "out") |> names()
-  intersect(reachable, districts$district_irn)
-}
-
-member_map <- ctpd_validation |>
-  select(ctpd_irn, ctpd_name, mapping_method, source_seed_irn, self_member_irn) |>
-  rowwise() |>
-  mutate(member_district_irn = list(resolve_members(source_seed_irn, self_member_irn))) |>
-  ungroup() |>
-  unnest_longer(member_district_irn, values_to = "district_irn") |>
-  left_join(districts |> select(district_irn, district_name, designated_county), by = "district_irn") |>
+  inner_join(
+    districts |> select(district_irn, district_name, designated_county),
+    by = "district_irn"
+  ) |>
+  transmute(
+    ctpd_irn,
+    ctpd_name,
+    mapping_method = "current_oeds_direct_relationship",
+    source_seed_irn = NA_character_,
+    self_member_irn = NA_character_,
+    district_irn,
+    district_name,
+    designated_county
+  ) |>
   distinct(ctpd_irn, district_irn, .keep_all = TRUE) |>
   arrange(ctpd_irn, district_irn)
 
 member_counts <- member_map |>
   count(ctpd_irn, name = "resolved_member_count")
 
-ctpd_validation <- ctpd_validation |>
+non_geographic_ctpds <- c("200600", "200602")
+
+ctpd_validation <- official_ctpds |>
   left_join(member_counts, by = "ctpd_irn") |>
   mutate(
     resolved_member_count = replace_na(resolved_member_count, 0L),
+    mapping_method = case_when(
+      resolved_member_count > 0 ~ "current_oeds_direct_relationship",
+      ctpd_irn %in% non_geographic_ctpds ~ "non_geographic",
+      TRUE ~ "unresolved"
+    ),
+    mapping_note = case_when(
+      ctpd_irn %in% non_geographic_ctpds ~ "Correctional-institution CTPD; no traditional school-district boundary",
+      resolved_member_count == 0 ~ "No current active traditional-district relationship returned by OEDS",
+      TRUE ~ NA_character_
+    ),
+    source_seed_irn = NA_character_,
+    self_member_irn = NA_character_,
+    name_distance = NA_real_,
     geometry_status = case_when(
       mapping_method == "non_geographic" ~ "not_applicable",
       resolved_member_count == 0 ~ "unresolved",
@@ -388,25 +324,17 @@ ctpd_validation <- ctpd_validation |>
   ) |>
   arrange(ctpd_irn)
 
-# Strongly connected components with more than one node are hierarchy cycles.
-strong_components <- components(graph, mode = "strong")
 hierarchy_cycles <- tibble(
-  node_irn = names(strong_components$membership),
-  component_id = unname(strong_components$membership)
-) |>
-  add_count(component_id, name = "component_size") |>
-  filter(component_size > 1) |>
-  left_join(
-    source_groups |> transmute(node_irn = source_ctpd_irn, source_ctpd_name),
-    by = "node_irn"
-  ) |>
-  arrange(component_id, node_irn)
+  node_irn = character(),
+  component_id = integer(),
+  component_size = integer(),
+  source_ctpd_name = character()
+)
 
-used_source_seeds <- ctpd_validation$source_seed_irn |> na.omit() |> unique()
-source_groups_not_current <- source_groups |>
-  filter(!source_ctpd_irn %in% used_source_seeds) |>
-  select(source_ctpd_irn, source_ctpd_name) |>
-  arrange(source_ctpd_irn)
+source_groups_not_current <- tibble(
+  source_ctpd_irn = character(),
+  source_ctpd_name = character()
+)
 
 # ----- CTPD boundary construction -------------------------------------------
 
@@ -551,7 +479,7 @@ district_validation_sf <- district_sf |>
 
 run_summary <- tibble(
   metric = c(
-    "relationship_rows", "source_parent_irns", "open_oeds_ctpds",
+    "relationship_rows", "source_ctpd_irns", "open_oeds_ctpds",
     "resolved_geographic_ctpds", "unresolved_geographic_ctpds",
     "non_geographic_ctpds", "open_traditional_districts",
     "districts_matched_to_census", "districts_unassigned_to_ctpd",
@@ -561,7 +489,7 @@ run_summary <- tibble(
     "hierarchy_cycle_nodes"
   ),
   value = c(
-    nrow(relationships), n_distinct(relationships$source_ctpd_irn), nrow(official_ctpds),
+    nrow(relationships), n_distinct(relationships$ctpd_irn), nrow(official_ctpds),
     sum(ctpd_validation$geometry_status == "resolved"),
     sum(ctpd_validation$geometry_status == "unresolved"),
     sum(ctpd_validation$geometry_status == "not_applicable"),
@@ -617,7 +545,7 @@ validation_plot <- ggplot() +
       "Current OEDS snapshot: 2026-10-06."
     ),
     fill = "District membership",
-    caption = "Sources: Ohio OEDS; supplied ohio_ctpd_updated.csv; U.S. Census Bureau 2025 school districts."
+    caption = "Sources: Ohio OEDS public organization and relationship data; U.S. Census Bureau 2025 school districts."
   ) +
   theme_void(base_size = 11) +
   theme(
@@ -676,7 +604,7 @@ report_lines <- c(
   paste0("- Many-to-many crosswalk rows: ", summary_lookup[["many_to_many_crosswalk_rows"]]),
   paste0("- ZCTAs without a primary CTPD: ", summary_lookup[["zctas_without_ctpd"]]),
   paste0("- ZCTAs below 99% total resolved coverage: ", summary_lookup[["zctas_below_99pct_total_coverage"]]),
-  paste0("- ZCTAs above 101% total overlap (hierarchical/overlapping CTPDs): ", summary_lookup[["zctas_above_101pct_total_overlap"]]),
+  paste0("- ZCTAs above 101% total overlap (boundary overlap review): ", summary_lookup[["zctas_above_101pct_total_overlap"]]),
   "",
   "## Automated checks",
   "",
@@ -685,7 +613,7 @@ report_lines <- c(
   "## Important interpretation notes",
   "",
   "- IRNs are stored as six-character strings with leading zeros.",
-  "- CTPD membership is resolved by directed graph reachability, so lead-district chains and cycles are retained and diagnosed.",
+  "- CTPD membership comes directly from current active OEDS CTPD-to-traditional-district relationships.",
   "- Area shares use Ohio-clipped ZCTA area in NAD83 / Conus Albers (EPSG:5070).",
   "- The latest Census cartographic-boundary ZCTA vintage is 2020; school-district and county geometry is 2025.",
   "- OEDS records 200600 and 200602 are correctional/non-geographic and are not assigned traditional-district boundaries.",
